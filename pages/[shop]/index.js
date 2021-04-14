@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 
@@ -8,7 +9,11 @@ import { firebaseConfig } from "./../../firebaseConfig"
 export default function Index({ data }) {
     const router = useRouter();
     const { shop } = router.query;
-    const { img, coupons } = data;
+    const { name, img, itemsMini, itemsBig } = data;
+
+    useEffect(() => {
+        document.title = name || "Sem título"
+    }, [])
 
     return (
       <div style={{ padding: "20px" }}>
@@ -18,10 +23,10 @@ export default function Index({ data }) {
 
             <div style={{ display: "grid", gridTemplateColumns: "2fr 1fr", columnGap: "1rem" }}>
                 <div>
-                    {coupons && coupons.length > 0 && coupons.map((item, index) => (
-                        <div key={index} style={{ position: "relative", padding: "2rem", border: "1px solid #CCC", marginBottom: "1rem", display: "flex", alignItems: "center", }}>
+                    {itemsMini && itemsMini.length > 0 && itemsMini.map(item => (
+                        <div key={item.id} style={{ position: "relative", padding: "2rem", border: "1px solid #CCC", marginBottom: "1rem", display: "flex", alignItems: "center", }}>
                             {item.label && (
-                                <div style={{ position: "absolute", top: 0, left: 0, backgroundColor: "#089adc", color: "#FFF", padding: "10px" }}>{item.label}</div>
+                                <div style={{ position: "absolute", top: 0, left: 0, backgroundColor: "orange", color: "#FFF", padding: "10px" }}>{item.label}</div>
                             )}
 
                             <img src={img}  width="120" height="60" />
@@ -32,13 +37,9 @@ export default function Index({ data }) {
                             </div>
                             
                             <div>
-                                {item.slug && (
-                                    <>
-                                        <span style={{ backgroundColor: "#00d200", color: "#FFF" }}>
-                                            <Link href={`/open/${shop}/coupons/${item.slug}`}>Ver oferta</Link>
-                                        </span><br/>
-                                    </>
-                                )}
+                                <span style={{ backgroundColor: "#00d200", color: "#FFF" }}>
+                                    <Link href={`/open/${shop}/coupons/${item.id}`}>Ver oferta</Link>
+                                </span><br/>
                                 <small style={{ color: "#CCC" }}>Cód. oculto: {item.code}</small>
                             </div>
                         </div>
@@ -46,11 +47,11 @@ export default function Index({ data }) {
                 </div>
                 
                 <div>
-                    {coupons && coupons.length > 0 && coupons.filter(item => item.featured).map((item, index) => (
-                        <div key={index} style={{ border: "1px solid #CCC", marginBottom: "1rem", display: "flex", flexDirection: "column", alignItems: "center" }}>
+                    {itemsBig && itemsBig.length > 0 && itemsBig.map(item => (
+                        <div key={item.id} style={{ border: "1px solid #CCC", marginBottom: "1rem", display: "flex", flexDirection: "column", alignItems: "center" }}>
                             <img src={img} width="120" height="60" />
 
-                            <div style={{ backgroundColor: "#005dbf", color: "#FFF", width: "100%", padding: "1rem", display: "flex", flexDirection: "column", alignItems: "center" }}>
+                            <div style={{ backgroundColor: "orange", color: "#FFF", width: "100%", padding: "1rem", display: "flex", flexDirection: "column", alignItems: "center" }}>
                                 {item.label && (
                                     <div style={{ textAlign: "center", marginBottom: "1rem" }}>
                                         <span>{item.title}</span>
@@ -64,13 +65,11 @@ export default function Index({ data }) {
                                     </div>
                                 )}
 
-                                {item.slug && (
-                                    <span style={{ backgroundColor: "#00d200", color: "#FFF", marginBottom: ".25rem" }}>
-                                        <Link href={`/open/${shop}/coupons/${item.slug}`}>Ver oferta</Link>
-                                    </span>
-                                )}
+                                <span style={{ backgroundColor: "#00d200", color: "#FFF", marginBottom: ".25rem" }}>
+                                    <Link href={`/open/${shop}/coupons/${item.id}`}>Ver oferta</Link>
+                                </span>
 
-                                <small style={{ color: "#CCC" }}>Cód. oculto: {item.code}</small>
+                                <small>Cód. oculto: {item.code}</small>
                             </div>
                         </div>
                     ))}
@@ -87,37 +86,42 @@ export const getServerSideProps = async (props) => {
     const db = firebase.firestore();
     const { shop } = props.params;
 
-    const response = await db.doc(`shops/${shop}`).get();
+    try {
+        const responseShop = await db.doc(`shops/${shop}`).get();
+        const responseItemsMini = await db.collection(`shops/${shop}/items`).where("orderMini", "!=", null).orderBy("orderMini").get();
+        const responseItemsBig = await db.collection(`shops/${shop}/items`).where("orderBig", "!=", null).orderBy("orderBig").get();
 
-    return {
-        props: {
-            data: {
-                ...response.data(),
-                coupons: [
-                    {
-                        label: "10%",
-                        title: "10% OFF Extra em Nike (destacada)",
-                        rules: "10% OFF Extra em Nike",
-                        code: "NIKE10",
-                        slug: "10-off-extra-em-nike",
-                        featured: true
-                    },
-                    {
-                        title: "10% OFF Extra em Nike (destacada 2)",
-                        rules: "10% OFF Extra em Nike",
-                        code: "NIKE10",
-                        slug: "10-off-extra-em-nike",
-                        featured: true
-                    },
-                    {
-                        label: "10%",
-                        title: "10% OFF Extra em Nike",
-                        rules: "10% OFF Extra em Nike",
-                        code: "NIKE10",
-                        slug: "10-off-extra-em-nike",
-                        featured: false
-                    }
-                ]
+        const itemsMini = []
+        responseItemsMini.forEach(async item => {
+            itemsMini.push({
+                id: item.id,
+                ...item.data()
+            })
+        })
+
+        const itemsBig = []
+        responseItemsBig.forEach(async item => {
+            itemsBig.push({
+                id: item.id,
+                ...item.data()
+            })
+        })
+
+        return {
+            props: {
+                data: {
+                    ...responseShop.data(),
+                    itemsMini,
+                    itemsBig
+                }
+            }
+        }
+    } catch (error){
+        console.log(error)
+
+        return {
+            props: {
+                data: {}
             }
         }
     }
