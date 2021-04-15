@@ -1,0 +1,11 @@
+ style="padding: 40px;">
+ />
+
+ class="img-responsive m-0-auto m-h-12">
+ class="img-responsive m-0-auto m-h-12" />
+
+ class="img-responsive m-0-auto">
+ class="img-responsive m-0-auto" />
+
+ style="background-color: #005dbf">
+>
