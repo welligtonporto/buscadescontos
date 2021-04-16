@@ -86,3 +86,8 @@ section.offer-track.relative-fixed-on-scroll .offer-track-content .img-offer-tra
 .redirect-page + footer {
   display: none;
 }
+
+.copyCode {
+  background: transparent;
+  border: 0;
+}
