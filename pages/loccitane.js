@@ -11,7 +11,7 @@ export default function Index() {
     <meta property="og:title" content="LOccitane. Cupom de Desconto LOccitane. Ofertas LOccitane." />
     <meta property="og:description" content="DESCONTOS LOccitane. Aproveite as Ofertas e Cupom De Desconto LOccitane. Confira o OUTLET LOccitane." />
     <meta property="og:url" content="https://www.buscadescontos.com.br/loccitane" />
-    <meta property="og:image" content="_____img" />
+    <meta property="og:image" content="http://ui.zanox.com/images/programs/13426/13426_lgo_loccitane_br.png" />
 
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="649" />

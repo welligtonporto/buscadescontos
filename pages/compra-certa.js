@@ -4,14 +4,14 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Marisa Descontos Cupons de Descontos Marisa Ofertas Cupom de Descontos</title>
-        <meta name="description" content="Quer ficar bonita e economizar? Aproveite os cupons de descontos da Marisa faça economia. Clique agora e aproveite todas nossas ofertas especiais." />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/marisa" />
+        <title>Compra Certa. Cupom de Desconto Compra Certa. Ofertas Compra Certa.</title>
+        <meta name="description" content="DESCONTOS Compra Certa. Aproveite as Ofertas e Cupom De Desconto Compra Certa. Confira o OUTLET Compra Certa." />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/compra-certa" />
 
-        <meta property="og:title" content="Marisa Descontos Cupons de Descontos Marisa Ofertas Cupom de Descontos" />
-        <meta property="og:description" content="Quer ficar bonita e economizar? Aproveite os cupons de descontos da Marisa faça economia. Clique agora e aproveite todas nossas ofertas especiais." />
-        <meta property="og:url" content="https://www.buscadescontos.com.br/marisa" />
-        <meta property="og:image" content="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" />
+        <meta property="og:title" content="Compra Certa. Cupom de Desconto Compra Certa. Ofertas Compra Certa." />
+        <meta property="og:description" content="DESCONTOS Compra Certa. Aproveite as Ofertas e Cupom De Desconto Compra Certa. Confira o OUTLET Compra Certa." />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/compra-certa" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />
@@ -29,7 +29,7 @@ export default function Index() {
         <div class="bg-category border-pad">
             <div class="row flex-bg-category">
                 <div class="col-md-5">
-                                    <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Marisa " class="img-responsive m-0-auto" />
+                                    <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="Compra Certa " class="img-responsive m-0-auto" />
                                 </div>
                 <div class="col-md-7">
                     <div class="row">
@@ -52,199 +52,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Botas Femininas(exceto Via Marte)" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  600,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF Botas Femininas(exceto Via Marte)</h2>  
+                                                                <h2>R$  600,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Botas Femininas (exceto Via marte)</p>
+                                <p><b>Regras: </b>R$  600,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-botas-femininasexceto-via-marte" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-60000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOTAS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    40%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="40% OFF em jeans" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>40% OFF em jeans</h2>  
-                                                                   
-                                <p><b>Regras: </b>40% OFF em jeans</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS40</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    25%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF em bolsas" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>25% OFF em bolsas</h2>  
-                                                                   
-                                <p><b>Regras: </b>25% OFF em bolsas</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS25</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Plus Size acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Plus Size acima de R$ 100</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Plus Size nas compras acima de R$ 100,00 (nessa listagem)</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PLUS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 180" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 180</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF site todo nas compras acima de R$ 180,00
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label"> SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Plus Size acima de R$ 100 do link" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Plus Size acima de R$ 100 do link</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Plus Size nas compras acima de R$ 100,00 (nessa listagem)</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100-do-link" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PLUS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    25%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF nas compras acima de 250,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>25% OFF nas compras acima de 250,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>25% OFF nas compras acima de 250,00
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-nas-compras-acima-de-25000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE25</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF no site acima de R$ 180" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF no site acima de R$ 180</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF site todo nas compras acima de R$ 180
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-no-site-acima-de-r180" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CONSUMIDORA20</span>
+                                        <span class="txt-label">GANHOU600</span>
                                     </a>
                                 </div>
                             </div>
@@ -257,219 +78,18 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Ganhe R$ 50,00 nas compras acima de R$ 200" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  150,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Ganhe R$ 50,00 nas compras acima de R$ 200</h2>  
+                                                                <h2>R$  150,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>Ganhe R$ 50,00 nas compras acima de R$ 200,00
-</p>
+                                <p><b>Regras: </b>R$  150,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CONSUMIDORA50</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    15%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>15% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>15% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO15</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    30%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>30% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO30</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 180,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 180,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em todo o site nas compras acima de R$ 180,00.</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF para compras acima de R$ 250,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF para compras acima de R$ 250,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% site todo para compras acima de R$ 250,00</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-para-compras-acima-de-r25000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF Bolsas e Mochilas da landing" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF Bolsas e Mochilas da landing</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Bolsas e Mochilas (produtos selecionados).</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-bolsas-e-mochilas-da-landing" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Calçados Masculinos da Diadora" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Calçados Masculinos da Diadora</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% nos Calçados Masculinos da Marca Diadora</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-calados-masculinos-da-diadora" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">DIADORA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados masculinos da Mormaii" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em calçados masculinos da Mormaii</h2>  
-                                                                   
-                                <p><b>Regras: </b>20%OFF em calçados masculinos da marca Mormaii</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-masculinos-da-mormaii" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MORMAII20</span>
+                                        <span class="txt-label">GANHOU150</span>
                                     </a>
                                 </div>
                             </div>
@@ -482,93 +102,18 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Ganhe R$ 50,00 nas compras acima de R$ 250" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  200,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Ganhe R$ 50,00 nas compras acima de R$ 250</h2>  
+                                                                <h2>R$  200,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>Ganhe R$ 50,00 nas compras acima de R$ 250,00</p>
+                                <p><b>Regras: </b>R$  200,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-20000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NATAL50</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    30%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30%OFF em produtos da landing page" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>30%OFF em produtos da landing page</h2>  
-                                                                   
-                                <p><b>Regras: </b>30%OFF em produtos da landing page</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-em-produtos-da-landing-page" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN30</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    30%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30%OFF somente nos produtos da landing " class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>30%OFF somente nos produtos da landing </h2>  
-                                                                   
-                                <p><b>Regras: </b>30%OFF somente nos produtos da landing page</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-somente-nos-produtos-da-landing" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN30BF</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    5%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="5% OFF nas compras cima de R$ 159" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>5% OFF nas compras cima de R$ 159</h2>  
-                                                                   
-                                <p><b>Regras: </b>5% OFF nas compras cima de R$ 159 (válido para todo o site)</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MARABRAZ5OFF</span>
+                                        <span class="txt-label">GANHOU200</span>
                                     </a>
                                 </div>
                             </div>
@@ -581,18 +126,18 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="R$ 20 OFF nos produtos da vitrine" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  300,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>R$ 20 OFF nos produtos da vitrine</h2>  
+                                                                <h2>R$  300,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b> R$ 20 OFF somente nos produtos da vitrine - sem valor mínimo</p>
+                                <p><b>Regras: </b>R$  300,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/r20-off-nos-produtos-da-vitrine" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BLACK20</span>
+                                        <span class="txt-label">GANHOU300</span>
                                     </a>
                                 </div>
                             </div>
@@ -603,21 +148,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 200" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  400,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 200</h2>  
+                                                                <h2>R$  400,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF Site todo nas compras acima de R$ 200,00</p>
+                                <p><b>Regras: </b>R$  400,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
+                                        <span class="txt-label">GANHOU400</span>
                                     </a>
                                 </div>
                             </div>
@@ -628,21 +172,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Moda Infantil acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  100,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF Moda Infantil acima de R$ 100</h2>  
+                                                                <h2>R$  100,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>20% off em Moda Infantil para compras acima de 100</p>
+                                <p><b>Regras: </b>R$  100,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-moda-infantil-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INFANTIL20</span>
+                                        <span class="txt-label">GANHOU100</span>
                                     </a>
                                 </div>
                             </div>
@@ -653,21 +196,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em Moda Praia acimade R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  50,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em Moda Praia acimade R$ 100</h2>  
+                                                                <h2>R$  50,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Moda Praia para compras acima de 100</p>
+                                <p><b>Regras: </b>R$  50,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-moda-praia-acimade-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PRAIA20</span>
+                                        <span class="txt-label">GANHOU50</span>
                                     </a>
                                 </div>
                             </div>
@@ -678,21 +220,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados F. acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  80,00 OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em calçados F. acima de R$ 100</h2>  
+                                                                <h2>R$  80,00 OFF em produtos selecionados</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Calçados Femininos nas compras acima de R$ 100,00</p>
+                                <p><b>Regras: </b>R$  80,00 OFF em produtos selecionados</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CALCADOS20</span>
+                                        <span class="txt-label">GANHOU80</span>
                                     </a>
                                 </div>
                             </div>
@@ -703,22 +244,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF  em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 300OFF GeladBrastFrostFreeInv 443L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF  em produtos selecionados</h2>  
+                                                                <h2>R$ 300OFF GeladBrastFrostFreeInv 443L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF  em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300off-geladbrastfrostfreeinv-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE20</span>
+                                        <span class="txt-label">QUEIMA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -729,22 +268,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados&nbsp;" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200OFF GeladBrastFrostFreeSideInv 540L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados&nbsp;</h2>  
+                                                                <h2>R$ 200OFF GeladBrastFrostFreeSideInv 540L</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados&nbsp;
-</p>
+                                <p><b>Regras: </b>R$ 200 OFF em Geladeira Brastemp Frost Free Side Inverse 540 litros cor Inox com Ice Maker.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreesideinv-540l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE30</span>
+                                        <span class="txt-label">QUEIMA200</span>
                                     </a>
                                 </div>
                             </div>
@@ -755,22 +292,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 400 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 400 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$  400 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE20</span>
+                                        <span class="txt-label">PAIZAO400</span>
                                     </a>
                                 </div>
                             </div>
@@ -781,22 +316,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em calçados masculinos" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 600 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em calçados masculinos</h2>  
+                                                                <h2>R$ 600 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em calçados masculinos
-</p>
+                                <p><b>Regras: </b>R$  600 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CALCADOS30</span>
+                                        <span class="txt-label">PAIZAO600</span>
                                     </a>
                                 </div>
                             </div>
@@ -807,22 +340,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em jeans da seleção" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em jeans da seleção</h2>  
+                                                                <h2>R$ 150 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em jeans da seleção
-</p>
+                                <p><b>Regras: </b>R$  150 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS30</span>
+                                        <span class="txt-label">PAIZAO150</span>
                                     </a>
                                 </div>
                             </div>
@@ -833,22 +364,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 200 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$  200 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE30</span>
+                                        <span class="txt-label">PAIZAO200</span>
                                     </a>
                                 </div>
                             </div>
@@ -859,22 +388,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em bolsas e mochilas " class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 300 OFF Produtos selecionados do Link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em bolsas e mochilas </h2>  
+                                                                <h2>R$ 300 OFF Produtos selecionados do Link</h2>  
                                                                    
-                                <p><b>Regras: </b>20%OFF em bolsas e mochilas 
-</p>
+                                <p><b>Regras: </b>R$  300 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">PAIZAO300</span>
                                     </a>
                                 </div>
                             </div>
@@ -885,22 +412,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$ 100 ganhe 20%OFF na landing" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 80OFF em produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Acima de R$ 100 ganhe 20%OFF na landing</h2>  
+                                                                <h2>R$ 80OFF em produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em jeans feminino para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$  80 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80off-em-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">PAIZAO80</span>
                                     </a>
                                 </div>
                             </div>
@@ -911,22 +436,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$ 100 ganhe 20%OFF na landing" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100 OFF produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Acima de R$ 100 ganhe 20%OFF na landing</h2>  
+                                                                <h2>R$ 100 OFF produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos do Inverno para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$  100 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INVERNO20</span>
+                                        <span class="txt-label">PAIZAO100</span>
                                     </a>
                                 </div>
                             </div>
@@ -937,22 +460,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em bolsas e mochilas" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50OFF em produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em bolsas e mochilas</h2>  
+                                                                <h2>R$ 50OFF em produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em bolsas e mochilas
-</p>
+                                <p><b>Regras: </b>R$  50 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-em-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">PAIZAO50</span>
                                     </a>
                                 </div>
                             </div>
@@ -963,22 +484,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 100-Inverno" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 2.790 OFF Smart TV 75" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 100-Inverno</h2>  
+                                                                <h2>R$ 2.790 OFF Smart TV 75" LED 4K UHD HDR</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF nas compras acima de R$ 100 - Inverno
-</p>
+                                <p><b>Regras: </b>R$  2.790 OFF em Smart TV 75" LED 4K UHD HDR AndroidTV XBR-75X955G.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r100-inverno" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r2790-off-smart-tv-75-led-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INVERNO20</span>
+                                        <span class="txt-label">SONY2790</span>
                                     </a>
                                 </div>
                             </div>
@@ -989,22 +508,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em jeans feminino acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 1.980 OFF Smart TV 65" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em jeans feminino acima de R$ 100</h2>  
+                                                                <h2>R$ 1.980 OFF Smart TV 65" OLED 4K UHD HDR</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em jeans feminino para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$ 1.980OFF em Smart TV 65" OLED 4K UHD HDR Android TV XBR-65A9G.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r1980-off-smart-tv-65-oled-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">SONY1980</span>
                                     </a>
                                 </div>
                             </div>
@@ -1015,22 +532,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="10% OFF para a primeira compra" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 9.600 OFF Smart TV 85" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF para a primeira compra</h2>  
+                                                                <h2>R$ 9.600 OFF Smart TV 85" LED 4K UHD HDR</h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF para a primeira compra
-</p>
+                                <p><b>Regras: </b>R$  9.600 OFF em Smart TV 85" LED 4K UHD HDR AndroidTV XBR-85X955G.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r9600-off-smart-tv-85-led-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BEMVINDO10</span>
+                                        <span class="txt-label">SONY9600</span>
                                     </a>
                                 </div>
                             </div>
@@ -1041,22 +556,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Mormaii" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 800 OFF Smart TV 75" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos Mormaii</h2>  
+                                                                <h2>R$ 800 OFF Smart TV 75" LED 4K HDR</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos Mormaii
-</p>
+                                <p><b>Regras: </b>R$  800 OFF em Smart TV 75" LED 4K HDR AndroidTV XBR-75X805G.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-mormaii" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r800-off-smart-tv-75-led-4k-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MORMAII20</span>
+                                        <span class="txt-label">SONY800</span>
                                     </a>
                                 </div>
                             </div>
@@ -1067,22 +580,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Diadora" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200OFF GeladBrastFrostFreeInverse 443L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos Diadora</h2>  
+                                                                <h2>R$ 200OFF GeladBrastFrostFreeInverse 443L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos Diadora
-</p>
+                                <p><b>Regras: </b>R$ 200 OFF em Geladeira Brastemp Frost Free Inverse 443 litros Branca com Turbo Ice + 5% Off à vist</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">DIADORA20</span>
+                                        <span class="txt-label">QUEIMA200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1093,22 +604,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    25%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF na lista selecionada" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200OFF GeladBrastFrostFreeInverse 443L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>25% OFF na lista selecionada</h2>  
+                                                                <h2>R$ 200OFF GeladBrastFrostFreeInverse 443L</h2>  
                                                                    
-                                <p><b>Regras: </b>25% OFF na lista selecionada
-</p>
+                                <p><b>Regras: </b>R$ 200 OFF em Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice + 5% Off à vi</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-na-lista-selecionada" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SEMANADOBRASIL25&nbsp;&nbsp;</span>
+                                        <span class="txt-label">QUEIMA200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1119,22 +628,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Bolsas e Mochilas" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 80OFF AdegaBrast12GarrafasPainelTouch*" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Bolsas e Mochilas</h2>  
+                                                                <h2>R$ 80OFF AdegaBrast12GarrafasPainelTouch*</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Bolsas e Mochilas
-</p>
+                                <p><b>Regras: </b>R$ 80 OFF em Adega Brastemp 12 Garrafas com painel touch + 5% Off à vista + Parcelamento até 6x s/</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80off-adegabrast12garrafaspaineltouch" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">QUEIMA80</span>
                                     </a>
                                 </div>
                             </div>
@@ -1145,21 +652,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="10% OFF para a primeira compra" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150OFF GeladBrastFrostFreeInverse 573L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF para a primeira compra</h2>  
+                                                                <h2>R$ 150OFF GeladBrastFrostFreeInverse 573L</h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF para a primeira compra</p>
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Inverse 573 litros cor Inox com Smart Bar + 5% Off à vi</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-geladbrastfrostfreeinverse-573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BEMVINDO10</span>
+                                        <span class="txt-label">QUEIMA150</span>
                                     </a>
                                 </div>
                             </div>
@@ -1170,21 +676,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF na nova coleção Marisa" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200OFFCooktop5BocasBrastComQuadrichama" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF na nova coleção Marisa</h2>  
+                                                                <h2>R$ 200OFFCooktop5BocasBrastComQuadrichama</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF na nova coleção Marisa</p>
+                                <p><b>Regras: </b>R$ 200 OFF em Cooktop 5 bocas Brastemp com Quadrichama e Timer Touch Bivolt + Parcelamento até 12x </p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200offcooktop5bocasbrastcomquadrichama" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NIVERSITE20</span>
+                                        <span class="txt-label">QUEIMA200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1195,21 +700,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 400 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 400 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados</p>
+                                <p><b>Regras: </b>R$  400 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN20</span>
+                                        <span class="txt-label">PAIZAO400</span>
                                     </a>
                                 </div>
                             </div>
@@ -1220,22 +724,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Jeans já com aé 60% OFF" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 600 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Jeans já com aé 60% OFF</h2>  
+                                                                <h2>R$ 600 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Jeans já com aé 60% OFF. Válido em compras acima de R$  100
-</p>
+                                <p><b>Regras: </b>R$  600 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-jeans-j-com-a-60-off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">PAIZAO600</span>
                                     </a>
                                 </div>
                             </div>
@@ -1246,22 +748,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    15%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 300 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>15% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 300 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>15% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$  300 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO15&nbsp;</span>
+                                        <span class="txt-label">PAIZAO300</span>
                                     </a>
                                 </div>
                             </div>
@@ -1272,21 +772,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 200 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 200 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados</p>
+                                <p><b>Regras: </b>R$  200 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO30</span>
+                                        <span class="txt-label">PAIZAO200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1297,22 +796,452 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 100 OFF Produtos selecionados do link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$  100 Off nos produtos selecionados do link.</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO20</span>
+                                        <span class="txt-label">PAIZAO100</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150 OFF Produtos selecionados do link</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  150 Off nos produtos selecionados do link</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">PAIZAO150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 50 OFF Produtos selecionados do link</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 50 OFF nos produtos selecionados do link.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50-off-produtos-selecionados-do-link" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">PAIZAO50</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 80 OFF Produtos selecionados do link" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 80 OFF Produtos selecionados do link</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  80 OFF nos produtos selecionados do link.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80-off-produtos-selecionados-do-link" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">PAIZAO80</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100OFF GeladConsulFrostFreeDuplex 397L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 100OFF GeladConsulFrostFreeDuplex 397L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 100 OFF em Geladeira Consul Frost Free Duplex 397 litros Evox com freezer embaixo</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU100</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  500,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  500,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  500,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU500</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  100,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  100,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  100,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU100</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  150,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  150,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  150,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  300,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  300,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  300,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU300</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  400,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  400,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  400,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU400</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  50,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  50,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  50,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU50</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  80,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  80,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  80,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU80</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$  80,00 OFF em produtos selecionados." class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  80,00 OFF em produtos selecionados.</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  80,00 OFF em produtos selecionados.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU80</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150OFF NasBatedeiraDaMarcaKitchenAid" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFF NasBatedeiraDaMarcaKitchenAid</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF nas Batedeiras da marca KitchenAid.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">kad150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150OFF NasBatedeiraDaMarcaKitchenAid" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFF NasBatedeiraDaMarcaKitchenAid</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF nas Batedeiras da marca KitchenAid.</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">kad150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 150OFF GeladBrastFrostFreeDuplex 400L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFF GeladBrastFrostFreeDuplex 400L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Duplex 400 litros cor Inox com Freeze Control</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-geladbrastfrostfreeduplex-400l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100OFF GeladConsulFrostFreeDuplex 397L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 100OFF GeladConsulFrostFreeDuplex 397L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 100 OFF em Geladeira Consul Frost Free Duplex 397 litros Evox com freezer embaixo</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU100</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50OFF MáquinaDeLavarConsul 14Kg Branca" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 50OFF MáquinaDeLavarConsul 14Kg Branca</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 50 OFF em Máquina de Lavar Consul 14Kg branca com Dosagem Extra Econômica e Ciclo Edredom</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-mquinadelavarconsul-14kg-branca" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU50</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100OFF GeladConsulFrostFreeDuplex 441L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 100OFF GeladConsulFrostFreeDuplex 441L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 100 OFF em Geladeira Consul Frost Free Duplex 441 litros Branca com Filtro Bem Estar</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-441l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">GANHOU100</span>
                                     </a>
                                 </div>
                             </div>
@@ -1323,503 +1252,19 @@ export default function Index() {
         </div>           
          
         <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em jeans feminino acima de R$100" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r75-para-ar-condicionado-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$75 para ar condicionado selecionados" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>20%OFF em jeans feminino acima de R$100</h3>
-                    <h1>20%</h1>
+                                        <h3 class="m-b-20">R$75 para ar condicionado selecionados</h3>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r75-para-ar-condicionado-selecionados" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em compras acima de R$180</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label"> SITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em calçados masculinos" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em calçados masculinos</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CALCADOS30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF bolsas e mochilas com até 50%OFF" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF bolsas e mochilas com até 50%OFF</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em jeans da seleção" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em jeans da seleção</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF em bolsas" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>25% OFF em bolsas</h3>
-                    <h1>25%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS25</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em produtos selecionados</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF na nova coleção Marisa" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF na nova coleção Marisa</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">NIVERSITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Diadora" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos Diadora</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">DIADORA20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados F. acima de R$100" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em calçados F. acima de R$100</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CALCADOS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados&nbsp;" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em produtos selecionados&nbsp;</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180,00" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em compras acima de R$180,00</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">SITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="5% OFF nas compras cima de R$159" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>5% OFF nas compras cima de R$159</h3>
-                    <h1>5%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">MARABRAZ5OFF</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$100 ganhe 20%OFF na landing" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>Acima de R$100 ganhe 20%OFF na landing</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF na landing" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>15% OFF na landing</h3>
-                    <h1>15%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">LIQUIDA15</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Bolsas e mochilas com até 40%" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em Bolsas e mochilas com até 40%</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF  em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF  em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Tênis acima de R$ 200" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em Tênis acima de R$ 200</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">TENIS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="40% OFF em jeans" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>40% OFF em jeans</h3>
-                    <h1>40%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS40</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos de inverno" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos de inverno</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">INVERNO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>15% OFF em produtos selecionados</h3>
-                    <h1>15%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO15</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE20</span>
+                            <span class="txt-label">ZANOXHIPER50CC_AN50</span>
                         </a>
                     </div>                            
                                     </div>
@@ -1829,17 +1274,477 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="R$ 30 OFF em produtos selecionados" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-100-off-nos-produtos-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100 OFF nos produtos do link" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3 class="m-b-20">R$ 30 OFF em produtos selecionados</h3>
+                                        <h3 class="m-b-20">R$ 100 OFF nos produtos do link</h3>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-100-off-nos-produtos-do-link" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE300F</span>
+                            <span class="txt-label">GANHEI100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 400,00 OFF em produtos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 400,00 OFF em produtos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU400</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-nas-compras-acima-de-r1299">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50 OFF nas compras acima de R$1299" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 50 OFF nas compras acima de R$1299</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-nas-compras-acima-de-r1299" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINMEGA50CC_AN50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-batedeiras-kitchenaid-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$200 OFF Batedeiras KitchenAid do link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF Batedeiras KitchenAid do link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-batedeiras-kitchenaid-do-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">BATEDEIRA200</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/frete-grtis-geladeiras">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="Frete grátis geladeiras" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">Frete grátis geladeiras</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/frete-grtis-geladeiras" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">LANCAMENTO150</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-fogo">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100,00 OFF em fogão" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 100,00 OFF em fogão</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-fogo" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PISO100CCAWIN_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-em-geladeiras-acima-de-r2999">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$100 OFF em geladeiras acima de R$2.999" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF em geladeiras acima de R$2.999</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-em-geladeiras-acima-de-r2999" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">REFRI100CCAWIN_AN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-60000-off-em-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 600,00 OFF em produtos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 600,00 OFF em produtos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-60000-off-em-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU600</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-em-mquinas-de-lavar">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50 OFF em máquinas de lavar" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 50 OFF em máquinas de lavar</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-em-mquinas-de-lavar" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">ROUPALIMPA50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r75-para-fornos-de-embutir">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$75 para fornos de embutir" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$75 para fornos de embutir</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r75-para-fornos-de-embutir" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINEMBUTIR75CC_AN75</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-para-refris-lanamentos-selecionad">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$150 para refris lançamentos selecionad" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$150 para refris lançamentos selecionad</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-para-refris-lanamentos-selecionad" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINLANCA150CC_AN150</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50,00 OFF em produtos selecionados." class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 50,00 OFF em produtos selecionados.</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-cooktop5bocasbrastcomquadrichama">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$50OFF Cooktop5BocasBrastcomquadrichama" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50OFF Cooktop5BocasBrastcomquadrichama</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-cooktop5bocasbrastcomquadrichama" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r5000-off-nas-compras-acima-de-r1299">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$50,00 OFF Nas compras acima de R$1299" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50,00 OFF Nas compras acima de R$1299</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r5000-off-nas-compras-acima-de-r1299" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PRIMEIRA50CC</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-100-off-nos-produtos-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 100 Off nos produtos do link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 100 Off nos produtos do link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-100-off-nos-produtos-do-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">TOMA100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$150 OFF Produtos selecionados do link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$150 OFF Produtos selecionados do link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PAIZAO150</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-para-foges-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$100 OFF para fogões selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF para fogões selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-para-foges-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINFOG100CC_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-nos-produtos-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50 off nos produtos do link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 50 off nos produtos do link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-nos-produtos-do-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">TOMA50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-em-produtos-selecionados-do-link">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$50OFF em produtos selecionados do link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50OFF em produtos selecionados do link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-em-produtos-selecionados-do-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PAIZAO50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-em-foges">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$ 50 OFF em fogões" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 50 OFF em fogões</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50-off-em-foges" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">FOGAO50&nbsp;</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300off-smarttv-55led-4k-uhd-hdrsmart">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$300OFF SmartTV 55" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$300OFF SmartTV 55"LED 4K UHD HDRSmart </h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300off-smarttv-55led-4k-uhd-hdrsmart" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">QUERO300</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-em-itens-da-seleo">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$200 OFF em itens da seleção" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF em itens da seleção</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-em-itens-da-seleo" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHEI200</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-nos-produtos-da-pgina">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$200 OFF nos produtos da página" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF nos produtos da página</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-nos-produtos-da-pgina" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PROMO200&nbsp;</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-nas-compras-acima-de-r1699">
+                        <img src="http://ui.zanox.com/images/programs/18598/18598_lgo_compra_certa_br.png" alt="R$200 OFF Nas compras acima de R$1699" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF Nas compras acima de R$1699</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-nas-compras-acima-de-r1699" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">PRIMEIRACOMPRA200CC</span>
                         </a>
                     </div>                            
                                     </div>

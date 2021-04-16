@@ -11,7 +11,7 @@ export default function Index() {
         <meta property="og:title" content="Promoção de perfumes e maquiagens da loja Sephora - Sephora - Busca Descontos" />
         <meta property="og:description" content="Clique aqui e confira as melhores ofertas em maquiagem, perfumes femininos e masculinos e outros cosméticos da loja Sephora!" />
         <meta property="og:url" content="https://www.buscadescontos.com.br/sephora" />
-        <meta property="og:image" content="_____img" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/15316/15316_lgo_sephora_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />

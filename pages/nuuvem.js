@@ -11,7 +11,7 @@ export default function Index() {
         <meta property="og:title" content="Nuuvem" />
         <meta property="og:description" content="Nuuvem é uma nova forma de conectar você digitalmente ao mundo dos games. Com ela você vai descobrir, comprar e guardar seus games na nuvem." />
         <meta property="og:url" content="https://www.buscadescontos.com.br/nuuvem" />
-        <meta property="og:image" content="_____img" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/17791/17791_lgo_nuuvem_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />

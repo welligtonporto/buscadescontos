@@ -4,14 +4,14 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>C&C</title>
-        <meta name="description" content="" />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/cc" />
+        <title>Aproveite as ofertas da loja Fastshop . Descontos imperdíveis!</title>
+        <meta name="description" content="Aproveite as ofertas da loja Fastshop . Descontos imperdíveis!" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/fastshop" />
 
         <meta property="og:title" content="Desconto e Cupons Desconto Grátis é no Busca Descontos" />
-        <meta property="og:description" content="Desconto, Oferta e Cupom Desconto nas melhores Lojas. Milhares de Descontos Grátis no Maior Site de Descontos do Brasil" />
-        <meta property="og:url" content="https://www.buscadescontos.com.br/cc" />
-        <meta property="og:image" content="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" />
+        <meta property="og:description" content="Aproveite as ofertas da loja Fastshop . Descontos imperdíveis!" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/fastshop" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />
@@ -29,7 +29,7 @@ export default function Index() {
         <div class="bg-category border-pad">
             <div class="row flex-bg-category">
                 <div class="col-md-5">
-                                    <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="C&amp;C " class="img-responsive m-0-auto" />
+                                    <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="Fastshop " class="img-responsive m-0-auto" />
                                 </div>
                 <div class="col-md-7">
                     <div class="row">
@@ -52,21 +52,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF em  DECA Loucas acima de R$ 500" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 500OFF em Samsung Galaxy Note 10 Lite" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em  DECA Loucas acima de R$ 500</h2>  
+                                                                <h2>R$ 500OFF em Samsung Galaxy Note 10 Lite</h2>  
                                                                    
-                                <p><b>Regras: </b>Linha de louças DECA com 20% off em compras a partir de R$  500,00</p>
+                                <p><b>Regras: </b>R$ 500 OFF em Samsung Galaxy Note 10 Lite </p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20off-em--deca-loucas-acima-de-r500" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r500off-em-samsung-galaxy-note-10-lite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">LDECA</span>
+                                        <span class="txt-label">MADRUGAN10L</span>
                                     </a>
                                 </div>
                             </div>
@@ -77,21 +76,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em Assentos Sicmol" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 250 OFF em Galaxy Note 10 Lite" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Assentos Sicmol</h2>  
+                                                                <h2>R$ 250 OFF em Galaxy Note 10 Lite</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Assentos Sicmol</p>
+                                <p><b>Regras: </b>R$ 250 OFF em Galaxy Note 10 Lite</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-assentos-sicmol" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r250-off-em-galaxy-note-10-lite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SICMOL</span>
+                                        <span class="txt-label">N770FZ</span>
                                     </a>
                                 </div>
                             </div>
@@ -102,21 +100,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em Assentos Banheiras Ourofino" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 400 OFF em Zenfone 6 128GB" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Assentos Banheiras Ourofino</h2>  
+                                                                <h2>R$ 400 OFF em Zenfone 6 128GB</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Assentos Banheiras Ourofino</p>
+                                <p><b>Regras: </b>R$ 400 OFF em Zenfone 6 128GB</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-assentos-banheiras-ourofino" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">RELAX</span>
+                                        <span class="txt-label">MEUZENFONE</span>
                                     </a>
                                 </div>
                             </div>
@@ -127,21 +124,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF acima de R$  500 - Louuças Roca" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 150 OFF em Galaxy Note 10" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF acima de R$  500 - Louuças Roca</h2>  
+                                                                <h2>R$ 150 OFF em Galaxy Note 10</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em compras acima de R$  500 - Louças Roca</p>
+                                <p><b>Regras: </b>R$ 150 OFF em Galaxy Note 10</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-acima-de-r-500---louuas-roca" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r150-off-em-galaxy-note-10" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ROCA</span>
+                                        <span class="txt-label">N770FZ</span>
                                     </a>
                                 </div>
                             </div>
@@ -152,21 +148,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt=" 5% OFF em compas acima de R$ 600" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 100 OFF no Galaxy A71" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2> 5% OFF em compas acima de R$ 600</h2>  
+                                                                <h2>R$ 100 OFF no Galaxy A71</h2>  
                                                                    
-                                <p><b>Regras: </b> 5% OFF nas compras acima de R$ 600,00 - exceto itens Casa Etna</p>
+                                <p><b>Regras: </b>R$ 100 OFF no Galaxy A71</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/5-off-em-compas-acima-de-r600" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100-off-no-galaxy-a71" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">QUERO5</span>
+                                        <span class="txt-label">A715FZ</span>
                                     </a>
                                 </div>
                             </div>
@@ -177,21 +172,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="10% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 400 OFF no Zenfone 6 128GB" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 400 OFF no Zenfone 6 128GB</h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF em produtos selecionados</p>
+                                <p><b>Regras: </b>R$ 400 OFF no Zenfone 6 128GB</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-no-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CEC10</span>
+                                        <span class="txt-label">MEUZENFONE</span>
                                     </a>
                                 </div>
                             </div>
@@ -202,22 +196,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em produtos de pintura" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 400 OFF em Zenfone 6 128GB" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos de pintura</h2>  
+                                                                <h2>R$ 400 OFF em Zenfone 6 128GB</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos relacionados a pintura
-</p>
+                                <p><b>Regras: </b>R$ 400 OFF em Zenfone 6 128GB</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-de-pintura" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NOVACOR</span>
+                                        <span class="txt-label">MEUZENFONE</span>
                                     </a>
                                 </div>
                             </div>
@@ -228,100 +220,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em produtos dessa landing page" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 100OFF no Galaxy S10+ 128 GB " class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos dessa landing page</h2>  
+                                                                <h2>R$ 100OFF no Galaxy S10+ 128 GB </h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos dessa landing page
-</p>
+                                <p><b>Regras: </b>R$ 100OFF no Galaxy S10+ 128 GB </p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-dessa-landing-page" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100off-no-galaxy-s10-128-gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CASANOVA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    10%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="10% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>10% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>10% OFF em produtos selecionados
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CEC10</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF em produtos DECA acima de R$ 500" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em produtos DECA acima de R$ 500</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em compras acima de R$  500 em produtos deca
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20off-em-produtos-deca-acima-de-r500" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">LDECA</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF  produtos relacionados a pintura" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF  produtos relacionados a pintura</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em produtos relacionados a pintura
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20off--produtos-relacionados-a-pintura" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NOVACOR</span>
+                                        <span class="txt-label">S10PLUS</span>
                                     </a>
                                 </div>
                             </div>
@@ -335,171 +247,68 @@ export default function Index() {
                                                                     10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="10% OFF para os produtos da landing" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="10%OFF na Smart TV 4K LG OLED AI 65” " class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF para os produtos da landing</h2>  
+                                                                <h2>10%OFF na Smart TV 4K LG OLED AI 65” </h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF para os produtos da landing
+                                <p><b>Regras: </b>Smart TV 4K LG OLED AI 65” - De R$  11.098,74 por R$ 9.999 à vista</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/10off-na-smart-tv-4k-lg-oled-ai-65" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">LGOLED</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 100 OFF no produto Galaxy S10+ " class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 100 OFF no produto Galaxy S10+ </h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 100 OFF no produto Galaxy S10+ </p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100-off-no-produto-galaxy-s10" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">S10PLUS100</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    50%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="50% OFF em acessórios Apple da lista " class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>50% OFF em acessórios Apple da lista </h2>  
+                                                                   
+                                <p><b>Regras: </b>50% OFF em acessórios Apple da lista selecionada
 </p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-para-os-produtos-da-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/50-off-em-acessrios-apple-da-lista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CEC10</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF nas compras acima de R$  200" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF nas compras acima de R$  200</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF nas compras acima de R$  200 nas Duchas e chuveiros HYDRA
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-nas-compras-acima-de-r-200" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">HYDRA</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em produtos da marca Acqualimp" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF em produtos da marca Acqualimp</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em produtos da marca Acqualimp
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-da-marca-acqualimp" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ACQUA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF acima de R$ 200 em chuveiro hydra" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF acima de R$ 200 em chuveiro hydra</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF nas compras acima de R$  200 nas Duchas e chuveiros HYDRA</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-acima-de-r200-em-chuveiro-hydra" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">HYDRA</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em produtos da marca Acqualimp" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF em produtos da marca Acqualimp</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em produtos da marca Acqualimp</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-da-marca-acqualimp" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ACQUA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF em Deca acima de R$ 500" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em Deca acima de R$ 500</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em Deca nas compras acima de R$  500</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/20off-em-deca-acima-de-r500" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">DECA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    6%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="6% OFF no site todo" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>6% OFF no site todo</h2>  
-                                                                   
-                                <p><b>Regras: </b>6% OFF no site todo *Não é válido para itens de Outlet e para a categoria de Aquecedores. Descont</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/6-off-no-site-todo" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CEC6</span>
+                                        <span class="txt-label">AO50</span>
                                     </a>
                                 </div>
                             </div>
@@ -513,18 +322,71 @@ export default function Index() {
                                                                     5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="5%OFF para categorias selecionadas" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF na Fechadura Digital da landing" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>5%OFF para categorias selecionadas</h2>  
+                                                                <h2>5% OFF na Fechadura Digital da landing</h2>  
                                                                    
-                                <p><b>Regras: </b>5%OFF - Válido somente para as seguintes categorias: Decoração, Fechadura e Segurança, Ferragens</p>
+                                <p><b>Regras: </b>5% OFF na Fechadura Digital da landing
+</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/5off-para-categorias-selecionadas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">Awindez</span>
+                                        <span class="txt-label">DESCONTO5OFF</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    7%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="7% OFF em Galaxy Fit E" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>7% OFF em Galaxy Fit E</h2>  
+                                                                   
+                                <p><b>Regras: </b>7% OFF em Galaxy Fit E
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit-e" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SAMSUNG7</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    7%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="7% OFF em Galaxy Fit" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>7% OFF em Galaxy Fit</h2>  
+                                                                   
+                                <p><b>Regras: </b>7% OFF em Galaxy Fit
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SAMSUNG7</span>
                                     </a>
                                 </div>
                             </div>
@@ -538,18 +400,95 @@ export default function Index() {
                                                                     5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="5%OFF para o site com restrições" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF na Fechadura Digital da landing" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>5%OFF para o site com restrições</h2>  
+                                                                <h2>5% OFF na Fechadura Digital da landing</h2>  
                                                                    
-                                <p><b>Regras: </b>5% no site, exceto para as categorias: Aquecedores, Eletrodomésticos, Eletroportáteis, Janelas e P</p>
+                                <p><b>Regras: </b>5% OFF na Fechadura Digital da landing</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/5off-para-o-site-com-restries" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">Awinset</span>
+                                        <span class="txt-label">DESCONTO5OFF</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    12%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="12% OFF em Galaxy Watch " class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>12% OFF em Galaxy Watch </h2>  
+                                                                   
+                                <p><b>Regras: </b>12% OFF em Galaxy Watch 
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/12-off-em-galaxy-watch" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SAMSUNG12</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    10%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="10% OFF em Galaxy Watch Active" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>10% OFF em Galaxy Watch Active</h2>  
+                                                                   
+                                <p><b>Regras: </b>10% OFF em Galaxy Watch Active
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/10-off-em-galaxy-watch-active" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SAMSUNG10</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 7.599 no boleto iMac com Intel Core i5" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 7.599 no boleto iMac com Intel Core i5</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 7.599 no boleto iMac com Intel® Core™ i5, 8GB, 1TB, Tela de 21,5”, macOS Sierra
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r7599-no-boleto-imac-com-intel-core-i5" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">MEUIMAC</span>
                                     </a>
                                 </div>
                             </div>
@@ -563,18 +502,70 @@ export default function Index() {
                                                                     5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="5%OFF geral para o site com excessões" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF em adegas" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>5%OFF geral para o site com excessões</h2>  
+                                                                <h2>5% OFF em adegas</h2>  
                                                                    
-                                <p><b>Regras: </b>5%OFF geral para o site com excessões: Aquecedor, Eletrodomésticos, Telhas e Calhas, Iluminação,</p>
+                                <p><b>Regras: </b>5% OFF em adegas
+</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/cc/coupons/5off-geral-para-o-site-com-excesses" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-em-adegas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">awinsite</span>
+                                        <span class="txt-label">UT5OFF</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$  400 OFF na lista de Racks" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$  400 OFF na lista de Racks</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  400 OFF na lista de Racks
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r-400-off-na-lista-de-racks" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">RACK400</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF nos produtos da landing" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>5% OFF nos produtos da landing</h2>  
+                                                                   
+                                <p><b>Regras: </b>5% OFF nos produtos da landing
+</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-nos-produtos-da-landing" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">LB5OFF</span>
                                     </a>
                                 </div>
                             </div>
@@ -587,144 +578,18 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 ">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/20off-em--deca-loucas-acima-de-r500">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF em  DECA Loucas acima de R$500" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-nos-produtos-da-landing">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF nos produtos da landing" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>20%OFF em  DECA Loucas acima de R$500</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/20off-em--deca-loucas-acima-de-r500" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">LDECA</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-de-pintura">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em produtos de pintura" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos de pintura</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-produtos-de-pintura" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">NOVACOR</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/20off--produtos-relacionados-a-pintura">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20%OFF  produtos relacionados a pintura" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF  produtos relacionados a pintura</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/20off--produtos-relacionados-a-pintura" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">NOVACOR</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-acima-de-r-500---louuas-roca">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF acima de R$ 500 - Louuças Roca" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF acima de R$ 500 - Louuças Roca</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-acima-de-r-500---louuas-roca" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ROCA</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="10% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>10% OFF em produtos selecionados</h3>
-                    <h1>10%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CEC10</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/6-off-no-site-todo">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="6% OFF no site todo" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>6% OFF no site todo</h3>
-                    <h1>6%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/6-off-no-site-todo" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CEC6</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/5off-geral-para-o-site-com-excesses">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="5%OFF geral para o site com excessões" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>5%OFF geral para o site com excessões</h3>
+                                        <h3>5% OFF nos produtos da landing</h3>
                     <h1>5%</h1>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/5off-geral-para-o-site-com-excesses" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-nos-produtos-da-landing" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">awinsite</span>
+                            <span class="txt-label">LB5OFF</span>
                         </a>
                     </div>                            
                                     </div>
@@ -734,18 +599,18 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 ">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-para-os-produtos-da-landing">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="10% OFF para os produtos da landing" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/50-off-em-acessrios-apple-da-lista">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="50% OFF em acessórios Apple da lista " class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>10% OFF para os produtos da landing</h3>
-                    <h1>10%</h1>
+                                        <h3>50% OFF em acessórios Apple da lista </h3>
+                    <h1>50%</h1>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/10-off-para-os-produtos-da-landing" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/50-off-em-acessrios-apple-da-lista" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CEC10</span>
+                            <span class="txt-label">AO50</span>
                         </a>
                     </div>                            
                                     </div>
@@ -755,18 +620,98 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 ">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/5off-para-o-site-com-restries">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="5%OFF para o site com restrições" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF na Fechadura Digital da landing" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>5%OFF para o site com restrições</h3>
+                                        <h3>5% OFF na Fechadura Digital da landing</h3>
                     <h1>5%</h1>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/5off-para-o-site-com-restries" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">Awinset</span>
+                            <span class="txt-label">DESCONTO5OFF</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/r-400-off-na-lista-de-racks">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$ 400 OFF na lista de Racks" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 400 OFF na lista de Racks</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r-400-off-na-lista-de-racks" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">RACK400</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$400 OFF em Zenfone 6 128GB" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$400 OFF em Zenfone 6 128GB</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">MEUZENFONE</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/r200-off-em-huawei-nova-5t">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$200 OFF em Huawei Nova 5T" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF em Huawei Nova 5T</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r200-off-em-huawei-nova-5t" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">NOVA5T</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/r250-off-em-galaxy-note-10-lite">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="R$250 OFF em Galaxy Note 10 Lite" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$250 OFF em Galaxy Note 10 Lite</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r250-off-em-galaxy-note-10-lite" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">N770FZ</span>
                         </a>
                     </div>                            
                                     </div>
@@ -776,18 +721,60 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 ">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-assentos-sicmol">
-                        <img src="http://ui.zanox.com/images/programs/17794/17794_lgo_c_c_br.png" alt="20% OFF em Assentos Sicmol" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/12-off-em-galaxy-watch">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="12% OFF em Galaxy Watch " class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>20% OFF em Assentos Sicmol</h3>
-                    <h1>20%</h1>
+                                        <h3>12% OFF em Galaxy Watch </h3>
+                    <h1>12%</h1>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/cc/coupons/20-off-em-assentos-sicmol" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/12-off-em-galaxy-watch" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">SICMOL</span>
+                            <span class="txt-label">SAMSUNG12</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 ">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit-e">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="7% OFF em Galaxy Fit E" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3>7% OFF em Galaxy Fit E</h3>
+                    <h1>7%</h1>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit-e" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">SAMSUNG7</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 ">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-em-adegas">
+                        <img src="http://ui.zanox.com/images/programs/13314/13314_lgo_fastshop_br.png" alt="5% OFF em adegas" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3>5% OFF em adegas</h3>
+                    <h1>5%</h1>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-em-adegas" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">UT5OFF</span>
                         </a>
                     </div>                            
                                     </div>

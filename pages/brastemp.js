@@ -4,14 +4,14 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Marisa Descontos Cupons de Descontos Marisa Ofertas Cupom de Descontos</title>
-        <meta name="description" content="Quer ficar bonita e economizar? Aproveite os cupons de descontos da Marisa faça economia. Clique agora e aproveite todas nossas ofertas especiais." />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/marisa" />
+        <title>Black Friday Brastemp. Brastemp Descontos Cupons de Descontos Brastemp Ofertas Cupom de Descontos</title>
+        <meta name="description" content="Brastemp Black Friday. Aproveite as melhores ofertas, em lavadoras de roupa, fogões e geladeiras da marca Brastemp!" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/brastemp" />
 
-        <meta property="og:title" content="Marisa Descontos Cupons de Descontos Marisa Ofertas Cupom de Descontos" />
-        <meta property="og:description" content="Quer ficar bonita e economizar? Aproveite os cupons de descontos da Marisa faça economia. Clique agora e aproveite todas nossas ofertas especiais." />
-        <meta property="og:url" content="https://www.buscadescontos.com.br/marisa" />
-        <meta property="og:image" content="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" />
+        <meta property="og:title" content="Black Friday Brastemp. Brastemp Descontos Cupons de Descontos Brastemp Ofertas Cupom de Descontos" />
+        <meta property="og:description" content="Brastemp Black Friday. Aproveite as melhores ofertas, em lavadoras de roupa, fogões e geladeiras da marca Brastemp!" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/brastemp" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />
@@ -29,7 +29,7 @@ export default function Index() {
         <div class="bg-category border-pad">
             <div class="row flex-bg-category">
                 <div class="col-md-5">
-                                    <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Marisa " class="img-responsive m-0-auto" />
+                                    <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="Brastemp " class="img-responsive m-0-auto" />
                                 </div>
                 <div class="col-md-7">
                     <div class="row">
@@ -52,199 +52,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Botas Femininas(exceto Via Marte)" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$  150 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF Botas Femininas(exceto Via Marte)</h2>  
+                                                                <h2>R$  150 OFF produtos selecionados no link</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Botas Femininas (exceto Via marte)</p>
+                                <p><b>Regras: </b>R$  150 OFF em produtos selecionados no link</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-botas-femininasexceto-via-marte" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-150-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOTAS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    40%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="40% OFF em jeans" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>40% OFF em jeans</h2>  
-                                                                   
-                                <p><b>Regras: </b>40% OFF em jeans</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS40</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    25%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF em bolsas" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>25% OFF em bolsas</h2>  
-                                                                   
-                                <p><b>Regras: </b>25% OFF em bolsas</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS25</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Plus Size acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Plus Size acima de R$ 100</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Plus Size nas compras acima de R$ 100,00 (nessa listagem)</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PLUS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 180" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 180</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF site todo nas compras acima de R$ 180,00
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label"> SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Plus Size acima de R$ 100 do link" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Plus Size acima de R$ 100 do link</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Plus Size nas compras acima de R$ 100,00 (nessa listagem)</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100-do-link" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PLUS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    25%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF nas compras acima de 250,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>25% OFF nas compras acima de 250,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>25% OFF nas compras acima de 250,00
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-nas-compras-acima-de-25000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE25</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF no site acima de R$ 180" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF no site acima de R$ 180</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF site todo nas compras acima de R$ 180
-</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-no-site-acima-de-r180" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CONSUMIDORA20</span>
+                                        <span class="txt-label">TEMPO150</span>
                                     </a>
                                 </div>
                             </div>
@@ -257,219 +78,18 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Ganhe R$ 50,00 nas compras acima de R$ 200" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$  100 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Ganhe R$ 50,00 nas compras acima de R$ 200</h2>  
+                                                                <h2>R$  100 OFF produtos selecionados no link</h2>  
                                                                    
-                                <p><b>Regras: </b>Ganhe R$ 50,00 nas compras acima de R$ 200,00
-</p>
+                                <p><b>Regras: </b>R$  100 OFF em produtos selecionados no link</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-100-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CONSUMIDORA50</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    15%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>15% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>15% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO15</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    30%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
-                                                                   
-                                <p><b>Regras: </b>30% OFF em produtos selecionados</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO30</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 180,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 180,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF em todo o site nas compras acima de R$ 180,00.</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF para compras acima de R$ 250,00" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF para compras acima de R$ 250,00</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% site todo para compras acima de R$ 250,00</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-para-compras-acima-de-r25000" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF Bolsas e Mochilas da landing" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20% OFF Bolsas e Mochilas da landing</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% OFF Bolsas e Mochilas (produtos selecionados).</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-bolsas-e-mochilas-da-landing" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Calçados Masculinos da Diadora" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF Calçados Masculinos da Diadora</h2>  
-                                                                   
-                                <p><b>Regras: </b>20% nos Calçados Masculinos da Marca Diadora</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-calados-masculinos-da-diadora" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">DIADORA20</span>
-                                    </a>
-                                </div>
-                            </div>
-                                                    </div>
-                    </div>
-                </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
-                                                                    20%
-                                                            </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados masculinos da Mormaii" class="img-responsive m-0-auto m-h-12" />
-                            </div>
-                            <div class="col-md-5">
-                                                                <h2>20%OFF em calçados masculinos da Mormaii</h2>  
-                                                                   
-                                <p><b>Regras: </b>20%OFF em calçados masculinos da marca Mormaii</p>
-                                                            </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-masculinos-da-mormaii" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MORMAII20</span>
+                                        <span class="txt-label">TEMPO100</span>
                                     </a>
                                 </div>
                             </div>
@@ -482,18 +102,18 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Ganhe R$ 50,00 nas compras acima de R$ 250" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$  50 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Ganhe R$ 50,00 nas compras acima de R$ 250</h2>  
+                                                                <h2>R$  50 OFF produtos selecionados no link</h2>  
                                                                    
-                                <p><b>Regras: </b>Ganhe R$ 50,00 nas compras acima de R$ 250,00</p>
+                                <p><b>Regras: </b>R$  50 OFF em produtos selecionados no link</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-50-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NATAL50</span>
+                                        <span class="txt-label">TEMPO50</span>
                                     </a>
                                 </div>
                             </div>
@@ -504,21 +124,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30%OFF em produtos da landing page" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$  300 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30%OFF em produtos da landing page</h2>  
+                                                                <h2>R$  300 OFF produtos selecionados no link</h2>  
                                                                    
-                                <p><b>Regras: </b>30%OFF em produtos da landing page</p>
+                                <p><b>Regras: </b>R$  300 OFF em produtos selecionados no link</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-em-produtos-da-landing-page" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-300-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN30</span>
+                                        <span class="txt-label">TEMPO300</span>
                                     </a>
                                 </div>
                             </div>
@@ -529,21 +148,68 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30%OFF somente nos produtos da landing " class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$  250 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30%OFF somente nos produtos da landing </h2>  
+                                                                <h2>R$  250 OFF produtos selecionados no link</h2>  
                                                                    
-                                <p><b>Regras: </b>30%OFF somente nos produtos da landing page</p>
+                                <p><b>Regras: </b>R$  250 OFF em produtos selecionados no link</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-somente-nos-produtos-da-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-250-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN30BF</span>
+                                        <span class="txt-label">TEMPO250</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 200 OFF produtos selecionados no link</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  200 OFF em produtos selecionados no link</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-produtos-selecionados-no-link" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">TEMPO200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 400 OFF produtos selecionados no link" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 400 OFF produtos selecionados no link</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$  400 OFF em produtos selecionados no link</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-produtos-selecionados-no-link" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">TEMPO400</span>
                                     </a>
                                 </div>
                             </div>
@@ -557,18 +223,193 @@ export default function Index() {
                                                                     5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="5% OFF nas compras cima de R$ 159" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFFGeladBrastFrostFreeInv443L+5%OFF" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>5% OFF nas compras cima de R$ 159</h2>  
+                                                                <h2>R$ 250OFFGeladBrastFrostFreeInv443L+5%OFF</h2>  
                                                                    
-                                <p><b>Regras: </b>5% OFF nas compras cima de R$ 159 (válido para todo o site)</p>
+                                <p><b>Regras: </b>R$ 250 OFF em Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice + 5% à vista</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeinv443l5off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MARABRAZ5OFF</span>
+                                        <span class="txt-label">VIP250</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFFGeladBrastFrostFreeDup375L+5%OFF" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 250OFFGeladBrastFrostFreeDup375L+5%OFF</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 250 OFF em Geladeira Brastemp Frost Free Duplex 375 litros cor Inox com Espaço Adapt + 5% à vis</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreedup375l5off" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP250</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 400OFFGeladBrastFrostFreeInv573L+5%OFF" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 400OFFGeladBrastFrostFreeInv573L+5%OFF</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 400 OFF em Geladeira Brastemp Frost Free Inverse 573 litros Branca com Smart Bar + 5% à vista</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400offgeladbrastfrostfreeinv573l5off" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP400</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFFGeladBrastFrostFreeInv 573L + 5%" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 250OFFGeladBrastFrostFreeInv 573L + 5%</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 250 OFF em Geladeira Brastemp Frost Free Inverse 573 litros cor Inox com Smart Bar + 5% à vista</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeinv-573l--5" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP250</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200OFF MáqDeLavarBrast12Kg+5%OFFàvista" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 200OFF MáqDeLavarBrast12Kg+5%OFFàvista</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 200 OFF em Máquina de Lavar Brastemp 12Kg titânio com Ciclo Tira Manchas Advanced e Ciclo Antib</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-mqdelavarbrast12kg5offvista" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFFGeladBrastFrostFreeSide540L+5%" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 250OFFGeladBrastFrostFreeSide540L+5%</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 250 OFF em Geladeira Brastemp Frost Free Side Inverse 540 litros cor Inox com Ice Maker + 5% à v</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeside540l5" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP250</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFFGeladBrastFrostFreeDuplex500L+5%" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFFGeladBrastFrostFreeDuplex500L+5%</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Duplex 500 litros Branca com Turbo Control + 5% à vista</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                                    5%
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFFGeladBrastFrostFreeDuplex500L+5%" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFFGeladBrastFrostFreeDuplex500L+5%</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Duplex 500 litros Branca com Turbo Control + 5% à vista</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">VIP150</span>
                                     </a>
                                 </div>
                             </div>
@@ -581,18 +422,37 @@ export default function Index() {
                             <span class="discount">
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="R$ 20 OFF nos produtos da vitrine" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF MáquinaDeLavarBrastemp 14Kg" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>R$ 20 OFF nos produtos da vitrine</h2>  
+                                                                <h2>R$ 100OFF MáquinaDeLavarBrastemp 14Kg</h2>  
                                                                    
-                                <p><b>Regras: </b> R$ 20 OFF somente nos produtos da vitrine - sem valor mínimo</p>
+                                <p><b>Regras: </b>R$ 100 OFF em Máquina de Lavar Brastemp 14Kg branca com Ciclo Tira Manchas Advanced e Ciclo Antibol</p>
+                                                            </div>
+                                                        <div class="col-md-4 text-center">
+                                <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off-mquinadelavarbrastemp-14kg" class="btn-coupon">Ver Oferta</a>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF MáquinaDeLavarBrastemp 12Kg" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 100OFF MáquinaDeLavarBrastemp 12Kg</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 100 OFF em Máquina de Lavar Brastemp 12Kg titânio com Ciclo Tira Manchas Advanced e Ciclo Antib</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/r20-off-nos-produtos-da-vitrine" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off-mquinadelavarbrastemp-12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BLACK20</span>
+                                        <span class="txt-label">FESTA100</span>
                                     </a>
                                 </div>
                             </div>
@@ -603,21 +463,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 200" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFF GeladeBrastFrostFreeDuplex 500L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 200</h2>  
+                                                                <h2>R$ 300OFF GeladeBrastFrostFreeDuplex 500L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF Site todo nas compras acima de R$ 200,00</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Geladeira Brastemp Frost Free Duplex 500 litros cor Inox com Turbo Control</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-geladebrastfrostfreeduplex-500l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SITE20</span>
+                                        <span class="txt-label">FESTA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -628,21 +487,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF Moda Infantil acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFFGeladBrastFrostFreeSideInv.540L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF Moda Infantil acima de R$ 100</h2>  
+                                                                <h2>R$ 300OFFGeladBrastFrostFreeSideInv.540L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% off em Moda Infantil para compras acima de 100</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Geladeira Brastemp Frost Free Side Inverse 540 litros cor Inox com Ice Maker</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-moda-infantil-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300offgeladbrastfrostfreesideinv540l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INFANTIL20</span>
+                                        <span class="txt-label">FESTA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -653,21 +511,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em Moda Praia acimade R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFF Fogão Brastemp 5 BocasDeEmbutir" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em Moda Praia acimade R$ 100</h2>  
+                                                                <h2>R$ 300OFF Fogão Brastemp 5 BocasDeEmbutir</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Moda Praia para compras acima de 100</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Fogão Brastemp 5 Bocas De Embutir Cor Inox Forno Elétrico Com Convecção E Meat Con</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-moda-praia-acimade-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-fogo-brastemp-5-bocasdeembutir" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PRAIA20</span>
+                                        <span class="txt-label">FESTA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -678,21 +535,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados F. acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFF GeladBrastFrostFreeDuplex 462L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em calçados F. acima de R$ 100</h2>  
+                                                                <h2>R$ 300OFF GeladBrastFrostFreeDuplex 462L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Calçados Femininos nas compras acima de R$ 100,00</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Geladeira Brastemp Frost Free Duplex 462 litros Branca com Turbo Control</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-geladbrastfrostfreeduplex-462l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CALCADOS20</span>
+                                        <span class="txt-label">FESTA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -703,22 +559,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF  em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFFAdegaBrastGourmandDual51Garrafas" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF  em produtos selecionados</h2>  
+                                                                <h2>R$ 300OFFAdegaBrastGourmandDual51Garrafas</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF  em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$ 300 OFF em Adega Brastemp Gourmand Dual Zone 51 Garrafas</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300offadegabrastgourmanddual51garrafas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE20</span>
+                                        <span class="txt-label"> FESTA300</span>
                                     </a>
                                 </div>
                             </div>
@@ -729,22 +583,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados&nbsp;" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF Máquina De Lavar 12Kg Titânio" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados&nbsp;</h2>  
+                                                                <h2>R$ 100OFF Máquina De Lavar 12Kg Titânio</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados&nbsp;
-</p>
+                                <p><b>Regras: </b>R$ 100 OFF em Máquina de Lavar 12Kg titânio com Ciclo Tira Manchas Advanced e Ciclo Antibolinha</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off-mquina-de-lavar-12kg-titnio" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE30</span>
+                                        <span class="txt-label">CASA100</span>
                                     </a>
                                 </div>
                             </div>
@@ -755,22 +607,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50OFF CoifaDeParede 60cm InoxPiramidal" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 50OFF CoifaDeParede 60cm InoxPiramidal</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$ 50 OFF em Coifa de Parede 60 cm Inox piramidal 4 bocas com duplo filtro + 7% à vista</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50off-coifadeparede-60cm-inoxpiramidal" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE20</span>
+                                        <span class="txt-label">CASA50</span>
                                     </a>
                                 </div>
                             </div>
@@ -781,22 +631,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em calçados masculinos" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFFCoifaDeParede 90cm InoxPiramidal" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em calçados masculinos</h2>  
+                                                                <h2>R$ 100OFFCoifaDeParede 90cm InoxPiramidal</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em calçados masculinos
-</p>
+                                <p><b>Regras: </b>R$ 100 OFF em Coifa de Parede 90 cm Inox piramidal 5 e 6 bocas com duplo filtro + frete grátis, exc</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100offcoifadeparede-90cm-inoxpiramidal" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">CALCADOS30</span>
+                                        <span class="txt-label">CASA100</span>
                                     </a>
                                 </div>
                             </div>
@@ -807,22 +655,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em jeans da seleção" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50OFF Cooktop4BocasComGradesPiatina" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em jeans da seleção</h2>  
+                                                                <h2>R$ 50OFF Cooktop4BocasComGradesPiatina</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em jeans da seleção
-</p>
+                                <p><b>Regras: </b>R$ 50 OFF em Cooktop 4 bocas com grades piatina e acendimento automático + frete grátis, exceto No</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50off-cooktop4bocascomgradespiatina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS30</span>
+                                        <span class="txt-label">CASA50</span>
                                     </a>
                                 </div>
                             </div>
@@ -833,22 +679,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFFGeladBrastFrostFreeDuplex478L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 100OFFGeladBrastFrostFreeDuplex478L</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$ 100 OFF em Geladeira Brastemp Frost Free Duplex 478 litros cor Inox com Freezer Control Advanced</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100offgeladbrastfrostfreeduplex478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE30</span>
+                                        <span class="txt-label">APAIXONEI100</span>
                                     </a>
                                 </div>
                             </div>
@@ -859,22 +703,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em bolsas e mochilas " class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFF+5%àvistaGeladBrastFrostFree573L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em bolsas e mochilas </h2>  
+                                                                <h2>R$ 300OFF+5%àvistaGeladBrastFrostFree573L</h2>  
                                                                    
-                                <p><b>Regras: </b>20%OFF em bolsas e mochilas 
-</p>
+                                <p><b>Regras: </b>: R$ 300 OFF + Frete Grátis Sudeste + 5% à vista em Geladeira Brastemp Frost Free Inverse 573 litr</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vistageladbrastfrostfree573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">APAIXONEI300</span>
                                     </a>
                                 </div>
                             </div>
@@ -885,22 +728,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$ 100 ganhe 20%OFF na landing" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFF LavaLouças14ServiçosBrastBranca" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Acima de R$ 100 ganhe 20%OFF na landing</h2>  
+                                                                <h2>R$ 250OFF LavaLouças14ServiçosBrastBranca</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em jeans feminino para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$ 250 OFF em Lava Louças 14 serviços Brastemp Branca com Ciclo Pesado</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off-lavalouas14serviosbrastbranca" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">APAIXONEI250</span>
                                     </a>
                                 </div>
                             </div>
@@ -911,22 +752,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$ 100 ganhe 20%OFF na landing" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFF+Frete*GeladBrastFrostFree375L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>Acima de R$ 100 ganhe 20%OFF na landing</h2>  
+                                                                <h2>R$ 150OFF+Frete*GeladBrastFrostFree375L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos do Inverno para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$ 150 OFF + Frete Grátis Sudeste em Geladeira Brastemp Frost Free Duplex 375 litros cor Branca</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offfretegeladbrastfrostfree375l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INVERNO20</span>
+                                        <span class="txt-label">APAIXONEI150</span>
                                     </a>
                                 </div>
                             </div>
@@ -937,22 +776,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em bolsas e mochilas" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 400OFF+FornoElétrcioBrastGourmand 73L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em bolsas e mochilas</h2>  
+                                                                <h2>R$ 400OFF+FornoElétrcioBrastGourmand 73L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em bolsas e mochilas
-</p>
+                                <p><b>Regras: </b>R$ 400 OFF + Frete Grátis Sudeste em Forno de embutir elétrico Brastemp Gourmand 73 litros inox co</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400offfornoeltrciobrastgourmand-73l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">APAIXONEI400</span>
                                     </a>
                                 </div>
                             </div>
@@ -963,22 +800,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$ 100-Inverno" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 300OFF+5%àvista GeladBrasFrostFree478L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em compras acima de R$ 100-Inverno</h2>  
+                                                                <h2>R$ 300OFF+5%àvista GeladBrasFrostFree478L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF nas compras acima de R$ 100 - Inverno
-</p>
+                                <p><b>Regras: </b>R$ 300 OFF + 5% à vista em Geladeira Brastemp Frost Free Duplex 478 litros Branca com Freezer Contr</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r100-inverno" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vista-geladbrasfrostfree478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">INVERNO20</span>
+                                        <span class="txt-label">APAIXONEI300</span>
                                     </a>
                                 </div>
                             </div>
@@ -989,22 +824,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em jeans feminino acima de R$ 100" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50OFF+FreteGrátisSud MaqLavarBrast 9Kg" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20%OFF em jeans feminino acima de R$ 100</h2>  
+                                                                <h2>R$ 50OFF+FreteGrátisSud MaqLavarBrast 9Kg</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em jeans feminino para compras acima de R$ 100
-</p>
+                                <p><b>Regras: </b>R$ 50 OF + Frete Grátis Sudeste + 10% à vista em Máquina de Lavar Brastemp 9kg com Ciclo Tira Man</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offfretegrtissud-maqlavarbrast-9kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">APAIXONEI50</span>
                                     </a>
                                 </div>
                             </div>
@@ -1015,22 +848,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="10% OFF para a primeira compra" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50OFF+FreteGrátisExcetoNorte*GeladBras" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF para a primeira compra</h2>  
+                                                                <h2>R$ 50OFF+FreteGrátisExcetoNorte*GeladBras</h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF para a primeira compra
-</p>
+                                <p><b>Regras: </b>R$ 50 OFF + Frete Grátis Exceto Norte* em Geladeira Brastemp Frost Free Inverse 573 litros cor Inox</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offfretegrtisexcetonortegeladbras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BEMVINDO10</span>
+                                        <span class="txt-label">APAIXONEI50</span>
                                     </a>
                                 </div>
                             </div>
@@ -1041,22 +872,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Mormaii" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 400OFF FornoElétricoBrast. 105L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos Mormaii</h2>  
+                                                                <h2>R$ 400OFF FornoElétricoBrast. 105L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos Mormaii
-</p>
+                                <p><b>Regras: </b>R$  400 OFF + Frete Grátis Sudeste em Forno de embutir elétrico Brastemp 105 litros cor inox com E</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-mormaii" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400off-fornoeltricobrast-105l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">MORMAII20</span>
+                                        <span class="txt-label">APAIXONEI400</span>
                                     </a>
                                 </div>
                             </div>
@@ -1067,22 +896,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Diadora" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFF EletrodomésticosAcimaDe R$ 1.799" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos Diadora</h2>  
+                                                                <h2>R$ 150OFF EletrodomésticosAcimaDe R$ 1.799</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos Diadora
-</p>
+                                <p><b>Regras: </b>R$ 150 OFF exclusivo Cupom Válido em Eletrodomésticos acima de R$  1.799,00</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off-eletrodomsticosacimade-r1799" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">DIADORA20</span>
+                                        <span class="txt-label">PRIMEIRO150</span>
                                     </a>
                                 </div>
                             </div>
@@ -1093,22 +920,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    25%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF na lista selecionada" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200OFF+5%ÀVistaGeladBrastFrostFree573L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>25% OFF na lista selecionada</h2>  
+                                                                <h2>R$ 200OFF+5%ÀVistaGeladBrastFrostFree573L</h2>  
                                                                    
-                                <p><b>Regras: </b>25% OFF na lista selecionada
-</p>
+                                <p><b>Regras: </b>R$  200 OFF  + 5% à vista em Geladeira Brastemp Frost Free Inverse 573 litros cor Inox com Smart Ba</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-na-lista-selecionada" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off5vistageladbrastfrostfree573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">SEMANADOBRASIL25&nbsp;&nbsp;</span>
+                                        <span class="txt-label">MAIS200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1119,22 +945,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Bolsas e Mochilas" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF+5%ÀvistaGeladBrastFrostFree443L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Bolsas e Mochilas</h2>  
+                                                                <h2>R$ 100OFF+5%ÀvistaGeladBrastFrostFree443L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Bolsas e Mochilas
-</p>
+                                <p><b>Regras: </b>R$ 100 OFF  + 5% à vista em Geladeira Brastemp Frost Free Inverse 443 litros cor Inox com Turbo Ice</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistageladbrastfrostfree443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BOLSAS20</span>
+                                        <span class="txt-label">MAIS100</span>
                                     </a>
                                 </div>
                             </div>
@@ -1145,21 +970,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    10%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="10% OFF para a primeira compra" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFF GeladBrastFrostFreeInverse 460L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>10% OFF para a primeira compra</h2>  
+                                                                <h2>R$ 150OFF GeladBrastFrostFreeInverse 460L</h2>  
                                                                    
-                                <p><b>Regras: </b>10% OFF para a primeira compra</p>
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Inverse 460 litros cor Inox com Freeze Control Advanced</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off-geladbrastfrostfreeinverse-460l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">BEMVINDO10</span>
+                                        <span class="txt-label">MAIS150</span>
                                     </a>
                                 </div>
                             </div>
@@ -1170,21 +994,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF na nova coleção Marisa" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF+5% à Vista GeladBrastFrost 400L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF na nova coleção Marisa</h2>  
+                                                                <h2>R$ 100OFF+5% à Vista GeladBrastFrost 400L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF na nova coleção Marisa</p>
+                                <p><b>Regras: </b>R$  100 OFF  + 5% à vista em Geladeira Brastemp Frost Free Duplex 400 litros cor Inox com Freeze Co</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5--vista-geladbrastfrost-400l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">NIVERSITE20</span>
+                                        <span class="txt-label">MAIS100</span>
                                     </a>
                                 </div>
                             </div>
@@ -1195,21 +1019,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFF+5%à Vista LavaLouças 14Serviços" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 150OFF+5%à Vista LavaLouças 14Serviços</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados</p>
+                                <p><b>Regras: </b>R$ 150 OFF  + 5% à vista em Lava Louças 14 Serviços Brastemp cor Inox com Ciclo Pesado</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off5-vista-lavalouas-14servios" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN20</span>
+                                        <span class="txt-label">MAIS150</span>
                                     </a>
                                 </div>
                             </div>
@@ -1220,22 +1044,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Jeans já com aé 60% OFF" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250OFF+5%GeladBrastFrostFreeInv460L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em Jeans já com aé 60% OFF</h2>  
+                                                                <h2>R$ 250OFF+5%GeladBrastFrostFreeInv460L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em Jeans já com aé 60% OFF. Válido em compras acima de R$  100
-</p>
+                                <p><b>Regras: </b>R$  250 OFF + 5% à vista em Geladeira Brastemp Frost Free Inverse 460 litros cor Inox com Freeze Co</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-jeans-j-com-a-60-off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off5geladbrastfrostfreeinv460l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">JEANS20</span>
+                                        <span class="txt-label">MAIS250</span>
                                     </a>
                                 </div>
                             </div>
@@ -1246,22 +1069,21 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    15%
+                                                                    5%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100OFF+5%àVistaMáquinaDeLavarBrast12Kg" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>15% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 100OFF+5%àVistaMáquinaDeLavarBrast12Kg</h2>  
                                                                    
-                                <p><b>Regras: </b>15% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$  100 OFF  + 5% à vista em Máquina de Lavar Brastemp 12Kg titânio com Ciclo Tira Manchas Advanc</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistamquinadelavarbrast12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO15&nbsp;</span>
+                                        <span class="txt-label">MAIS100</span>
                                     </a>
                                 </div>
                             </div>
@@ -1272,21 +1094,20 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    30%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200OFF GeladeBrastFrostFreeInverse443L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>30% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 200OFF GeladeBrastFrostFreeInverse443L</h2>  
                                                                    
-                                <p><b>Regras: </b>30% OFF em produtos selecionados</p>
+                                <p><b>Regras: </b>R$ 200 OFF + Frete Grátis Sudeste em Geladeira Brastemp Frost Free Inverse 443 litros Branca com Tu</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-geladebrastfrostfreeinverse443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO30</span>
+                                        <span class="txt-label">MAIS200</span>
                                     </a>
                                 </div>
                             </div>
@@ -1297,22 +1118,140 @@ export default function Index() {
                     <div class="border-pad bg-white p-20 m-b-20">
                         <div class="row offer-box">
                             <span class="discount">
-                                                                    20%
                                                             </span>   
                             <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto m-h-12" />
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200OFFGeladBrastempFrostFreeDuplex478L" class="img-responsive m-0-auto m-h-12" />
                             </div>
                             <div class="col-md-5">
-                                                                <h2>20% OFF em produtos selecionados</h2>  
+                                                                <h2>R$ 200OFFGeladBrastempFrostFreeDuplex478L</h2>  
                                                                    
-                                <p><b>Regras: </b>20% OFF em produtos selecionados
-</p>
+                                <p><b>Regras: </b>R$ 200 OFF em Geladeira Brastemp Frost Free Duplex 478 litros cor Inox com Freezer Control Advanced</p>
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200offgeladbrastempfrostfreeduplex478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">ADORO20</span>
+                                        <span class="txt-label">MAIS200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 150OFFGeladeiraBrast.FrostFreeDup.500L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 150OFFGeladeiraBrast.FrostFreeDup.500L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 150 OFF em Geladeira Brastemp Frost Free Duplex 500 litros cor Inox com Turbo Control</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladeirabrastfrostfreedup500l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">MAIS150</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200OFF  LavaLouças 14serviços Brastemp" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 200OFF  LavaLouças 14serviços Brastemp</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 200 OFF + Frete Grátis* exct N em Lava Louças 14 serviços Brastemp Branca com Ciclo Pesado</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off--lavalouas-14servios-brastemp" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">MAIS200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200 OFF em compras acima de R$ 1599" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 200 OFF em compras acima de R$ 1599</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 200 OFF em compras acima de R$ 1599</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-em-compras-acima-de-r1599" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">QUERO200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200 OFF GeladeiraFrostFreeInverse 573L" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 200 OFF GeladeiraFrostFreeInverse 573L</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 200 OFF em Geladeira Frost Free Inverse 573 litros cor Inox com Smart Bar</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-geladeirafrostfreeinverse-573l" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SUPER200</span>
+                                    </a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="col-md-12 offer-item">
+                    <div class="border-pad bg-white p-20 m-b-20">
+                        <div class="row offer-box">
+                            <span class="discount">
+                                                            </span>   
+                            <div class="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50OFFAdega28GarrafaComPainelEletronico" class="img-responsive m-0-auto m-h-12" />
+                            </div>
+                            <div class="col-md-5">
+                                                                <h2>R$ 50OFFAdega28GarrafaComPainelEletronico</h2>  
+                                                                   
+                                <p><b>Regras: </b>R$ 50 OFF em Adega 28 Garrafas com painel eletrônico</p>
+                                                            </div>
+                                                        <div class="col-md-4">
+                                <div class="btn-coupon-label-container m-0-auto">
+                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offadega28garrafacompaineleletronico" target="_blank">
+                                        <span class="txt-princ">Ver Oferta</span>
+                                        <span class="txt-label">SUPER50</span>
                                     </a>
                                 </div>
                             </div>
@@ -1323,503 +1262,19 @@ export default function Index() {
         </div>           
          
         <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em jeans feminino acima de R$100" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-50-off-produtos-selecionados-no-link">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 50 OFF produtos selecionados no link" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3>20%OFF em jeans feminino acima de R$100</h3>
-                    <h1>20%</h1>
+                                        <h3 class="m-b-20">R$ 50 OFF produtos selecionados no link</h3>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-50-off-produtos-selecionados-no-link" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em compras acima de R$180</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label"> SITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em calçados masculinos" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em calçados masculinos</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CALCADOS30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF bolsas e mochilas com até 50%OFF" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF bolsas e mochilas com até 50%OFF</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em jeans da seleção" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em jeans da seleção</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF em bolsas" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>25% OFF em bolsas</h3>
-                    <h1>25%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS25</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em produtos selecionados</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF na nova coleção Marisa" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF na nova coleção Marisa</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">NIVERSITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Diadora" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos Diadora</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">DIADORA20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados F. acima de R$100" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em calçados F. acima de R$100</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">CALCADOS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados&nbsp;" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>30% OFF em produtos selecionados&nbsp;</h3>
-                    <h1>30%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE30</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180,00" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20%OFF em compras acima de R$180,00</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">SITE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="5% OFF nas compras cima de R$159" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>5% OFF nas compras cima de R$159</h3>
-                    <h1>5%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">MARABRAZ5OFF</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$100 ganhe 20%OFF na landing" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>Acima de R$100 ganhe 20%OFF na landing</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF na landing" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>15% OFF na landing</h3>
-                    <h1>15%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">LIQUIDA15</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Bolsas e mochilas com até 40%" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em Bolsas e mochilas com até 40%</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSAS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF  em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF  em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Tênis acima de R$ 200" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em Tênis acima de R$ 200</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">TENIS20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="40% OFF em jeans" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>40% OFF em jeans</h3>
-                    <h1>40%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">JEANS40</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos de inverno" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos de inverno</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">INVERNO20</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>15% OFF em produtos selecionados</h3>
-                    <h1>15%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ADORO15</span>
-                        </a>
-                    </div>                            
-                                    </div>
-            </div>
-        </div>
-         
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" class="img-responsive m-0-auto" />  
-                    </a>    
-                </div>  
-                <div class="footer-coupon text-center">
-                                        <h3>20% OFF em produtos selecionados</h3>
-                    <h1>20%</h1>
-                                                                        
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE20</span>
+                            <span class="txt-label">TEMPO50</span>
                         </a>
                     </div>                            
                                     </div>
@@ -1829,17 +1284,480 @@ export default function Index() {
         <div class="col-sm-4 col-md-4">
             <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="R$ 30 OFF em produtos selecionados" class="img-responsive m-0-auto" />  
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r75-off-para-lavadoras-selecionadas">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$75 OFF para lavadoras selecionadas" class="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
                 <div class="footer-coupon text-center">
-                                        <h3 class="m-b-20">R$ 30 OFF em produtos selecionados</h3>
+                                        <h3 class="m-b-20">R$75 OFF para lavadoras selecionadas</h3>
                                                                         
                     <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados" target="_blank">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r75-off-para-lavadoras-selecionadas" target="_blank">
                             <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">GANHE300F</span>
+                            <span class="txt-label">AWINLAVA75BTP_AN75</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 OFF para produtos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF para produtos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINGELADEIRA100BTP_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-nas-compras-acima-de-r2499vv">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$400 OFF nas compras acima de R$2499VV" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$400 OFF nas compras acima de R$2499VV</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-nas-compras-acima-de-r2499vv" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU400</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-lava-louas-selecionadas">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 OFF para lava-louças selecionadas" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF para lava-louças selecionadas</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-lava-louas-selecionadas" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINLAVALOUCA100BTP_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-off-top-sellers">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$150 OFF Top Sellers" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$150 OFF Top Sellers</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-off-top-sellers" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">BEST150BTPAWIN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-100-off-produtos-selecionados-no-link">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 100 OFF produtos selecionados no link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 100 OFF produtos selecionados no link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-100-off-produtos-selecionados-no-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">TEMPO100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-200-off-em-produtos-premium-brastemp">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 200 OFF em Produtos Premium Brastemp" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 200 OFF em Produtos Premium Brastemp</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-200-off-em-produtos-premium-brastemp" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU200</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-para-freezers-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 para freezers selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 para freezers selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-para-freezers-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINCONGELA100BTP_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50-off-em-refrigeradores-acima-de-1499">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$50 OFF em refrigeradores acima de 1499" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50 OFF em refrigeradores acima de 1499</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50-off-em-refrigeradores-acima-de-1499" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GELADEIRA50BTPAWIN_AN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 ">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistageladbrastfrostfree443l">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100OFF+5%ÀvistaGeladBrastFrostFree443L" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3>R$100OFF+5%ÀvistaGeladBrastFrostFree443L</h3>
+                    <h1>5%</h1>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistageladbrastfrostfree443l" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">MAIS100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-em-lavadoras-e-secadoras">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 OFF em lavadoras e secadoras" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF em lavadoras e secadoras</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-em-lavadoras-e-secadoras" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">ROUPALIMPA100BTPAWIN_AN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-em-todas-as-lavadoras-brastemp">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$200 OFF em TODAS as Lavadoras Brastemp" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200 OFF em TODAS as Lavadoras Brastemp</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-em-todas-as-lavadoras-brastemp" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">LAVA200</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-retros-selecionadas">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 OFF para retros selecionadas" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 OFF para retros selecionadas</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-off-para-retros-selecionadas" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINRETRO100BTP_AN100</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-para-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$150 para produtos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$150 para produtos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-para-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINBESTCUPOM_AN150</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-250-off-produtos-selecionados-no-link">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$ 250 OFF produtos selecionados no link" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$ 250 OFF produtos selecionados no link</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-250-off-produtos-selecionados-no-link" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">TEMPO250</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-para-fornos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$100 para Fornos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$100 para Fornos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100-para-fornos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">FORNO100BTPAWIN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 ">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/5-off-para-a-categoria-de-cooktop">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="5% OFF para a categoria de cooktop" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3>5% OFF para a categoria de cooktop</h3>
+                    <h1>5%</h1>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/5-off-para-a-categoria-de-cooktop" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">COOKS5BTPAWIN</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 ">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vistageladbrastfrostfree573l">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$300OFF+5%àvistaGeladBrastFrostFree573L" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3>R$300OFF+5%àvistaGeladBrastFrostFree573L</h3>
+                    <h1>5%</h1>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vistageladbrastfrostfree573l" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">APAIXONEI300</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-geladeira-brastemp-frost-free">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$400 OFF Geladeira Brastemp Frost Free " class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$400 OFF Geladeira Brastemp Frost Free </h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-geladeira-brastemp-frost-free" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">GANHOU400</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-geladebrastfrostfreeinverse443l">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$200OFF GeladeBrastFrostFreeInverse443L" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$200OFF GeladeBrastFrostFreeInverse443L</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-geladebrastfrostfreeinverse443l" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">MAIS200</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-off-para-produtos-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$150 OFF para produtos selecionados" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$150 OFF para produtos selecionados</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150-off-para-produtos-selecionados" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">AWINDESCONTO150_AN150</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offadega28garrafacompaineleletronico">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$50OFFAdega28GarrafaComPainelEletronico" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50OFFAdega28GarrafaComPainelEletronico</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offadega28garrafacompaineleletronico" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">SUPER50</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off-lavalouas14serviosbrastbranca">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$250OFF LavaLouças14ServiçosBrastBranca" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$250OFF LavaLouças14ServiçosBrastBranca</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off-lavalouas14serviosbrastbranca" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">APAIXONEI250</span>
+                        </a>
+                    </div>                            
+                                    </div>
+            </div>
+        </div>
+         
+        <div class="col-sm-4 col-md-4">
+            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div class="header-coupon">
+                    <a href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50-off-em-frigobar-120-litros-cor-inox">
+                        <img src="http://ui.zanox.com/images/programs/13604/13604_lgo_brastemp_br.png" alt="R$50 OFF em Frigobar 120 litros cor Inox" class="img-responsive m-0-auto" />  
+                    </a>    
+                </div>  
+                <div class="footer-coupon text-center">
+                                        <h3 class="m-b-20">R$50 OFF em Frigobar 120 litros cor Inox</h3>
+                                                                        
+                    <div class="btn-coupon-label-container m-0-auto">
+                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50-off-em-frigobar-120-litros-cor-inox" target="_blank">
+                            <span class="txt-princ">Ver Oferta</span>
+                            <span class="txt-label">SUPER50</span>
                         </a>
                     </div>                            
                                     </div>

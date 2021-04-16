@@ -11,7 +11,7 @@ export default function Index() {
         <meta property="og:title" content="Desconto e Cupons Desconto Grátis é no Busca Descontos" />
         <meta property="og:description" content="Desconto, Oferta e Cupom Desconto nas melhores Lojas. Milhares de Descontos Grátis no Maior Site de Descontos do Brasil" />
         <meta property="og:url" content="https://www.buscadescontos.com.br/evino" />
-        <meta property="og:image" content="_____img" />
+        <meta property="og:image" content="http://ui.zanox.com/images/programs/13275/13275_lgo_evino_br.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />
