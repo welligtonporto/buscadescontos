@@ -54,3 +54,19 @@ header .flex-header div:nth-child(2) {
   font-size: 30px;
   line-height: 35px;
 }
+
+section.offer-track.relative-fixed-on-scroll {
+  max-height: none;
+}
+
+section.offer-track.relative-fixed-on-scroll.v2 {
+  margin-top: 0;
+}
+
+section.offer-track.relative-fixed-on-scroll.v2 .offer-track-content .img-offer-track {
+  bottom: -40px;
+}
+
+section.offer-track.relative-fixed-on-scroll .offer-track-content .img-offer-track img {
+  margin-bottom: 0;
+}

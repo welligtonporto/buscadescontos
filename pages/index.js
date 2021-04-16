@@ -4,14 +4,14 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>_____title</title>
-        <meta name="description" content="_____description" />
-        <link rel="canonical" href="_____link" />
+        <title>Desconto e Cupons Desconto Grátis é no Busca Descontos</title>
+        <meta name="description" content="Desconto, Oferta e Cupom Desconto nas melhores Lojas. Milhares de Descontos Grátis no Maior Site de Descontos do Brasil" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/" />
 
-        <meta property="og:title" content="_____title" />
-        <meta property="og:description" content="_____description" />
-        <meta property="og:url" content="_____link" />
-        <meta property="og:image" content="_____img" />
+        <meta property="og:title" content="Desconto e Cupons Desconto Grátis é no Busca Descontos" />
+        <meta property="og:description" content="Desconto, Oferta e Cupom Desconto nas melhores Lojas. Milhares de Descontos Grátis no Maior Site de Descontos do Brasil" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/" />
+        <meta property="og:image" content="https://www.buscadescontos.com.br/img/busca-desconto-og.png" />
 
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="649" />
@@ -65,6 +65,32 @@ export default function Index() {
                 </div>
             </div>
         </div>
+
+        <section className="offer-track bg-yellow relative-fixed-on-scroll v2">
+            <div className="container p-relative offer-track-content">
+                <div className="img-offer-track">
+                    <img src="/img/img-oferta-v2.png" alt="Oferta" className="img-responsive"/>
+                </div>
+                <div className="row">
+                    <div className="col-sm-offset-4 col-sm-4 col-md-offset-3 col-md-4">
+                        <h1 className="editContent"> Receba novidades, ofertas e os melhores cupons no seu email </h1>
+                    </div>
+                    <div className="col-sm-4 col-md-5">
+                        <div className="row">
+                            <form className="form-offer-track" data-form-send="newsletter">
+                                <div className="form-group">
+                                    <input className="form-control" name="email" placeholder="Digite seu e-mail aqui" required="" type="email"/>
+                                </div>
+                                <button type="submit"> 
+                                    <span className="editContent"> Quero desconto! </span>
+                                </button>                                    
+                            </form>
+                        </div>
+                        <p>Ao enviar seus dados, você aceita nossa <a href="/politica-de-privacidade" target="_blank">Política de Privacidade</a> além de receber nossas ofertas e publicidade enviado por Black Friday/Busca Descontos e nossos parceiros .</p>
+                    </div>
+                </div>
+            </div>
+        </section>
       </section>
     </>
   )
