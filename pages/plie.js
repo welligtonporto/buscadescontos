@@ -64,7 +64,7 @@ export default function Index() {
         </div>
         <div className="col-md-4">
         <div className="btn-coupon-label-container m-0-auto">
-        <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/plie/coupons/10off-em-todo-o-site" target="_blank">
+        <a className="btn-coupon-label btn-coupon-green" href="/open/plie/coupons/10off-em-todo-o-site" target="_blank">
         <span className="txt-princ">Ver Oferta</span>
         <span className="txt-label">WELCOME</span>
         </a>
@@ -89,7 +89,7 @@ export default function Index() {
         </div>
         <div className="col-md-4">
         <div className="btn-coupon-label-container m-0-auto">
-        <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/plie/coupons/10off-de-desconto-em-todo-o-site" target="_blank">
+        <a className="btn-coupon-label btn-coupon-green" href="/open/plie/coupons/10off-de-desconto-em-todo-o-site" target="_blank">
         <span className="txt-princ">Ver Oferta</span>
         <span className="txt-label">PLIEZANOX</span>
         </a>
@@ -104,7 +104,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
         <div className="coupon border-pad hide-768 m-b-20 ">
         <div className="header-coupon">
-        <a href="https://www.buscadescontos.com.br/open/plie/coupons/10off-em-todo-o-site">
+        <a href="/open/plie/coupons/10off-em-todo-o-site">
         <img src="http://ui.zanox.com/images/programs/17660/17660_lgo_plie_br.png" alt="10%OFF em Todo o Site" className="img-responsive m-0-auto"/>  
         </a>    
         </div>  
@@ -113,7 +113,7 @@ export default function Index() {
         <h1>10%</h1>
 
         <div className="btn-coupon-label-container m-0-auto">
-        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/plie/coupons/10off-em-todo-o-site" target="_blank">
+        <a className="btn-coupon-label btn-coupon-border-white" href="/open/plie/coupons/10off-em-todo-o-site" target="_blank">
         <span className="txt-princ">Ver Oferta</span>
         <span className="txt-label">WELCOME</span>
         </a>

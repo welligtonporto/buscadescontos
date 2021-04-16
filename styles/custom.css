@@ -70,3 +70,19 @@ section.offer-track.relative-fixed-on-scroll.v2 .offer-track-content .img-offer-
 section.offer-track.relative-fixed-on-scroll .offer-track-content .img-offer-track img {
   margin-bottom: 0;
 }
+
+/* Coupon */
+.redirect-page {
+  height: 100vh;
+  display: table;
+  width: 100%;
+}
+
+.redirect-page section {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.redirect-page + footer {
+  display: none;
+}
