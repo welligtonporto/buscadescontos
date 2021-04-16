@@ -24,15 +24,15 @@ export default function Index() {
 </Head>
     <section id="main-content">
             <section>
-    <div class="container">
-        <div class="bg-category border-pad">
-            <div class="row flex-bg-category">
-                <div class="col-md-5">
-                                    <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="Netshoes - Shop Vasco " class="img-responsive m-0-auto" />
+    <div className="container">
+        <div className="bg-category border-pad">
+            <div className="row flex-bg-category">
+                <div className="col-md-5">
+                                    <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="Netshoes - Shop Vasco " className="img-responsive m-0-auto" />
                                 </div>
-                <div class="col-md-7">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-10">
+                <div className="col-md-7">
+                    <div className="row">
+                        <div className="col-sm-12 col-md-10">
                             <p></p>
                         </div>
                     </div>
@@ -42,82 +42,82 @@ export default function Index() {
     </div>
 </section>
 
-<section class="p-t-20">
-<div class="container">        
-    <div class="row">
-            <div class="col-sm-8 col-md-8">
-            <div class="row offers-group">
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+<section className="p-t-20">
+<div className="container">        
+    <div className="row">
+            <div className="col-sm-8 col-md-8">
+            <div className="row offers-group">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                                     15%
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>15% OFF no site</h2>  
                                                                    
                                 <p><b>Regras: </b>15% OFF no site
 </p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN15</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">AWIN15</span>
                                     </a>
                                 </div>
                             </div>
                                                     </div>
                     </div>
                 </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                                     10%
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="10% OFF em todo o site" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="10% OFF em todo o site" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>10% OFF em todo o site</h2>  
                                                                    
                                 <p><b>Regras: </b>10% OFF em todo o site</p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/10-off-em-todo-o-site" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN10</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/10-off-em-todo-o-site" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">AWIN10</span>
                                     </a>
                                 </div>
                             </div>
                                                     </div>
                     </div>
                 </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                                     15%
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>15% OFF no site</h2>  
                                                                    
                                 <p><b>Regras: </b>15% OFF no site
 </p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">AWIN15</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">AWIN15</span>
                                     </a>
                                 </div>
                             </div>
@@ -127,21 +127,21 @@ export default function Index() {
                             </div>
         </div>           
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
                     <a href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site">
-                        <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" class="img-responsive m-0-auto" />  
+                        <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF no site</h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">AWIN15</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">AWIN15</span>
                         </a>
                     </div>                            
                                     </div>

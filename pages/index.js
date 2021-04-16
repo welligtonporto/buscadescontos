@@ -1,60 +1,71 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from "next/head"
 
-export default function Home() {
+export default function Index() {
   return (
-    <div className={styles.container}>
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+    <>
+      <Head>
+        <title>_____title</title>
+        <meta name="description" content="_____description" />
+        <link rel="canonical" href="_____link" />
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <meta property="og:title" content="_____title" />
+        <meta property="og:description" content="_____description" />
+        <meta property="og:url" content="_____link" />
+        <meta property="og:image" content="_____img" />
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="649" />
+        <meta property="og:image:height" content="649" />
+        <meta property="og:locale" content="pt-br" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="pilha" />
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
+        <meta name="msvalidate.01" content="E9890CFD71E9635C4502AAC28C05B1B0" />
+      </Head>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
+      <section id="main-content">
+        <div>new banner</div>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+        <div className="customBanner">
+            <div className="container">
+                <div className="border-pad black-gradient-bg banner-register-bf small p-l-5 p-r-5">
+                    <div className="row flex center">
+                        <div className="col-md-7">
+                            <img src="/img/logo-bf-lighting.png" className="img-responsive m-0-auto logo-bf"/>
+                            <form action="" className="m-b-10 form-banner-op-02" data-form-send="newsletter">
+                                <div className="row">
+                                    <div className="col-sm-5 col-md-5 m-b-20-mb"> 
+                                        <div className="form-group">                                           
+                                            <input type="text" name="name" className="form-control" placeholder="Seu nome" required=""/>
+                                        </div>
+                                    </div>
+                                    <div className="col-sm-7 col-md-7">
+                                        <div className="banner-op-2-input-button">
+                                            <div className="form-group">                                               
+                                                <input type="email" name="email" placeholder="Digite seu e-mail" required=""/>
+                                            </div>
+                                            <button type="submit" className="editContent"> Cadastrar </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-12">
+                                    <div className="row">
+                                        <div className="or-text">
+                                            ou entre com a sua conta do
+                                            <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=1463689027024101&amp;state=11b4bf8633a3dfec3f252fd3ba2e60d8&amp;response_type=code&amp;sdk=php-sdk-5.6.3&amp;redirect_uri=https%3A%2F%2Fwww.buscadescontos.com.br%2Ffacebook%2Fcallback&amp;scope=email" className="loginBtn loginBtn--facebook s-small"></a> 
+                                        </div>                                
+                                    </div>
+                                </div>
+                            </form>
+                            <div className="row">
+                                <h1 className="text-center m-b-20 editContent banner-title">Cadastre-se para receber as melhores <br/> ofertas do Black-Friday</h1>   
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
-    </div>
+      </section>
+    </>
   )
 }
