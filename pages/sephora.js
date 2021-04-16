@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/ganhe-brinde-em-compras-acima-de-r300" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/ganhe-brinde-em-compras-acima-de-r300" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEAUTY</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/acima-de-r99-ganhe-brinde" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/acima-de-r99-ganhe-brinde" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DIVA</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEAUTYSKIN</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/brinde-ganhe-brinde-surpresa" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/brinde-ganhe-brinde-surpresa" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUEROMINI</span>
                                     </a>
@@ -165,7 +165,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NATURA40</span>
                                     </a>
@@ -191,7 +191,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/30-off-em-produtos-selecionados-lancome" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/30-off-em-produtos-selecionados-lancome" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LANCOME30</span>
                                     </a>
@@ -216,7 +216,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/35-off-em-todos-os-produtos-da-natura" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/35-off-em-todos-os-produtos-da-natura" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NATURA35</span>
                                     </a>
@@ -241,7 +241,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/sephora/coupons/r-20-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/sephora/coupons/r-20-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PCH1I720</span>
                                     </a>

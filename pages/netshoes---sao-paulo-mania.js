@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/20-off-na-linha-2021" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/20-off-na-linha-2021" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">afiliados20off</span>
                                     </a>
@@ -90,7 +90,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CLUBESAOPAULO15</span>
                                     </a>
@@ -116,7 +116,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CLUBESAOPAULO15</span>
                                     </a>
@@ -142,7 +142,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN15</span>
                                     </a>
@@ -167,7 +167,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN15</span>
                                     </a>
@@ -192,7 +192,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/20-off-em-seleo-de-camisetas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/20-off-em-seleo-de-camisetas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SPMANIA</span>
                                     </a>
@@ -217,7 +217,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN10</span>
                                     </a>
@@ -243,7 +243,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWN15</span>
                                     </a>

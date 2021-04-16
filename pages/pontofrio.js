@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OUTLET</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OUTLET</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OUTLET</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OUTLET</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELETRO</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PIN</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-eletroportteis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-eletroportteis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DESCONTO15</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOYS10</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ESQUENTA</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -339,7 +339,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -364,7 +364,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -389,7 +389,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA</span>
                                     </a>
@@ -414,7 +414,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA</span>
                                     </a>
@@ -439,7 +439,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA</span>
                                     </a>
@@ -464,7 +464,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA</span>
                                     </a>
@@ -489,7 +489,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-ferramentas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-ferramentas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CASA10</span>
                                     </a>
@@ -514,7 +514,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-ferramentas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-ferramentas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CASA05</span>
                                     </a>
@@ -539,7 +539,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUSH</span>
                                     </a>
@@ -564,7 +564,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-25-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-25-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUSH</span>
                                     </a>
@@ -589,7 +589,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUSH</span>
                                     </a>
@@ -614,7 +614,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUSH</span>
                                     </a>
@@ -639,7 +639,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BLACK</span>
                                     </a>
@@ -664,7 +664,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BLACK</span>
                                     </a>
@@ -689,7 +689,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BLACK</span>
                                     </a>
@@ -714,7 +714,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-eletrodom" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-eletrodom" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELETROHOME</span>
                                     </a>
@@ -739,7 +739,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BLACK</span>
                                     </a>
@@ -763,7 +763,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/r500-off-em-samsung-galaxy-s20" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/r500-off-em-samsung-galaxy-s20" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MEUS20</span>
                                     </a>
@@ -788,7 +788,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-eletroportteis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-eletroportteis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELETRO15</span>
                                     </a>
@@ -813,7 +813,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PIN</span>
                                     </a>
@@ -838,7 +838,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PIN</span>
                                     </a>
@@ -863,7 +863,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PIN</span>
                                     </a>
@@ -888,7 +888,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PIN</span>
                                     </a>
@@ -913,7 +913,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-diverso-em-casa" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-diverso-em-casa" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOYSOFF</span>
                                     </a>
@@ -938,7 +938,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10-off-em-eletrodomsticos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-10-off-em-eletrodomsticos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOEMCASA</span>
                                     </a>
@@ -963,7 +963,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-mveis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-mveis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PINGUIM10</span>
                                     </a>
@@ -988,7 +988,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -1013,7 +1013,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -1038,7 +1038,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -1063,7 +1063,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PEGUEI</span>
                                     </a>
@@ -1088,7 +1088,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOEMCASA</span>
                                     </a>
@@ -1113,7 +1113,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-produtos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-seleo-de-produtos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOSCH10</span>
                                     </a>
@@ -1138,7 +1138,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/5-off-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELAMERECE</span>
                                     </a>
@@ -1163,7 +1163,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MALA10</span>
                                     </a>
@@ -1188,7 +1188,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/15-off-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELAMERECE</span>
                                     </a>
@@ -1213,7 +1213,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELAMERECE</span>
                                     </a>
@@ -1238,7 +1238,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/20-off-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELAMERECE</span>
                                     </a>
@@ -1263,7 +1263,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-malas-mochilas-e-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MALA10</span>
                                     </a>
@@ -1288,7 +1288,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-aquecedores" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/pontofrio/coupons/10-off-em-aquecedores" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AQUEC10</span>
                                     </a>

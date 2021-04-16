@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/10-off-em-compras-acima-de-r7990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/10-off-em-compras-acima-de-r7990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINECOMFUT10</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/5-off-em-todo-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/5-off-em-todo-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINECOMFUT5</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/15-off-em-compra-acima-de-r15990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/15-off-em-compra-acima-de-r15990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINECOMFUT15</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/10off-acima-de-r199-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/10off-acima-de-r199-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VAIDE10FUT</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/5-off-em-toda-a-loja" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/5-off-em-toda-a-loja" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VAIDE5FUT</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/8off-acima-de-r99-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/8off-acima-de-r99-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VAIDE8FUT</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/ganhe-20off-se-valor-mnimo-de-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/ganhe-20off-se-valor-mnimo-de-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CARNAFUT20</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/ganhe-20-off-em-compras-acima-de-r300" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/ganhe-20-off-em-compras-acima-de-r300" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FUTFAN20</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/ganhe-15-off-sem-mnimo-de-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/ganhe-15-off-sem-mnimo-de-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FUTFAN15</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/10-off-em-compras-acima-de-r-19990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/10-off-em-compras-acima-de-r-19990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VEMCOM10NAFUT</span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/5-off-em-toda-loja-sem-valor-mnimo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/5-off-em-toda-loja-sem-valor-mnimo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VEMCOM5NAFUT</span>
                                     </a>
@@ -339,7 +339,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/8-off-em-compras-acima-de-r-9990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/8-off-em-compras-acima-de-r-9990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VEMCOM8NAFUT</span>
                                     </a>
@@ -365,7 +365,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/8-off--nas-compras-acima-r-9990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/8-off--nas-compras-acima-r-9990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TOP8FUT</span>
                                     </a>
@@ -391,7 +391,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/10-off-nas-compras-acima-19990" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/10-off-nas-compras-acima-19990" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TOP10FUT</span>
                                     </a>
@@ -417,7 +417,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/5-off-em-toda-a-loja" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/5-off-em-toda-a-loja" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TOP5FUT</span>
                                     </a>
@@ -442,7 +442,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/5off-nas-compras-acima-de-r150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/5off-nas-compras-acima-de-r150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FNT5FC</span>
                                     </a>
@@ -468,7 +468,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fut-fanatics/coupons/10off-nas-compras-acima-de-r300" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fut-fanatics/coupons/10off-nas-compras-acima-de-r300" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FNT10FC</span>
                                     </a>

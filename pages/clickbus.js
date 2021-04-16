@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/6-para-compras-a-partir-de-r-33000" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/6-para-compras-a-partir-de-r-33000" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWINCLICKBUS6</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/4-para-compras-a-partir-de-r-16500" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/4-para-compras-a-partir-de-r-16500" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWINCLICKBUS4</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10off-acima-de-r100-no-passaro-marron" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10off-acima-de-r100-no-passaro-marron" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PASSARONABUS</span>
                                     </a>
@@ -140,7 +140,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">5ABUS</span>
                                     </a>
@@ -166,7 +166,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">8ABUS</span>
                                     </a>
@@ -192,7 +192,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10ABUS</span>
                                     </a>
@@ -218,7 +218,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">5AWNCBUS</span>
                                     </a>
@@ -243,7 +243,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">50AWNCBUS</span>
                                     </a>
@@ -269,7 +269,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10AWNCBUS</span>
                                     </a>
@@ -295,7 +295,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">8AWNCBUS</span>
                                     </a>
@@ -321,7 +321,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">8AWNCLICK</span>
                                     </a>
@@ -347,7 +347,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">5AWNCLICK</span>
                                     </a>
@@ -372,7 +372,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">50AWNCLICK</span>
                                     </a>
@@ -398,7 +398,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10AWNCLICK</span>
                                     </a>
@@ -424,7 +424,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCBUS5</span>
                                     </a>
@@ -450,7 +450,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCBUS8</span>
                                     </a>
@@ -475,7 +475,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCBUS50</span>
                                     </a>
@@ -501,7 +501,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCBUS10</span>
                                     </a>
@@ -527,7 +527,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCLICK10</span>
                                     </a>
@@ -553,7 +553,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCLICK8</span>
                                     </a>
@@ -579,7 +579,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCLICK5</span>
                                     </a>
@@ -604,7 +604,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/r-50-off-em-compras-acima-de-r-400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCLICK50</span>
                                     </a>
@@ -629,7 +629,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/r-50-off-em-compras-a-partir-de-r-400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/r-50-off-em-compras-a-partir-de-r-400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS50</span>
                                     </a>
@@ -655,7 +655,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-em-compras-a-partir-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-em-compras-a-partir-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS8</span>
                                     </a>
@@ -681,7 +681,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/12-off-em-compras-a-partir-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/12-off-em-compras-a-partir-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWNCBUS12</span>
                                     </a>
@@ -707,7 +707,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-em-compras-a-partir-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-em-compras-a-partir-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS10</span>
                                     </a>
@@ -733,7 +733,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-no-site-sem-valor-mnimo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-no-site-sem-valor-mnimo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS05</span>
                                     </a>
@@ -759,7 +759,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/10-off-nas-compras-acima-de-r-250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS10</span>
                                     </a>
@@ -785,7 +785,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-nas-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS8</span>
                                     </a>
@@ -811,7 +811,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABUS5</span>
                                     </a>
@@ -834,7 +834,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ZBUS8</span>
                                     </a>
@@ -857,7 +857,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ZBUS05</span>
                                     </a>
@@ -882,7 +882,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/40-de-desconto-no-site-todo-com-limite" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/40-de-desconto-no-site-todo-com-limite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PARTIUFESTA</span>
                                     </a>
@@ -907,7 +907,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/8off-em-todo-site-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/8off-em-todo-site-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ZBUS8</span>
                                     </a>
@@ -932,7 +932,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/clickbus/coupons/5-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ZBUS05</span>
                                     </a>

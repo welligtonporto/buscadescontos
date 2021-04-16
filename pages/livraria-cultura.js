@@ -64,7 +64,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20-off-em-livros---confira-as-regras" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20-off-em-livros---confira-as-regras" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">CULTURA20SP</span>
     </a>
@@ -90,7 +90,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20-off-na-categoria-livros" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20-off-na-categoria-livros" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROLIVROS</span>
     </a>
@@ -116,7 +116,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20-off-em-livros" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20-off-em-livros" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">AWIN20</span>
     </a>
@@ -142,7 +142,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/15-off-na-categoria-msica" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/15-off-na-categoria-msica" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROMUSICA</span>
     </a>
@@ -168,7 +168,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/15-off-na-categoria-filmes" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/15-off-na-categoria-filmes" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROFILMES</span>
     </a>
@@ -193,7 +193,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/15-off-na-categoria-msica" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/15-off-na-categoria-msica" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROMUSICA</span>
     </a>
@@ -218,7 +218,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20-off-na-categoria-livros" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20-off-na-categoria-livros" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROLIVROS</span>
     </a>
@@ -243,7 +243,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/15-off-na-categoria-filmes" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/15-off-na-categoria-filmes" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">QUEROFILMES</span>
     </a>
@@ -269,7 +269,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20-off-em-livros-selecionados" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20-off-em-livros-selecionados" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">AWIN20</span>
     </a>
@@ -292,7 +292,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20off-em-lista-de-livros-selecionados" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20off-em-lista-de-livros-selecionados" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">AWIN20</span>
     </a>
@@ -317,7 +317,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20off-em-livros" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20off-em-livros" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">AWIN20OUT</span>
     </a>
@@ -340,7 +340,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20off-em-todos-os-livros-do-site" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20off-em-todos-os-livros-do-site" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">AWINSETLCLIVROS20</span>
     </a>
@@ -365,7 +365,7 @@ export default function Index() {
     </div>
     <div class="col-md-4">
     <div class="btn-coupon-label-container m-0-auto">
-    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/livraria-cultura/coupons/20off-em-lista-de-produtos-selecionados" target="_blank">
+    <a class="btn-coupon-label btn-coupon-green" href="/open/livraria-cultura/coupons/20off-em-lista-de-produtos-selecionados" target="_blank">
     <span class="txt-princ">Ver Oferta</span>
     <span class="txt-label">DRACARYS</span>
     </a>

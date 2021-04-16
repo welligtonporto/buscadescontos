@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r500off-em-samsung-galaxy-note-10-lite" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r500off-em-samsung-galaxy-note-10-lite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MADRUGAN10L</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r250-off-em-galaxy-note-10-lite" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r250-off-em-galaxy-note-10-lite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">N770FZ</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MEUZENFONE</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r150-off-em-galaxy-note-10" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r150-off-em-galaxy-note-10" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">N770FZ</span>
                                     </a>
@@ -159,7 +159,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100-off-no-galaxy-a71" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r100-off-no-galaxy-a71" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">A715FZ</span>
                                     </a>
@@ -183,7 +183,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-no-zenfone-6-128gb" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r400-off-no-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MEUZENFONE</span>
                                     </a>
@@ -207,7 +207,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r400-off-em-zenfone-6-128gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MEUZENFONE</span>
                                     </a>
@@ -231,7 +231,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100off-no-galaxy-s10-128-gb" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r100off-no-galaxy-s10-128-gb" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">S10PLUS</span>
                                     </a>
@@ -256,7 +256,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/10off-na-smart-tv-4k-lg-oled-ai-65" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/10off-na-smart-tv-4k-lg-oled-ai-65" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LGOLED</span>
                                     </a>
@@ -280,7 +280,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r100-off-no-produto-galaxy-s10" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r100-off-no-produto-galaxy-s10" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">S10PLUS100</span>
                                     </a>
@@ -306,7 +306,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/50-off-em-acessrios-apple-da-lista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/50-off-em-acessrios-apple-da-lista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AO50</span>
                                     </a>
@@ -332,7 +332,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DESCONTO5OFF</span>
                                     </a>
@@ -358,7 +358,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit-e" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/7-off-em-galaxy-fit-e" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SAMSUNG7</span>
                                     </a>
@@ -384,7 +384,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/7-off-em-galaxy-fit" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/7-off-em-galaxy-fit" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SAMSUNG7</span>
                                     </a>
@@ -409,7 +409,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/5-off-na-fechadura-digital-da-landing" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DESCONTO5OFF</span>
                                     </a>
@@ -435,7 +435,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/12-off-em-galaxy-watch" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/12-off-em-galaxy-watch" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SAMSUNG12</span>
                                     </a>
@@ -461,7 +461,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/10-off-em-galaxy-watch-active" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/10-off-em-galaxy-watch-active" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SAMSUNG10</span>
                                     </a>
@@ -486,7 +486,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r7599-no-boleto-imac-com-intel-core-i5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r7599-no-boleto-imac-com-intel-core-i5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MEUIMAC</span>
                                     </a>
@@ -512,7 +512,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-em-adegas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/5-off-em-adegas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">UT5OFF</span>
                                     </a>
@@ -537,7 +537,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/r-400-off-na-lista-de-racks" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/r-400-off-na-lista-de-racks" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">RACK400</span>
                                     </a>
@@ -563,7 +563,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/fastshop/coupons/5-off-nos-produtos-da-landing" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/fastshop/coupons/5-off-nos-produtos-da-landing" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LB5OFF</span>
                                     </a>

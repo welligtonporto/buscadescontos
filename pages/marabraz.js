@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/5-off-em-todo-o-site-sem-mnimo-de-comp" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/5-off-em-todo-o-site-sem-mnimo-de-comp" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">5OFFMARA</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r699" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r699" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/5-off-para-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/5-off-para-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">5OFFMARA</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-de-desconto-na-primeira-compra-acima" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-de-desconto-na-primeira-compra-acima" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-em-compras-acima-de-r499" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-em-compras-acima-de-r499" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-para-compras-acima-de-r59900" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-para-compras-acima-de-r59900" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">10OFFMARA</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/5off-em-todo-site-sem-minimo-de-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/5off-em-todo-site-sem-minimo-de-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">5OFFMARA</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r400" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r400" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO </span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-off-em-compras-acima-de-r39900" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-off-em-compras-acima-de-r39900" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label"> 7OFFMARA </span>
                                     </a>
@@ -340,7 +340,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r400" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-primeira-compra-acima-de-r400" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -366,7 +366,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-para-compras-acima-de-r599" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-para-compras-acima-de-r599" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">10OFFMARA</span>
                                     </a>
@@ -392,7 +392,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15off-no-site-acima-de-r599" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15off-no-site-acima-de-r599" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">15BLACK</span>
                                     </a>
@@ -418,7 +418,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-off-em-compras-acima-de-r399" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-off-em-compras-acima-de-r399" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -444,7 +444,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15-off-acima-de-r-599-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15-off-acima-de-r-599-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MARA15</span>
                                     </a>
@@ -470,7 +470,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/40-off-validos-para-produtos-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/40-off-validos-para-produtos-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">40OFFMARA</span>
                                     </a>
@@ -496,7 +496,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/12-off-valido-para-produtos-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/12-off-valido-para-produtos-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">12MARA</span>
                                     </a>
@@ -522,7 +522,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15-off-em-compras-acima-de-r799" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15-off-em-compras-acima-de-r799" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MARAMAIS</span>
                                     </a>
@@ -547,7 +547,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/5offno-site-sem-mnimo-de-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/5offno-site-sem-mnimo-de-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">5OFFMARA</span>
                                     </a>
@@ -572,7 +572,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off--para-compras-acima-de-r59900" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off--para-compras-acima-de-r59900" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">10OFFMARA</span>
                                     </a>
@@ -597,7 +597,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off--na-primeira-compra-acima-de-r40" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off--na-primeira-compra-acima-de-r40" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -622,7 +622,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15-off-nas-compras-acima-de-r599" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15-off-nas-compras-acima-de-r599" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CONSUMIDORMARA</span>
                                     </a>
@@ -647,7 +647,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7off-em-compras-acima-de-r39900" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7off-em-compras-acima-de-r39900" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -672,7 +672,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/5off-no-site-sem-mnimo-de-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/5off-no-site-sem-mnimo-de-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">5OFFMARA</span>
                                     </a>
@@ -697,7 +697,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-1-compra-acima-r400" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-1-compra-acima-r400" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -722,7 +722,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-acima-de-r599" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-acima-de-r599" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">10OFFMARA</span>
                                     </a>
@@ -747,7 +747,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7off-em-compras-acima-de-r399" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7off-em-compras-acima-de-r399" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -772,7 +772,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15off-acima-de-r799" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15off-acima-de-r799" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">48MARA</span>
                                     </a>
@@ -797,7 +797,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15-off-em-produtos-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15-off-em-produtos-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNAMARA</span>
                                     </a>
@@ -822,7 +822,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-em-seleo-de-quarto" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-em-seleo-de-quarto" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUARTO10</span>
                                     </a>
@@ -847,7 +847,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/9-off-em-seleo-de-cozinha" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/9-off-em-seleo-de-cozinha" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COZINHA9</span>
                                     </a>
@@ -872,7 +872,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-em-itens-da-seleo-de-sala" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-em-itens-da-seleo-de-sala" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALA10</span>
                                     </a>
@@ -897,7 +897,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/9-off-em-seleo-sala-de-jantar" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/9-off-em-seleo-sala-de-jantar" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JANTAR9</span>
                                     </a>
@@ -922,7 +922,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-na-1-compra-acima-de-r40000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-na-1-compra-acima-de-r40000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -947,7 +947,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/9-off-em-itens-da-seleo-bebs" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/9-off-em-itens-da-seleo-bebs" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEBE9OFF</span>
                                     </a>
@@ -972,7 +972,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-off-em-compras-acima-de-r39900" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-off-em-compras-acima-de-r39900" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -997,7 +997,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/9-off-em-seleo-de-cozinha" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/9-off-em-seleo-de-cozinha" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COZINHA9OFF</span>
                                     </a>
@@ -1022,7 +1022,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10-off-em-sala-de-estar" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10-off-em-sala-de-estar" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALA10OFF</span>
                                     </a>
@@ -1047,7 +1047,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7off-nos-produtos-da-landing-page" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7off-nos-produtos-da-landing-page" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALA7</span>
                                     </a>
@@ -1072,7 +1072,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/9-off-nos-produtos-da-landing-page" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/9-off-nos-produtos-da-landing-page" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUARTO9</span>
                                     </a>
@@ -1097,7 +1097,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/8off-nos-produtos-da-landing-page" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/8off-nos-produtos-da-landing-page" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ESTUDO8</span>
                                     </a>
@@ -1122,7 +1122,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/15-off-nas-compras-acima-de-r699" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/15-off-nas-compras-acima-de-r699" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIMPAESTOQUE</span>
                                     </a>
@@ -1147,7 +1147,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-nos-produtos-da-landing-page" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-nos-produtos-da-landing-page" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JANTAR10</span>
                                     </a>
@@ -1172,7 +1172,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-primeira-compra-acima-r400" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-primeira-compra-acima-r400" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO</span>
                                     </a>
@@ -1197,7 +1197,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/7-de-desconto-em-compras-acima-de-r399" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">7OFFMARA</span>
                                     </a>
@@ -1222,7 +1222,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-landing-page--tapete" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-landing-page--tapete" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TAPETE15</span>
                                     </a>
@@ -1247,7 +1247,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-landing-page--quarto" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-landing-page--quarto" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUARTO10MAIS</span>
                                     </a>
@@ -1272,7 +1272,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-landing-page--bebe" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-landing-page--bebe" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEBE8MAIS</span>
                                     </a>
@@ -1297,7 +1297,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marabraz/coupons/10off-na-landing-page--jantar" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marabraz/coupons/10off-na-landing-page--jantar" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JANTAR7MAIS</span>
                                     </a>

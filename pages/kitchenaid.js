@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r100off-mixerdemo5velocidadesempirered" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r100off-mixerdemo5velocidadesempirered" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Mixer100</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r100off-conjuntopanelasaluminio-6-peas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r100off-conjuntopanelasaluminio-6-peas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Kad100</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r100offconjuntopanelasalumnioesmaltado" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r100offconjuntopanelasalumnioesmaltado" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Kad100</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r50off-cafeteira-automtica-kitchenaid" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r50off-cafeteira-automtica-kitchenaid" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KAD50</span>
                                     </a>
@@ -159,7 +159,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r100off-mixerdemo5velocidades----110v" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r100off-mixerdemo5velocidades----110v" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Mixer100</span>
                                     </a>
@@ -183,7 +183,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r50off-conjuntodepanelasalumnio6peas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r50off-conjuntodepanelasalumnio6peas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Panela50</span>
                                     </a>
@@ -207,7 +207,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r50off-em-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r50off-em-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PROMO50</span>
                                     </a>
@@ -232,7 +232,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/15-off-batedeirastandmixerprofissional" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/15-off-batedeirastandmixerprofissional" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kad15pro</span>
                                     </a>
@@ -257,7 +257,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kadjul</span>
                                     </a>
@@ -282,7 +282,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kadjul</span>
                                     </a>
@@ -307,7 +307,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kadjul</span>
                                     </a>
@@ -332,7 +332,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kadjul</span>
                                     </a>
@@ -357,7 +357,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-em-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PRMO10KAD</span>
                                     </a>
@@ -382,7 +382,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/10-off-nos-produtos-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/10-off-nos-produtos-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KADOFF</span>
                                     </a>
@@ -407,7 +407,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/15off-para-as-panelas-kitchenaid" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/15off-para-as-panelas-kitchenaid" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAESKAD</span>
                                     </a>
@@ -432,7 +432,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/15-off-em-todo-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/15-off-em-todo-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KADMAR</span>
                                     </a>
@@ -456,7 +456,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r150off---batedeira-stand-mixer-artisan" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r150off---batedeira-stand-mixer-artisan" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NATAL150</span>
                                     </a>
@@ -480,7 +480,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/r150off-em-batedeira-stand-mixer-empire" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/r150off-em-batedeira-stand-mixer-empire" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KAD150</span>
                                     </a>
@@ -506,7 +506,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/20-off-no-mixer-de-mo-2-velocidades" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/20-off-no-mixer-de-mo-2-velocidades" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KADAGO </span>
                                     </a>
@@ -532,7 +532,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kitchenaid/coupons/20-off-na-batedeira-stand-mixer-kitchen" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/kitchenaid/coupons/20-off-na-batedeira-stand-mixer-kitchen" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KADAGO </span>
                                     </a>

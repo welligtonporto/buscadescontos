@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO100</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO50</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r-200-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r-200-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO200</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO150</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50offmqdelavarconsul-9kg--5vista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50offmqdelavarconsul-9kg--5vista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -185,7 +185,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50offgeladconsulfrostfree342l5vista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50offgeladconsulfrostfree342l5vista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -210,7 +210,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50off-fogo-consul-4bocas--10-vista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50off-fogo-consul-4bocas--10-vista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -234,7 +234,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50-off-em-cervejeira-consul-amarela" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50-off-em-cervejeira-consul-amarela" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -259,7 +259,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50off-geladconsulfrostfreeduplex-397l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50off-geladconsulfrostfreeduplex-397l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -283,7 +283,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150-off-em-cervejeira-consul-vermelha" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150-off-em-cervejeira-consul-vermelha" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO150</span>
                                     </a>
@@ -308,7 +308,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50off-coifaparedeconsul-60cm5-vista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50off-coifaparedeconsul-60cm5-vista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -333,7 +333,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off-cooktop5bocasconsul--10vista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off-cooktop5bocasconsul--10vista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO100</span>
                                     </a>
@@ -357,7 +357,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off-mquina-de-lavar-consul-12kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off-mquina-de-lavar-consul-12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO100</span>
                                     </a>
@@ -381,7 +381,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200off-freezerhorizconsul-2portas414l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200off-freezerhorizconsul-2portas414l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO200</span>
                                     </a>
@@ -405,7 +405,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off-primeracompra-acimader159900" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off-primeracompra-acimader159900" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PRIMEIROCNS</span>
                                     </a>
@@ -429,7 +429,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50offarcondicionadojanela7500btuscons" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50offarcondicionadojanela7500btuscons" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMPENSADO50</span>
                                     </a>
@@ -453,7 +453,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off5vista-geladconsfrostfree386l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off5vista-geladconsfrostfree386l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI100</span>
                                     </a>
@@ -477,7 +477,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r-150-off-em-geladeira-consul-bem-estar" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r-150-off-em-geladeira-consul-bem-estar" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI150</span>
                                     </a>
@@ -501,7 +501,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100offfretegrtis-sud-ar-cond-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100offfretegrtis-sud-ar-cond-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI100</span>
                                     </a>
@@ -525,7 +525,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off-geladeira-consul-frostfree-397l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off-geladeira-consul-frostfree-397l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI100</span>
                                     </a>
@@ -549,7 +549,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200offfretegrtissud-emarcondicionado" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200offfretegrtissud-emarcondicionado" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI200</span>
                                     </a>
@@ -573,7 +573,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150-off-em-geladeira-frost-free-441l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150-off-em-geladeira-frost-free-441l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI150</span>
                                     </a>
@@ -597,7 +597,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100offtodositevlidoparaclientesnovos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100offtodositevlidoparaclientesnovos" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI100</span>
                                     </a>
@@ -621,7 +621,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50off-fretegrtis-sud-em-coifa-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50off-fretegrtis-sud-em-coifa-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PEGUEI50</span>
                                     </a>
@@ -645,7 +645,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off5vista-mquinadelavarcons12kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off5vista-mquinadelavarcons12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -670,7 +670,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off5vista-geladconsfrostfree340l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off5vista-geladconsfrostfree340l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -695,7 +695,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off5-vistacervejeiraconstitanium" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off5-vistacervejeiraconstitanium" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU100</span>
                                     </a>
@@ -719,7 +719,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off-fogo-consul-5-bocas-cor-inox" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off-fogo-consul-5-bocas-cor-inox" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU100</span>
                                     </a>
@@ -743,7 +743,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off-geladconsulfrostfreeduplex441l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off-geladconsulfrostfreeduplex441l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -767,7 +767,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off-freezerhorizconsul-2portas414l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off-freezerhorizconsul-2portas414l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -791,7 +791,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off-freezerhorizconsul-2portas543l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off-freezerhorizconsul-2portas543l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -815,7 +815,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150offfretegrtis-cooktop5bocasconsul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150offfretegrtis-cooktop5bocasconsul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -839,7 +839,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r150off-em-freezer-vertical-consul-246l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r150off-em-freezer-vertical-consul-246l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU150</span>
                                     </a>
@@ -863,7 +863,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off--mquina-de-lavar-consul-14kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off--mquina-de-lavar-consul-14kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIGOU100</span>
                                     </a>
@@ -887,7 +887,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-compras-acima-de-r1499" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-compras-acima-de-r1499" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO100</span>
                                     </a>
@@ -912,7 +912,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200-off-em-geladeiras-de-340l-e-441l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200-off-em-geladeiras-de-340l-e-441l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO200</span>
                                     </a>
@@ -937,7 +937,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200off-na-categoria-de-ar-condicionado" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200off-na-categoria-de-ar-condicionado" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VERAO200</span>
                                     </a>
@@ -961,7 +961,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-para-produtos-acima-de-r1599" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-para-produtos-acima-de-r1599" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CONSUL100</span>
                                     </a>
@@ -985,7 +985,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200-off-na-cervejeira-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200-off-na-cervejeira-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GELADA200</span>
                                     </a>
@@ -1009,7 +1009,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-produtos-mais-vendidos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-produtos-mais-vendidos" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE100</span>
                                     </a>
@@ -1033,7 +1033,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r200-off-em-todas-cervejeiras" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r200-off-em-todas-cervejeiras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GELADA200</span>
                                     </a>
@@ -1057,7 +1057,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50off-mais-vendidos-do-ano-de-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50off-mais-vendidos-do-ano-de-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU50</span>
                                     </a>
@@ -1081,7 +1081,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100off-acima-de-r1599-na-1-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100off-acima-de-r1599-na-1-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -1105,7 +1105,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-geladeira" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-geladeira" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BF2019</span>
                                     </a>
@@ -1129,7 +1129,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50-off-em-produtos-acima-de-r1899" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50-off-em-produtos-acima-de-r1899" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FACILITA50</span>
                                     </a>
@@ -1153,7 +1153,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-ar-condicionado" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-ar-condicionado" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BF2019</span>
                                     </a>
@@ -1177,7 +1177,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r50-off-em-produtos-da-seleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r50-off-em-produtos-da-seleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU50</span>
                                     </a>
@@ -1201,7 +1201,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-produtos-da-seleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-produtos-da-seleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -1225,7 +1225,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r250-off-em-cervejeiras-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r250-off-em-cervejeiras-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU250</span>
                                     </a>
@@ -1249,7 +1249,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/consul/coupons/r100-off-em-geladeira-consul" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/consul/coupons/r100-off-em-geladeira-consul" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BF2019</span>
                                     </a>

@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-na-sale-70-off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-extra-na-sale-70-off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALE10</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-em-farm" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-em-farm" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FARM10</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-na-linha-de-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-na-linha-de-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-em-market-33-e-basiq" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off-em-market-33-e-basiq" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MBOQV20</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIMEIRA10</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-em-basiq-e-market-33" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off-em-basiq-e-market-33" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MBOQV20</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/15-off--frete-grtis-na-escudeiro" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/15-off--frete-grtis-na-escudeiro" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ESC15</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40offfretegrtisemprodutosdacanal" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/40offfretegrtisemprodutosdacanal" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CANAL40</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40-off--frete-grtis-na-marca-fyi" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/40-off--frete-grtis-na-marca-fyi" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FYI40</span>
                                     </a>
@@ -315,7 +315,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-na-marca-by-nv" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off--frete-na-marca-by-nv" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV20</span>
                                     </a>
@@ -341,7 +341,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off--frete-em-beachwear" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off--frete-em-beachwear" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VERAO10</span>
                                     </a>
@@ -366,7 +366,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40-off--frete-em-produtos-dress-to" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/40-off--frete-em-produtos-dress-to" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DT40</span>
                                     </a>
@@ -391,7 +391,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40-off--frete-grtis-em-schutz" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/40-off--frete-grtis-em-schutz" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SCHUTZ40</span>
                                     </a>
@@ -416,7 +416,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MBOQV20</span>
                                     </a>
@@ -442,7 +442,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BIRKEN30</span>
                                     </a>
@@ -468,7 +468,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off--frete-grtis-na-lista-do-link" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off--frete-grtis-na-lista-do-link" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -493,7 +493,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25off--frete-grtis-em-compras-animale" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/25off--frete-grtis-em-compras-animale" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ANM25</span>
                                     </a>
@@ -519,7 +519,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25offfrete-grtis-em-compras-de-dress" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/25offfrete-grtis-em-compras-de-dress" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DT25</span>
                                     </a>
@@ -545,7 +545,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FYI25</span>
                                     </a>
@@ -571,7 +571,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LITT30</span>
                                     </a>
@@ -597,7 +597,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-em-compras-de-basiq-e-market33" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off-em-compras-de-basiq-e-market33" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MBOQV20</span>
                                     </a>
@@ -623,7 +623,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25off--frete-grtis-em-compras-de-farm" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/25off--frete-grtis-em-compras-de-farm" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FARM25</span>
                                     </a>
@@ -649,7 +649,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20off--frete-grtis-em-animale" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20off--frete-grtis-em-animale" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ANIM20</span>
                                     </a>
@@ -675,7 +675,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/15-off-em-compras-de-ateen" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/15-off-em-compras-de-ateen" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MRC15</span>
                                     </a>
@@ -701,7 +701,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-grtis-na-nova-coleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off--frete-grtis-na-nova-coleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV20</span>
                                     </a>
@@ -726,7 +726,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIMEIRA20</span>
                                     </a>
@@ -751,7 +751,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-vlido-para-produto-remarcado" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off-vlido-para-produto-remarcado" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALE10</span>
                                     </a>
@@ -776,7 +776,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SALE10</span>
                                     </a>
@@ -801,7 +801,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-categoria-de-carnaval" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-na-categoria-de-carnaval" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNAVALOQV</span>
                                     </a>
@@ -826,7 +826,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/frete-grtis--10-off-extra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/frete-grtis--10-off-extra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FRETE10</span>
                                     </a>
@@ -851,7 +851,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-no-site---confira-as-regras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off-no-site---confira-as-regras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWINWELCOME</span>
                                     </a>
@@ -876,7 +876,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-extra-da-categoria-tnis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-extra-da-categoria-tnis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -901,7 +901,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off-da-categoria-praia" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30off-da-categoria-praia" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -926,7 +926,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-na-categoria-fitness" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-na-categoria-fitness" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -951,7 +951,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-na-1-compra---confira-as-regras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10off-na-1-compra---confira-as-regras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWINWELCOME</span>
                                     </a>
@@ -976,7 +976,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off-vlido-em-itens-fitness" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30off-vlido-em-itens-fitness" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -1001,7 +1001,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-vlido-na-categoria-tenis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-vlido-na-categoria-tenis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -1026,7 +1026,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off-vlido-em-itens-de-praia" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30off-vlido-em-itens-de-praia" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OQV30</span>
                                     </a>
@@ -1051,7 +1051,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BD40</span>
                                     </a>
@@ -1076,7 +1076,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-para-produto-remarcado" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-extra-para-produto-remarcado" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CYBER10</span>
                                     </a>
@@ -1101,7 +1101,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20off-em-produtos-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/20off-em-produtos-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS20</span>
                                     </a>
@@ -1126,7 +1126,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CANTAO30</span>
                                     </a>
@@ -1152,7 +1152,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-primeira-compra-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-na-primeira-compra-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIMEIRA10</span>
                                     </a>
@@ -1178,7 +1178,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-em-todo-o-site-na-primeira-compr" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/oqvestir/coupons/10-off-em-todo-o-site-na-primeira-compr" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIMEIRA10</span>
                                     </a>

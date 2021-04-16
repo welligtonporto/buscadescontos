@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/15-off-na-grife-valentino" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/15-off-na-grife-valentino" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VALENTINO15F</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/15-off-na-grife-italiana-valentino" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/15-off-na-grife-italiana-valentino" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VALENTINO15F</span>
                                     </a>
@@ -113,7 +113,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r100off-naprimeiracompra---minimo-r700" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r100off-naprimeiracompra---minimo-r700" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">100awinff</span>
                                     </a>
@@ -137,7 +137,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r300off-naprimeiracompra-minimo-r2000" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r300off-naprimeiracompra-minimo-r2000" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">300awinff</span>
                                     </a>
@@ -161,7 +161,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r200off-naprimeiracompra-minimo-r1400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r200off-naprimeiracompra-minimo-r1400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">200awinff</span>
                                     </a>
@@ -186,7 +186,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/15off---full-price-items-dolce--gabbana" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/15off---full-price-items-dolce--gabbana" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DG15FP</span>
                                     </a>
@@ -211,7 +211,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/30-extra-off-sale-items-dolce--gabbana" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/30-extra-off-sale-items-dolce--gabbana" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DG30SL</span>
                                     </a>
@@ -236,7 +236,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/10-off-em-itens-femininos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/10-off-em-itens-femininos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAES10</span>
                                     </a>
@@ -262,7 +262,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/30off-itens-promocionais-dolcegabbana" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/30off-itens-promocionais-dolcegabbana" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DG30SL</span>
                                     </a>
@@ -288,7 +288,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/15-off-em-marcas-selecionadas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/15-off-em-marcas-selecionadas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">EXTRA</span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/15-off--em-itens-de-dolcegabbana" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/15-off--em-itens-de-dolcegabbana" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DG15FP</span>
                                     </a>
@@ -339,7 +339,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/10off-em-lista-acima-de-r600-fem" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/10off-em-lista-acima-de-r600-fem" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FLASH49</span>
                                     </a>
@@ -364,7 +364,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/10-off-em-lista--acima-de-r600-masc" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/10-off-em-lista--acima-de-r600-masc" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FLASH48</span>
                                     </a>
@@ -389,7 +389,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/20-extra-em-seleo-de-marcas-nacionais" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/20-extra-em-seleo-de-marcas-nacionais" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NACX20</span>
                                     </a>
@@ -414,7 +414,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/20off-extra-em-compras-acima-de-r600" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/20off-extra-em-compras-acima-de-r600" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BRA20</span>
                                     </a>
@@ -439,7 +439,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/20-off-em-dolcegabbana" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/20-off-em-dolcegabbana" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FX20DGJAN</span>
                                     </a>
@@ -463,7 +463,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r200off-na-1compra-acima-de-r200000" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r200off-na-1compra-acima-de-r200000" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMVINDO20</span>
                                     </a>
@@ -487,7 +487,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r200off-acima-de-e2000-na-1-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r200off-acima-de-e2000-na-1-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMVINDO19</span>
                                     </a>
@@ -512,7 +512,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/30-extra-off-no-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/30-extra-off-no-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FFX30</span>
                                     </a>
@@ -537,7 +537,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/20-off-em-lista-de-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/20-off-em-lista-de-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FX20</span>
                                     </a>
@@ -563,7 +563,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/20-off-nos-produtos-em-oferta-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/20-off-nos-produtos-em-oferta-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FX20</span>
                                     </a>
@@ -588,7 +588,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r-150-off-em-compras-acima-de-r-1500" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r-150-off-em-compras-acima-de-r-1500" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">150AWIN</span>
                                     </a>
@@ -613,7 +613,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/10-off-sem-valor-mnimo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/10-off-sem-valor-mnimo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">x1017</span>
                                     </a>
@@ -637,7 +637,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r200-off-em-compras-acima-de-r1400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r200-off-em-compras-acima-de-r1400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWIN200</span>
                                     </a>
@@ -661,7 +661,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r300-off-em-compras-acima-de-r2000--" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r300-off-em-compras-acima-de-r2000--" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWIN300</span>
                                     </a>
@@ -685,7 +685,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/farfetch/coupons/r100-off-em-compras-acima-de-r700" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/farfetch/coupons/r100-off-em-compras-acima-de-r700" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AWIN100</span>
                                     </a>

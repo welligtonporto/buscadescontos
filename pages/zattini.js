@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/20-off-em-produtos-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/20-off-em-produtos-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-produtos-de-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-produtos-de-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AFIL-INVERNO</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-seleoderoupas-diversas-marcas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-seleoderoupas-diversas-marcas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATROUPAS</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-seleo-de-calados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-seleo-de-calados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATCALCADOS</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-produtos-infantis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-produtos-infantis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATINFANTIL</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATACESSORIOS</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-itens-de-beleza-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-itens-de-beleza-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATBELEZA</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-off-a-20-off-em-itens-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-off-a-20-off-em-itens-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-underwear-masculino-e-feminino" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-underwear-masculino-e-feminino" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATUNDERWEAR</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-perfumes-para-o-dia-dos-pais" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-perfumes-para-o-dia-dos-pais" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PAI25</span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-perfumes-para-o-dia-dos-pais" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-perfumes-para-o-dia-dos-pais" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PAI25</span>
                                     </a>
@@ -339,7 +339,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/15-off-extra-em-dia-da-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/15-off-extra-em-dia-da-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BELEZA15</span>
                                     </a>
@@ -364,7 +364,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-no-dia-do-amigo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-no-dia-do-amigo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AMIGO25</span>
                                     </a>
@@ -389,7 +389,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/20-off-extra-na-lista-selecionada" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/20-off-extra-na-lista-selecionada" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AMIGO20</span>
                                     </a>
@@ -414,7 +414,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/23-off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/23-off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -439,7 +439,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30offroupas-diversas-marcas-exclusivo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30offroupas-diversas-marcas-exclusivo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATROUPAS</span>
                                     </a>
@@ -464,7 +464,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25off-extraem-seleoincrveldecalados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25off-extraem-seleoincrveldecalados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATCALCADOS</span>
                                     </a>
@@ -489,7 +489,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-produtos-infantis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-produtos-infantis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATINFANTIL</span>
                                     </a>
@@ -514,7 +514,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-linha-completa-de-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-linha-completa-de-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATACESSORIOS</span>
                                     </a>
@@ -539,7 +539,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATBELEZA</span>
                                     </a>
@@ -564,7 +564,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10e20off-ofertasimperdveisdeparceiros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10e20off-ofertasimperdveisdeparceiros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -589,7 +589,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/20-off-em-produtos-reserva" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/20-off-em-produtos-reserva" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">RESERVA20</span>
                                     </a>
@@ -614,7 +614,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-off-no-dia-da-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-off-no-dia-da-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BELEZA10</span>
                                     </a>
@@ -639,7 +639,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-e-20-off-em-ofertas-imperdveis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-e-20-off-em-ofertas-imperdveis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -664,7 +664,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/23-off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/23-off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -689,7 +689,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/20-off-em-produtos-lacoste" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/20-off-em-produtos-lacoste" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -714,7 +714,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-na-lista-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-na-lista-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -739,7 +739,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30off-em-underwear-masculino-e-feminino" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30off-em-underwear-masculino-e-feminino" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATUNDERWEAR</span>
                                     </a>
@@ -764,7 +764,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-roupas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-roupas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATROUPAS</span>
                                     </a>
@@ -789,7 +789,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25offextra-seleo-incrvel-de-calados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25offextra-seleo-incrvel-de-calados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATCALCADOS</span>
                                     </a>
@@ -814,7 +814,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-linha-completa-de-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-linha-completa-de-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATACESSORIOS</span>
                                     </a>
@@ -839,7 +839,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-e-20-off-em-ofertas-imperdveis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-e-20-off-em-ofertas-imperdveis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -864,7 +864,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-produtos-infantis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-produtos-infantis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATINFANTIL</span>
                                     </a>
@@ -889,7 +889,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATBELEZA</span>
                                     </a>
@@ -914,7 +914,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25off-para-toda-a-loja" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25off-para-toda-a-loja" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -940,7 +940,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-a-35-off-extra-em-calados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-a-35-off-extra-em-calados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATCALCADOS</span>
                                     </a>
@@ -966,7 +966,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-no-site-confira-as-regras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-no-site-confira-as-regras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -992,7 +992,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-e-50-off-em-seleo-de-acessrios" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-e-50-off-em-seleo-de-acessrios" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATACESSORIOS</span>
                                     </a>
@@ -1018,7 +1018,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30off-extra-em-roupas-de-marcas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30off-extra-em-roupas-de-marcas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATROUPAS</span>
                                     </a>
@@ -1044,7 +1044,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATBELEZA</span>
                                     </a>
@@ -1069,7 +1069,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-e-20-off-no-marketplace" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-e-20-off-no-marketplace" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -1094,7 +1094,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-toda-a-loja" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-toda-a-loja" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -1119,7 +1119,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-off-em-toda-a-loja" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-off-em-toda-a-loja" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TOPZAT</span>
                                     </a>
@@ -1144,7 +1144,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25off-em-produtos-shoestock-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25off-em-produtos-shoestock-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATSHOES</span>
                                     </a>
@@ -1169,7 +1169,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/10-a-20-off-no-marketplace" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/10-a-20-off-no-marketplace" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATMKTP</span>
                                     </a>
@@ -1194,7 +1194,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-beleza" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-beleza" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATBELEZA</span>
                                     </a>
@@ -1219,7 +1219,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/25-a-30-off-na-linha-completa-de-acess" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/25-a-30-off-na-linha-completa-de-acess" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATACESSORIOS</span>
                                     </a>
@@ -1243,7 +1243,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/r90-off-em-compras-a-partir-de-r19999" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/r90-off-em-compras-a-partir-de-r19999" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEDESCONTO</span>
                                     </a>
@@ -1268,7 +1268,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30off-em-roupas-diversas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30off-em-roupas-diversas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATROUPAS</span>
                                     </a>
@@ -1293,7 +1293,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/zattini/coupons/30-off-em-produtos-infantis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/zattini/coupons/30-off-em-produtos-infantis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZATINFANTIL</span>
                                     </a>

@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/10-off-em-seleo-de-brinquedos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/ri-happy/coupons/10-off-em-seleo-de-brinquedos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BRINCADEIRA10</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/seleo-de-brinquedos-com-30-off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/ri-happy/coupons/seleo-de-brinquedos-com-30-off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BRINCADEIRA30</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BRINCADEIRA45</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/5-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/ri-happy/coupons/5-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUERO5</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/5-de-desconto-em-toda-a-loja" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/ri-happy/coupons/5-de-desconto-em-toda-a-loja" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DVHTWOASYT</span>
                                     </a>

@@ -57,7 +57,7 @@ export default function Index() {
                                 </div>
                                 <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kanui/coupons/10-off-extra-em-nike" target="_blank">
+                                <a class="btn-coupon-label btn-coupon-green" href="/open/kanui/coupons/10-off-extra-em-nike" target="_blank">
                                 <span class="txt-princ">Ver Oferta</span>
                                 <span class="txt-label">NIKE10</span>
                                 </a>
@@ -82,7 +82,7 @@ export default function Index() {
                                 </div>
                                 <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kanui/coupons/r-80-off-nos-produtos-da-landing" target="_blank">
+                                <a class="btn-coupon-label btn-coupon-green" href="/open/kanui/coupons/r-80-off-nos-produtos-da-landing" target="_blank">
                                 <span class="txt-princ">Ver Oferta</span>
                                 <span class="txt-label">CUPOM80M</span>
                                 </a>
@@ -107,7 +107,7 @@ export default function Index() {
                                 </div>
                                 <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kanui/coupons/r-100-off-nas-compras-acima-de-r-250" target="_blank">
+                                <a class="btn-coupon-label btn-coupon-green" href="/open/kanui/coupons/r-100-off-nas-compras-acima-de-r-250" target="_blank">
                                 <span class="txt-princ">Ver Oferta</span>
                                 <span class="txt-label">100MENOSM</span>
                                 </a>
@@ -133,7 +133,7 @@ export default function Index() {
                                 </div>
                                 <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kanui/coupons/20-off-nos-produtos-masculinos" target="_blank">
+                                <a class="btn-coupon-label btn-coupon-green" href="/open/kanui/coupons/20-off-nos-produtos-masculinos" target="_blank">
                                 <span class="txt-princ">Ver Oferta</span>
                                 <span class="txt-label">CUPOM20M</span>
                                 </a>
@@ -158,7 +158,7 @@ export default function Index() {
                                 </div>
                                 <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/kanui/coupons/r-60-off-nos-produtos-da-landing" target="_blank">
+                                <a class="btn-coupon-label btn-coupon-green" href="/open/kanui/coupons/r-60-off-nos-produtos-da-landing" target="_blank">
                                 <span class="txt-princ">Ver Oferta</span>
                                 <span class="txt-label">CUPOM60M</span>
                                 </a>

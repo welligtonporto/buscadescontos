@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-extra-na-sale-70-off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-extra-na-sale-70-off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FINAL10</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off-na-linha-de-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off-na-linha-de-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off-na-linha-de-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off-na-linha-de-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off-em-2essential" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off-em-2essential" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PVTL2O</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FIRST10</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/15-off-na-marca-tig" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/15-off-na-marca-tig" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TIG15</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off-na-nova-coleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off-na-nova-coleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/15-off--frete-grtis-na-marca-escudero" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/15-off--frete-grtis-na-marca-escudero" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ESC15</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off--fretegrtis-emprodutosdalista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off--fretegrtis-emprodutosdalista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off--frete-em-produtos-beachwear" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off--frete-em-produtos-beachwear" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VERAO10</span>
                                     </a>
@@ -315,7 +315,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off--frete-grtis-em-mixed" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off--frete-grtis-em-mixed" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MIXED20</span>
                                     </a>
@@ -341,7 +341,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-extra--frete-grtis-em-outshop" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-extra--frete-grtis-em-outshop" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VERAO10</span>
                                     </a>
@@ -367,7 +367,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/40-off--frete-grtis-em-schutz" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/40-off--frete-grtis-em-schutz" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SCHUTZ40</span>
                                     </a>
@@ -393,7 +393,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off--frete-grtis-na-lista-do-link" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off--frete-grtis-na-lista-do-link" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV30</span>
                                     </a>
@@ -419,7 +419,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off--frete-grtis-em-birkenstock" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off--frete-grtis-em-birkenstock" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BIRKEN30</span>
                                     </a>
@@ -445,7 +445,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/25off--frete-grtis-compras-de-animale" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/25off--frete-grtis-compras-de-animale" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ANM25</span>
                                     </a>
@@ -471,7 +471,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/15-off-em-compras-de-a-niemeyer" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/15-off-em-compras-de-a-niemeyer" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MRC15</span>
                                     </a>
@@ -497,7 +497,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/25off--frete-grtis-em-compras-de-farm" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/25off--frete-grtis-em-compras-de-farm" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FARM25</span>
                                     </a>
@@ -523,7 +523,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FIRST20</span>
                                     </a>
@@ -549,7 +549,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20off-em-2essential-2essential---fem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20off-em-2essential-2essential---fem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PVTL20</span>
                                     </a>
@@ -575,7 +575,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20off--frete-grtis-em-compras-mixed" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20off--frete-grtis-em-compras-mixed" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MIXED15</span>
                                     </a>
@@ -601,7 +601,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20off-em-2essential-2essential---masc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20off-em-2essential-2essential---masc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PVTL20</span>
                                     </a>
@@ -627,7 +627,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off--frete-grtis-na-nova-coleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off--frete-grtis-na-nova-coleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INV20</span>
                                     </a>
@@ -652,7 +652,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-vlido-para-produtos-remarcado" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-vlido-para-produtos-remarcado" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FINAL10</span>
                                     </a>
@@ -677,7 +677,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-na-categoria-de-carnaval-mas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-na-categoria-de-carnaval-mas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNAVALS2G</span>
                                     </a>
@@ -702,7 +702,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-na-categoria-de-carnaval-fem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-na-categoria-de-carnaval-fem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNAVALS2G</span>
                                     </a>
@@ -727,7 +727,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-na-categoria-de-carnaval---fem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-na-categoria-de-carnaval---fem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNALVALS2G</span>
                                     </a>
@@ -752,7 +752,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-na-a-categoria-de-carnaval---masc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-na-a-categoria-de-carnaval---masc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CARNALVALS2G</span>
                                     </a>
@@ -777,7 +777,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-em-itens-da-marca-lacoste" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-em-itens-da-marca-lacoste" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LC30</span>
                                     </a>
@@ -802,7 +802,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-vlido-para-produtos-masculino" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-vlido-para-produtos-masculino" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OSKLEN30</span>
                                     </a>
@@ -827,7 +827,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-para-produtos-remarcados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-para-produtos-remarcados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FINAL10</span>
                                     </a>
@@ -852,7 +852,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-categoria-de-carnaval-mas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-categoria-de-carnaval-mas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2GCARNAVAL</span>
                                     </a>
@@ -877,7 +877,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-categoria-de-carnaval-fem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-categoria-de-carnaval-fem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2GCARNAVAL</span>
                                     </a>
@@ -902,7 +902,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/frete-grtis--10-off-extra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/frete-grtis--10-off-extra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FRETE10</span>
                                     </a>
@@ -927,7 +927,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-no-site---confira-as-regras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-no-site---confira-as-regras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">WELCOMEAWIN</span>
                                     </a>
@@ -952,7 +952,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30offda-categoria-beachwear" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30offda-categoria-beachwear" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2G30</span>
                                     </a>
@@ -977,7 +977,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30offna-categoria-bijouxno-acumulativo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30offna-categoria-bijouxno-acumulativo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2G30</span>
                                     </a>
@@ -1002,7 +1002,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-em-itens-dea-lacoste" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-em-itens-dea-lacoste" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LC30</span>
                                     </a>
@@ -1027,7 +1027,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-valido-em-produtos-masculino" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-valido-em-produtos-masculino" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OSKLEN30</span>
                                     </a>
@@ -1052,7 +1052,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">WELCOMEAWIN</span>
                                     </a>
@@ -1077,7 +1077,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-extra-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-extra-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2G30</span>
                                     </a>
@@ -1102,7 +1102,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">S2G30</span>
                                     </a>
@@ -1127,7 +1127,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-em-lacoste----peas-remarcadas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-em-lacoste----peas-remarcadas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LC30</span>
                                     </a>
@@ -1152,7 +1152,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-offna-landing-categoria-underwear" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-offna-landing-categoria-underwear" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEACH30</span>
                                     </a>
@@ -1177,7 +1177,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off-da-landing" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off-da-landing" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UNDER20</span>
                                     </a>
@@ -1202,7 +1202,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/20-off-landing-categoria-underwear" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/20-off-landing-categoria-underwear" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SHORTS20</span>
                                     </a>
@@ -1227,7 +1227,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BFAWIN</span>
                                     </a>
@@ -1252,7 +1252,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10off-extra--produtos-da-marca-2basic" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10off-extra--produtos-da-marca-2basic" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIVATE10</span>
                                     </a>
@@ -1277,7 +1277,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FIRST10</span>
                                     </a>
@@ -1302,7 +1302,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shop2gether/coupons/30off-em-itens-de-preo-regular-lacoste" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shop2gether/coupons/30off-em-itens-de-preo-regular-lacoste" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LC30</span>
                                     </a>

@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRAVC40</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/frete-grtis-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/frete-grtis-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YCFRETE</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/compre-3-peas-por-r9990" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PROMOYC</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/compre-3-peas-por-r9990-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PROMOYC</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/10off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/10off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JANEIROQLUTE</span>
                                     </a>
@@ -184,7 +184,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUERO40</span>
                                     </a>
@@ -208,7 +208,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-nas-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/r40-off-nas-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">QUERO40</span>
                                     </a>
@@ -233,7 +233,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/20offna-compra-de-2-ou--peas-da-lista" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/20offna-compra-de-2-ou--peas-da-lista" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SPWEEK</span>
                                     </a>
@@ -258,7 +258,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/60off-na-lista--20extra-com-cupom" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/60off-na-lista--20extra-com-cupom" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YCNIGHT</span>
                                     </a>
@@ -282,7 +282,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/frete-gratis-em-produos-com-at-60off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/frete-gratis-em-produos-com-at-60off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YCFRETE</span>
                                     </a>
@@ -307,7 +307,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/10off-para-aniversariantes-do-ms" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/10off-para-aniversariantes-do-ms" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ANIVER10</span>
                                     </a>
@@ -332,7 +332,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO10</span>
                                     </a>
@@ -356,7 +356,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PROMOYC</span>
                                     </a>
@@ -381,7 +381,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/50offna-landing--25off-extra--frete" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/50offna-landing--25off-extra--frete" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">RESSACA20</span>
                                     </a>
@@ -406,7 +406,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/30-off-e-4-peas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/30-off-e-4-peas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YOUCOMBF</span>
                                     </a>
@@ -431,7 +431,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-em-2-peas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/10-off-em-2-peas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YOUCOMBF</span>
                                     </a>
@@ -456,7 +456,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/20-off-em-3-peas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/20-off-em-3-peas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YOUCOMBF</span>
                                     </a>
@@ -481,7 +481,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/20-off-em-lista-selecionda" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/20-off-em-lista-selecionda" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">YOUCOM20</span>
                                     </a>
@@ -508,7 +508,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-nas-compras-acima-de-r-200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/10-off-nas-compras-acima-de-r-200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">OUTUBROYC</span>
                                     </a>
@@ -534,7 +534,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO20</span>
                                     </a>
@@ -559,7 +559,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/15-off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/15-off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DESC15</span>
                                     </a>
@@ -584,7 +584,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/15-off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/15-off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRESENTEYOUCOM</span>
                                     </a>
@@ -608,7 +608,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/youcom/coupons/r-50-off-em-compras-acima-de-r-250" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/youcom/coupons/r-50-off-em-compras-acima-de-r-250" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE50</span>
                                     </a>

@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-aspiradores-fun-clean" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-aspiradores-fun-clean" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIMPEZA10</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r15off-pedidosacimader20clientesnovos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r15off-pedidosacimader20clientesnovos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVO15</span>
                                     </a>
@@ -112,7 +112,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-em-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r20-off-em-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA20</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r650" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r650" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA50</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-compras-acima-de-r1250" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r100-off-em-compras-acima-de-r1250" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA100</span>
                                     </a>
@@ -184,7 +184,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-compras-acima-de-r2500" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r200-off-em-compras-acima-de-r2500" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA200</span>
                                     </a>
@@ -209,7 +209,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10itensinseridosnatag-mpcupomarraia10" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10itensinseridosnatag-mpcupomarraia10" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ARRAIA10</span>
                                     </a>
@@ -234,7 +234,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BASICS20</span>
                                     </a>
@@ -259,7 +259,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MAIS10</span>
                                     </a>
@@ -285,7 +285,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/15-off-em-seleo-de-presentes" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/15-off-em-seleo-de-presentes" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEBE15</span>
                                     </a>
@@ -311,7 +311,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-selecionados-de-la-cuis" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-selecionados-de-la-cuis" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COZINHA10</span>
                                     </a>
@@ -337,7 +337,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">RECEITA10</span>
                                     </a>
@@ -362,7 +362,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-compras-acima-de-r1950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r200-off-em-compras-acima-de-r1950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TECH200</span>
                                     </a>
@@ -387,7 +387,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r300-off-em-compras-acima-de-r2950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r300-off-em-compras-acima-de-r2950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TECH300</span>
                                     </a>
@@ -412,7 +412,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r450" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r450" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TECH50</span>
                                     </a>
@@ -437,7 +437,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-compras-acima-de-r950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r100-off-em-compras-acima-de-r950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TECH100</span>
                                     </a>
@@ -463,7 +463,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-linha-basics-de-casa--conforto" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10off-linha-basics-de-casa--conforto" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CASABASICA10</span>
                                     </a>
@@ -488,7 +488,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVOCONSUMIDOR</span>
                                     </a>
@@ -513,7 +513,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FUN10</span>
                                     </a>
@@ -538,7 +538,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TEMDESCONTO10</span>
                                     </a>
@@ -563,7 +563,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">FUNCOZINHA10</span>
                                     </a>
@@ -588,7 +588,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-na-seleo-de-itens-do-link" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10off-na-seleo-de-itens-do-link" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TEMEXCLUSIVA10</span>
                                     </a>
@@ -613,7 +613,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-casa-e-conforto" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-casa-e-conforto" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CASAVERAO10</span>
                                     </a>
@@ -637,7 +637,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-itens-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r200-off-em-itens-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VAIO200</span>
                                     </a>
@@ -662,7 +662,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LACUISINE10</span>
                                     </a>
@@ -687,7 +687,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-casa--conforto" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-casa--conforto" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VEMDE10</span>
                                     </a>
@@ -712,7 +712,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LACUISINE10</span>
                                     </a>
@@ -736,7 +736,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-para-itens-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r100-off-para-itens-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DELL100</span>
                                     </a>
@@ -761,7 +761,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHA10</span>
                                     </a>
@@ -786,7 +786,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-nos-produtos-shoptime" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10off-nos-produtos-shoptime" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LIQUIDA10</span>
                                     </a>
@@ -811,7 +811,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COZINHAFUN10</span>
                                     </a>
@@ -836,7 +836,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-produtos-cc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-produtos-cc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEIPRESENTE</span>
                                     </a>
@@ -861,7 +861,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TIMAOBIMUNDIAL</span>
                                     </a>
@@ -886,7 +886,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-fun-kitchen" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-de-fun-kitchen" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COZINHAFUN10</span>
                                     </a>
@@ -911,7 +911,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-para-seleo-de-itens" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/20-off-para-seleo-de-itens" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VERAO20</span>
                                     </a>
@@ -935,7 +935,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-compras-acima-de-195000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r200-off-em-compras-acima-de-195000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEI200</span>
                                     </a>
@@ -959,7 +959,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEI100</span>
                                     </a>
@@ -983,7 +983,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-em-compras-acima-de-r15000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r20-off-em-compras-acima-de-r15000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEI20</span>
                                     </a>
@@ -1007,7 +1007,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r45000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r45000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHEI50</span>
                                     </a>
@@ -1032,7 +1032,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JANTARLC10</span>
                                     </a>
@@ -1057,7 +1057,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-em-eletrnicos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/20-off-em-eletrnicos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ELETRO20</span>
                                     </a>
@@ -1082,7 +1082,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-pedidos-acima-de-r1950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r200-off-em-pedidos-acima-de-r1950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACHEI200</span>
                                     </a>
@@ -1107,7 +1107,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r400-off-em-pedidos-acima-de-r3950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r400-off-em-pedidos-acima-de-r3950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACHEI400</span>
                                     </a>
@@ -1132,7 +1132,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-pedidos-acima-de-r450" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r50-off-em-pedidos-acima-de-r450" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACHEI50</span>
                                     </a>
@@ -1157,7 +1157,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-pedidos-acima-de-r950" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r100-off-em-pedidos-acima-de-r950" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACHEI100</span>
                                     </a>
@@ -1182,7 +1182,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-em-pedidos-acima-de-r150" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r20-off-em-pedidos-acima-de-r150" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACHEI20</span>
                                     </a>
@@ -1208,7 +1208,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">KITCHEN10</span>
                                     </a>
@@ -1233,7 +1233,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r20-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVO20</span>
                                     </a>
@@ -1258,7 +1258,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-na-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/r50-off-na-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVO50</span>
                                     </a>
@@ -1284,7 +1284,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/shoptime/coupons/15-off-em-todos-os-itens-de-telefonia" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/shoptime/coupons/15-off-em-todos-os-itens-de-telefonia" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHA15</span>
                                     </a>

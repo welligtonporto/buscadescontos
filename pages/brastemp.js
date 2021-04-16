@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-150-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r-150-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO150</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-100-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r-100-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO100</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-50-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r-50-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO50</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-300-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r-300-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO300</span>
                                     </a>
@@ -159,7 +159,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r-250-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r-250-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO250</span>
                                     </a>
@@ -183,7 +183,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO200</span>
                                     </a>
@@ -207,7 +207,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400-off-produtos-selecionados-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r400-off-produtos-selecionados-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TEMPO400</span>
                                     </a>
@@ -232,7 +232,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeinv443l5off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250offgeladbrastfrostfreeinv443l5off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP250</span>
                                     </a>
@@ -257,7 +257,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreedup375l5off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250offgeladbrastfrostfreedup375l5off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP250</span>
                                     </a>
@@ -282,7 +282,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400offgeladbrastfrostfreeinv573l5off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r400offgeladbrastfrostfreeinv573l5off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP400</span>
                                     </a>
@@ -307,7 +307,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeinv-573l--5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250offgeladbrastfrostfreeinv-573l--5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP250</span>
                                     </a>
@@ -332,7 +332,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-mqdelavarbrast12kg5offvista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200off-mqdelavarbrast12kg5offvista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP200</span>
                                     </a>
@@ -357,7 +357,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250offgeladbrastfrostfreeside540l5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250offgeladbrastfrostfreeside540l5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP250</span>
                                     </a>
@@ -382,7 +382,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP150</span>
                                     </a>
@@ -407,7 +407,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150offgeladbrastfrostfreeduplex500l5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VIP150</span>
                                     </a>
@@ -450,7 +450,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off-mquinadelavarbrastemp-12kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100off-mquinadelavarbrastemp-12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FESTA100</span>
                                     </a>
@@ -474,7 +474,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-geladebrastfrostfreeduplex-500l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300off-geladebrastfrostfreeduplex-500l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FESTA300</span>
                                     </a>
@@ -498,7 +498,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300offgeladbrastfrostfreesideinv540l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300offgeladbrastfrostfreesideinv540l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FESTA300</span>
                                     </a>
@@ -522,7 +522,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-fogo-brastemp-5-bocasdeembutir" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300off-fogo-brastemp-5-bocasdeembutir" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FESTA300</span>
                                     </a>
@@ -546,7 +546,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off-geladbrastfrostfreeduplex-462l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300off-geladbrastfrostfreeduplex-462l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FESTA300</span>
                                     </a>
@@ -570,7 +570,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300offadegabrastgourmanddual51garrafas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300offadegabrastgourmanddual51garrafas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label"> FESTA300</span>
                                     </a>
@@ -594,7 +594,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off-mquina-de-lavar-12kg-titnio" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100off-mquina-de-lavar-12kg-titnio" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CASA100</span>
                                     </a>
@@ -618,7 +618,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50off-coifadeparede-60cm-inoxpiramidal" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r50off-coifadeparede-60cm-inoxpiramidal" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CASA50</span>
                                     </a>
@@ -642,7 +642,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100offcoifadeparede-90cm-inoxpiramidal" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100offcoifadeparede-90cm-inoxpiramidal" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CASA100</span>
                                     </a>
@@ -666,7 +666,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50off-cooktop4bocascomgradespiatina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r50off-cooktop4bocascomgradespiatina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CASA50</span>
                                     </a>
@@ -690,7 +690,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100offgeladbrastfrostfreeduplex478l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100offgeladbrastfrostfreeduplex478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI100</span>
                                     </a>
@@ -715,7 +715,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vistageladbrastfrostfree573l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300off5vistageladbrastfrostfree573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI300</span>
                                     </a>
@@ -739,7 +739,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off-lavalouas14serviosbrastbranca" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250off-lavalouas14serviosbrastbranca" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI250</span>
                                     </a>
@@ -763,7 +763,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offfretegeladbrastfrostfree375l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150offfretegeladbrastfrostfree375l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI150</span>
                                     </a>
@@ -787,7 +787,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400offfornoeltrciobrastgourmand-73l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r400offfornoeltrciobrastgourmand-73l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI400</span>
                                     </a>
@@ -811,7 +811,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r300off5vista-geladbrasfrostfree478l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r300off5vista-geladbrasfrostfree478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI300</span>
                                     </a>
@@ -835,7 +835,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offfretegrtissud-maqlavarbrast-9kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r50offfretegrtissud-maqlavarbrast-9kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI50</span>
                                     </a>
@@ -859,7 +859,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offfretegrtisexcetonortegeladbras" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r50offfretegrtisexcetonortegeladbras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI50</span>
                                     </a>
@@ -883,7 +883,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r400off-fornoeltricobrast-105l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r400off-fornoeltricobrast-105l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">APAIXONEI400</span>
                                     </a>
@@ -907,7 +907,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off-eletrodomsticosacimade-r1799" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150off-eletrodomsticosacimade-r1799" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PRIMEIRO150</span>
                                     </a>
@@ -932,7 +932,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off5vistageladbrastfrostfree573l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200off5vistageladbrastfrostfree573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS200</span>
                                     </a>
@@ -957,7 +957,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistageladbrastfrostfree443l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100off5vistageladbrastfrostfree443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS100</span>
                                     </a>
@@ -981,7 +981,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off-geladbrastfrostfreeinverse-460l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150off-geladbrastfrostfreeinverse-460l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS150</span>
                                     </a>
@@ -1006,7 +1006,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5--vista-geladbrastfrost-400l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100off5--vista-geladbrastfrost-400l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS100</span>
                                     </a>
@@ -1031,7 +1031,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150off5-vista-lavalouas-14servios" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150off5-vista-lavalouas-14servios" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS150</span>
                                     </a>
@@ -1056,7 +1056,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r250off5geladbrastfrostfreeinv460l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r250off5geladbrastfrostfreeinv460l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS250</span>
                                     </a>
@@ -1081,7 +1081,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r100off5vistamquinadelavarbrast12kg" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r100off5vistamquinadelavarbrast12kg" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS100</span>
                                     </a>
@@ -1105,7 +1105,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off-geladebrastfrostfreeinverse443l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200off-geladebrastfrostfreeinverse443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS200</span>
                                     </a>
@@ -1129,7 +1129,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200offgeladbrastempfrostfreeduplex478l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200offgeladbrastempfrostfreeduplex478l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS200</span>
                                     </a>
@@ -1153,7 +1153,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r150offgeladeirabrastfrostfreedup500l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r150offgeladeirabrastfrostfreedup500l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS150</span>
                                     </a>
@@ -1177,7 +1177,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200off--lavalouas-14servios-brastemp" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200off--lavalouas-14servios-brastemp" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAIS200</span>
                                     </a>
@@ -1201,7 +1201,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-em-compras-acima-de-r1599" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200-off-em-compras-acima-de-r1599" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO200</span>
                                     </a>
@@ -1225,7 +1225,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r200-off-geladeirafrostfreeinverse-573l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r200-off-geladeirafrostfreeinverse-573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPER200</span>
                                     </a>
@@ -1249,7 +1249,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/brastemp/coupons/r50offadega28garrafacompaineleletronico" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/brastemp/coupons/r50offadega28garrafacompaineleletronico" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPER50</span>
                                     </a>

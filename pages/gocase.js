@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PRIMEIRACOMPRA</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gocase/coupons/r-100-em-compras-a-partir-de-r-500" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-100-em-compras-a-partir-de-r-500" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE100</span>
                                     </a>
@@ -113,7 +113,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">IPHONE20OFF</span>
                                     </a>
@@ -137,7 +137,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gocase/coupons/r-30-off-em-carregador-porttil-e-capa" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-30-off-em-carregador-porttil-e-capa" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PARPERFEITO30</span>
                                     </a>

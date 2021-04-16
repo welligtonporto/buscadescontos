@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane/coupons/frete-grtis-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane/coupons/frete-grtis-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRETEMIDIA</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-de-1-dos-must-have" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane/coupons/brinde-nas-compras-de-1-dos-must-have" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MINIATURAS</span>
                                     </a>
@@ -112,7 +112,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-acima-de-r300" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane/coupons/brinde-nas-compras-acima-de-r300" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FLASH300</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-acima-de-r400" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane/coupons/brinde-nas-compras-acima-de-r400" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FLASH400</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-acima-de-r-200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane/coupons/brinde-nas-compras-acima-de-r-200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FLASH200</span>
                                     </a>

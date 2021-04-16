@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-2livrosvlidoparalivrosseleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-2livrosvlidoparalivrosseleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SUB15</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-karin-slaughte" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livros-da-karin-slaughte" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">KARIN</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-2-livros-vlidoparalivrosseleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-2-livros-vlidoparalivrosseleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">LAVADOIS</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-pr-vendas-e-lanamentos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-pr-vendas-e-lanamentos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVIDADES      </span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-2llivrosvlidoparalivrosseleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-2llivrosvlidoparalivrosseleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRAMIM</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-lanamentosepr-vendasdasextante" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-lanamentosepr-vendasdasextante" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ARQUEIRO</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10offlivroautografadosautorniltonbonder" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10offlivroautografadosautorniltonbonder" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NILTON10</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/r10off-em-compras-acima-de-r50" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/r10off-em-compras-acima-de-r50" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SUB10PRAVC</span>
                                     </a>
@@ -264,7 +264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CLASSICOS</span>
                                     </a>
@@ -289,7 +289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ALEPH</span>
                                     </a>
@@ -314,7 +314,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10offseleolivrospaninibrasilcom15off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10offseleolivrospaninibrasilcom15off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">HQBARATA15</span>
                                     </a>
@@ -339,7 +339,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-dois-livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-dois-livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRAMIM</span>
                                     </a>
@@ -364,7 +364,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-pr-vendas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-pr-vendas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NOVIDADES</span>
                                     </a>
@@ -389,7 +389,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-dois-livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-dois-livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SUB15</span>
                                     </a>
@@ -414,7 +414,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-livros-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-livros-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MARY15</span>
                                     </a>
@@ -439,7 +439,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JULIA15</span>
                                     </a>
@@ -464,7 +464,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CLASSICOS</span>
                                     </a>
@@ -489,7 +489,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livro-parece-que-piorou" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livro-parece-que-piorou" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PARECE</span>
                                     </a>
@@ -514,7 +514,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-livro-talvezelanoprecisedemim" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off-livro-talvezelanoprecisedemim" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">VIOLETA</span>
                                     </a>
@@ -539,7 +539,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-item-do-link" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-item-do-link" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DRACULA10</span>
                                     </a>
@@ -564,7 +564,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-1-livro---15-off-em-2-livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-1-livro---15-off-em-2-livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PSICOSUBA</span>
                                     </a>
@@ -589,7 +589,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off1livro-15off2livros-20off3livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off1livro-15off2livros-20off3livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PAIS</span>
                                     </a>
@@ -614,7 +614,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-livro-o-duque-e-eu-edio-luxo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-livro-o-duque-e-eu-edio-luxo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DUQUE</span>
                                     </a>
@@ -639,7 +639,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-itens-mais-vendidos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-itens-mais-vendidos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MAISVENDIDOS</span>
                                     </a>
@@ -664,7 +664,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-pedidos-acima-de-r7990" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-pedidos-acima-de-r7990" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SUBLIVROS15</span>
                                     </a>
@@ -689,7 +689,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-seleo-de-livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-seleo-de-livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PAIZAO</span>
                                     </a>
@@ -714,7 +714,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-novaedioexclusivadejurassicpark" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off-novaedioexclusivadejurassicpark" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JURASSIC</span>
                                     </a>
@@ -739,7 +739,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-do-asimov" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-do-asimov" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ASIMOV</span>
                                     </a>
@@ -764,7 +764,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-do-neil-gaiman" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-do-neil-gaiman" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GAIMAN</span>
                                     </a>
@@ -789,7 +789,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/20off-em-doislivros-da-editora-arqueiro" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/20off-em-doislivros-da-editora-arqueiro" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AMIGO</span>
                                     </a>
@@ -814,7 +814,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-autoresmaisprocurados-da-darkside" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off-autoresmaisprocurados-da-darkside" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DARKSIDE</span>
                                     </a>
@@ -839,7 +839,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livro-eleanor--park" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livro-eleanor--park" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SEGUINTE</span>
                                     </a>
@@ -864,7 +864,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15offlivroacreditenasuacapacidadedesup" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15offlivroacreditenasuacapacidadedesup" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ACREDITE</span>
                                     </a>
@@ -889,7 +889,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livros-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">KARIN</span>
                                     </a>
@@ -914,7 +914,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-2-livros-20-off-em-3-livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-2-livros-20-off-em-3-livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MAISLIVROS</span>
                                     </a>
@@ -939,7 +939,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-em-histrias-de-fico-e-fantasia" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15off-em-histrias-de-fico-e-fantasia" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ENCANTADOS</span>
                                     </a>
@@ -964,7 +964,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-de-direito" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livros-de-direito" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DIREITO10SUB</span>
                                     </a>
@@ -989,7 +989,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-de-medicina" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-livros-de-medicina" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MED10SUB</span>
                                     </a>
@@ -1014,7 +1014,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-box-sandman" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-box-sandman" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SANDMAN</span>
                                     </a>
@@ -1039,7 +1039,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-boxes-e-kits" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10-off-em-boxes-e-kits" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">KIT10</span>
                                     </a>
@@ -1064,7 +1064,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo-asimov" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-da-seleo-asimov" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ASIMOV</span>
                                     </a>
@@ -1089,7 +1089,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-em-kits-da-intrinseca" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-em-kits-da-intrinseca" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INTRINSECA15</span>
                                     </a>
@@ -1114,7 +1114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off1livro15off2livros20off3livros" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/10off1livro15off2livros20off3livros" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ARQUEIRO</span>
                                     </a>
@@ -1139,7 +1139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/12-off-em-livros-de-direito" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/12-off-em-livros-de-direito" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DIREITO12</span>
                                     </a>
@@ -1164,7 +1164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-hqs-scifi-e-muito-mais" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-hqs-scifi-e-muito-mais" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GEEK</span>
                                     </a>
@@ -1189,7 +1189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo-asimov" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-da-seleo-asimov" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GUERRADOVELHO</span>
                                     </a>
@@ -1214,7 +1214,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">COLORINDO</span>
                                     </a>
@@ -1239,7 +1239,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-nos-livros-do-manual-do-mundo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-nos-livros-do-manual-do-mundo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MANUAL15</span>
                                     </a>
@@ -1264,7 +1264,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-nos-livros-do-autor-dan-brown" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15-off-nos-livros-do-autor-dan-brown" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DANBROWN15</span>
                                     </a>
@@ -1289,7 +1289,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/submarino/coupons/15offnovaedlivro-coraline-de-neilgaiman" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/submarino/coupons/15offnovaedlivro-coraline-de-neilgaiman" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CORALINE15</span>
                                     </a>

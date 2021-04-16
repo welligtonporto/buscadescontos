@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-em-produtos-de-futebol" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-em-produtos-de-futebol" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TORCIDA30</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-em-produtos-de-futebol" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-em-produtos-de-futebol" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TORCIDA30</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/15-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/15-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMVINDO15</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIS25</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KIDS</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/acima-de-r5010r10015r20020off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/acima-de-r5010r10015r20020off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPLEPRO</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/mais-de-25-em-produtos-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/mais-de-25-em-produtos-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FUT25</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/at-20-off-em-bikes" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/at-20-off-em-bikes" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BIKE20</span>
                                     </a>
@@ -263,7 +263,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/10-barrinhas-por-r2999" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/10-barrinhas-por-r2999" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10POR29</span>
                                     </a>
@@ -288,7 +288,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/at-40-off-em-chuteiras" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/at-40-off-em-chuteiras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CHUTEIRAS40</span>
                                     </a>
@@ -313,7 +313,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20offequipamentosuplemento-e-acessrio" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20offequipamentosuplemento-e-acessrio" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINE20</span>
                                     </a>
@@ -338,7 +338,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-em-suplementos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-em-suplementos" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">S30</span>
                                     </a>
@@ -363,7 +363,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-em-suplementos" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-em-suplementos" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">S30</span>
                                     </a>
@@ -388,7 +388,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20offacessriosequipamentossuplemento" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20offacessriosequipamentossuplemento" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINE20</span>
                                     </a>
@@ -413,7 +413,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-artigos-de-futebol" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-artigos-de-futebol" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FUT25</span>
                                     </a>
@@ -438,7 +438,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/40-off-em-chuteiras" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/40-off-em-chuteiras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CHUTEIRAS40</span>
                                     </a>
@@ -463,7 +463,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NAMO20</span>
                                     </a>
@@ -488,7 +488,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NAMO30</span>
                                     </a>
@@ -513,7 +513,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NAMO25</span>
                                     </a>
@@ -538,7 +538,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/mais-de-40-off-em-chuteiras-adidas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/mais-de-40-off-em-chuteiras-adidas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CHUTEIRAS40</span>
                                     </a>
@@ -563,7 +563,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/mais-de-30off-em-produtosadidaslistados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/mais-de-30off-em-produtosadidaslistados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ADIDAS30</span>
                                     </a>
@@ -587,7 +587,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/r100-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/r100-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DESCONTO100</span>
                                     </a>
@@ -611,7 +611,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/r300-off-no-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/r300-off-no-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DESCONTO300</span>
                                     </a>
@@ -636,7 +636,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-artigos-de-futebol" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-artigos-de-futebol" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FUT25</span>
                                     </a>
@@ -661,7 +661,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-mochilas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-mochilas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MOCHILA25</span>
                                     </a>
@@ -686,7 +686,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PROMO25</span>
                                     </a>
@@ -711,7 +711,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SOCIAL25</span>
                                     </a>
@@ -736,7 +736,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">RADICAL25</span>
                                     </a>
@@ -761,7 +761,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/dia-das-mes--30-off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/dia-das-mes--30-off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MAE30</span>
                                     </a>
@@ -786,7 +786,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-em-produtos-listados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-em-produtos-listados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CUPOM30</span>
                                     </a>
@@ -811,7 +811,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/descontoprogressivo-acima-de-r20020off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/descontoprogressivo-acima-de-r20020off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPLEPRO</span>
                                     </a>
@@ -836,7 +836,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/descontoprogressivo-acima-de-r20020off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/descontoprogressivo-acima-de-r20020off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPLEPRO</span>
                                     </a>
@@ -861,7 +861,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/descontoprogressivo-acima-de-r5010off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/descontoprogressivo-acima-de-r5010off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPLEPRO</span>
                                     </a>
@@ -886,7 +886,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/descontoprogressivo-acima-de-r10015off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/descontoprogressivo-acima-de-r10015off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SUPLEPRO</span>
                                     </a>
@@ -910,7 +910,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/10-barras-de-cereal-por-2999" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/10-barras-de-cereal-por-2999" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10POR29</span>
                                     </a>
@@ -935,7 +935,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-da-lista" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-da-lista" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PROMO25</span>
                                     </a>
@@ -960,7 +960,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/12-off-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/12-off-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label"> ABRIL2020</span>
                                     </a>
@@ -986,7 +986,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-oxer" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-oxer" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">OXER25</span>
                                     </a>
@@ -1011,7 +1011,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/r200-off-nos-calados-listados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/r200-off-nos-calados-listados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">DESCONTO200</span>
                                     </a>
@@ -1037,7 +1037,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/15-off-em-produtos-nike" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/15-off-em-produtos-nike" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15NIKE</span>
                                     </a>
@@ -1063,7 +1063,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/18-off-em-produtos-adidas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/18-off-em-produtos-adidas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ADIDAS18</span>
                                     </a>
@@ -1089,7 +1089,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20-off-em-produtos-puma" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20-off-em-produtos-puma" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PUMA20</span>
                                     </a>
@@ -1115,7 +1115,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20-off-na-lista-de-patins" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20-off-na-lista-de-patins" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PATINS20OFF</span>
                                     </a>
@@ -1141,7 +1141,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/at-69-off--15-extra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/at-69-off--15-extra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TREINEEMCASA</span>
                                     </a>
@@ -1167,7 +1167,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/30-off-na-lista-de-natao" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/30-off-na-lista-de-natao" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NATACAO30</span>
                                     </a>
@@ -1193,7 +1193,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/15-off-em-produtos-de-inverno" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/15-off-em-produtos-de-inverno" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">INVERNO15</span>
                                     </a>
@@ -1219,7 +1219,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/20off-em-bolsas-bons-malas-e-mochila" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/20off-em-bolsas-bons-malas-e-mochila" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CASUAL </span>
                                     </a>
@@ -1245,7 +1245,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/15-off-em-bike-e-acessrios" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/15-off-em-bike-e-acessrios" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BIKE</span>
                                     </a>
@@ -1271,7 +1271,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/15-off-em-patins-e-acessrios" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/15-off-em-patins-e-acessrios" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PATINS</span>
                                     </a>
@@ -1297,7 +1297,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/centauro/coupons/25-off-em-produtos-listados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/centauro/coupons/25-off-em-produtos-listados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VINTEECINCO</span>
                                     </a>

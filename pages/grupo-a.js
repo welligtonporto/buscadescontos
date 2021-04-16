@@ -62,7 +62,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/grupo-a/coupons/carnaval-de-e-books---leve-3-pague-2" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/grupo-a/coupons/carnaval-de-e-books---leve-3-pague-2" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CARNAVALEBOOKS</span>
                                     </a>
@@ -85,7 +85,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/grupo-a/coupons/volta-s-aulas---livros-at-55-off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/grupo-a/coupons/volta-s-aulas---livros-at-55-off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">VAAGRUPOA</span>
                                     </a>
@@ -110,7 +110,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/grupo-a/coupons/25off-primeira-compra-acima-de-10000" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/grupo-a/coupons/25off-primeira-compra-acima-de-10000" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">pc25off</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/grupo-a/coupons/5-off-nos-selos-editoriais-do-grupo-a" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/grupo-a/coupons/5-off-nos-selos-editoriais-do-grupo-a" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">grupoa5</span>
                                     </a>

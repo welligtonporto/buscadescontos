@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-botas-femininasexceto-via-marte" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-botas-femininasexceto-via-marte" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOTAS20</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/40-off-em-jeans" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS40</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/25-off-em-bolsas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOLSAS25</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-plus-size-acima-de-r100" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PLUS20</span>
                                     </a>
@@ -165,7 +165,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label"> SITE20</span>
                                     </a>
@@ -190,7 +190,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-plus-size-acima-de-r100-do-link" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-plus-size-acima-de-r100-do-link" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PLUS20</span>
                                     </a>
@@ -216,7 +216,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-nas-compras-acima-de-25000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/25-off-nas-compras-acima-de-25000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SITE25</span>
                                     </a>
@@ -242,7 +242,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-no-site-acima-de-r180" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-no-site-acima-de-r180" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CONSUMIDORA20</span>
                                     </a>
@@ -267,7 +267,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CONSUMIDORA50</span>
                                     </a>
@@ -292,7 +292,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO15</span>
                                     </a>
@@ -317,7 +317,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO20</span>
                                     </a>
@@ -342,7 +342,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO30</span>
                                     </a>
@@ -367,7 +367,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SITE20</span>
                                     </a>
@@ -392,7 +392,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-para-compras-acima-de-r25000" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-para-compras-acima-de-r25000" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SITE20</span>
                                     </a>
@@ -417,7 +417,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-bolsas-e-mochilas-da-landing" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-bolsas-e-mochilas-da-landing" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOLSAS20</span>
                                     </a>
@@ -442,7 +442,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-calados-masculinos-da-diadora" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-calados-masculinos-da-diadora" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DIADORA20</span>
                                     </a>
@@ -467,7 +467,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-masculinos-da-mormaii" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-calados-masculinos-da-mormaii" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MORMAII20</span>
                                     </a>
@@ -491,7 +491,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r250" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/ganhe-r5000-nas-compras-acima-de-r250" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NATAL50</span>
                                     </a>
@@ -516,7 +516,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-em-produtos-da-landing-page" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30off-em-produtos-da-landing-page" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN30</span>
                                     </a>
@@ -541,7 +541,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30off-somente-nos-produtos-da-landing" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30off-somente-nos-produtos-da-landing" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN30BF</span>
                                     </a>
@@ -566,7 +566,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MARABRAZ5OFF</span>
                                     </a>
@@ -590,7 +590,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/r20-off-nos-produtos-da-vitrine" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/r20-off-nos-produtos-da-vitrine" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BLACK20</span>
                                     </a>
@@ -615,7 +615,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r200" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-compras-acima-de-r200" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SITE20</span>
                                     </a>
@@ -640,7 +640,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-moda-infantil-acima-de-r100" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-moda-infantil-acima-de-r100" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INFANTIL20</span>
                                     </a>
@@ -665,7 +665,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-moda-praia-acimade-r100" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-moda-praia-acimade-r100" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRAIA20</span>
                                     </a>
@@ -690,7 +690,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CALCADOS20</span>
                                     </a>
@@ -716,7 +716,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE20</span>
                                     </a>
@@ -742,7 +742,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE30</span>
                                     </a>
@@ -768,7 +768,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE20</span>
                                     </a>
@@ -794,7 +794,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CALCADOS30</span>
                                     </a>
@@ -820,7 +820,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS30</span>
                                     </a>
@@ -846,7 +846,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE30</span>
                                     </a>
@@ -872,7 +872,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-bolsas-e-mochilas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-bolsas-e-mochilas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOLSAS20</span>
                                     </a>
@@ -898,7 +898,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS20</span>
                                     </a>
@@ -924,7 +924,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INVERNO20</span>
                                     </a>
@@ -950,7 +950,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOLSAS20</span>
                                     </a>
@@ -976,7 +976,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r100-inverno" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-compras-acima-de-r100-inverno" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">INVERNO20</span>
                                     </a>
@@ -1002,7 +1002,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS20</span>
                                     </a>
@@ -1028,7 +1028,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO10</span>
                                     </a>
@@ -1054,7 +1054,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-mormaii" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-mormaii" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">MORMAII20</span>
                                     </a>
@@ -1080,7 +1080,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DIADORA20</span>
                                     </a>
@@ -1106,7 +1106,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-na-lista-selecionada" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/25-off-na-lista-selecionada" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SEMANADOBRASIL25&nbsp;&nbsp;</span>
                                     </a>
@@ -1132,7 +1132,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-bolsas-e-mochilas" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BOLSAS20</span>
                                     </a>
@@ -1157,7 +1157,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/10-off-para-a-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">BEMVINDO10</span>
                                     </a>
@@ -1182,7 +1182,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NIVERSITE20</span>
                                     </a>
@@ -1207,7 +1207,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN20</span>
                                     </a>
@@ -1233,7 +1233,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-jeans-j-com-a-60-off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-jeans-j-com-a-60-off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">JEANS20</span>
                                     </a>
@@ -1259,7 +1259,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO15&nbsp;</span>
                                     </a>
@@ -1284,7 +1284,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO30</span>
                                     </a>
@@ -1310,7 +1310,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ADORO20</span>
                                     </a>

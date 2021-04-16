@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/malwee/coupons/5-off-em-primeira-compra" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/malwee/coupons/5-off-em-primeira-compra" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PRIMAWIN</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/malwee/coupons/25-off-em-calados-perkys" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/malwee/coupons/25-off-em-calados-perkys" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">GANHE25OFF</span>
                                     </a>
@@ -115,7 +115,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/malwee/coupons/15-off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/malwee/coupons/15-off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PROMO15</span>
                                     </a>
@@ -140,7 +140,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/malwee/coupons/10off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/malwee/coupons/10off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZANOX10</span>
                                     </a>
@@ -165,7 +165,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/malwee/coupons/7off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/malwee/coupons/7off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">ZANOX7</span>
                                     </a>

@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-60000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-60000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU600</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU150</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-20000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-20000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU200</span>
                                     </a>
@@ -135,7 +135,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU300</span>
                                     </a>
@@ -159,7 +159,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU400</span>
                                     </a>
@@ -183,7 +183,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -207,7 +207,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU50</span>
                                     </a>
@@ -231,7 +231,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU80</span>
                                     </a>
@@ -255,7 +255,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300off-geladbrastfrostfreeinv-443l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r300off-geladbrastfrostfreeinv-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA300</span>
                                     </a>
@@ -279,7 +279,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreesideinv-540l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200off-geladbrastfrostfreesideinv-540l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA200</span>
                                     </a>
@@ -303,7 +303,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO400</span>
                                     </a>
@@ -327,7 +327,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO600</span>
                                     </a>
@@ -351,7 +351,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO150</span>
                                     </a>
@@ -375,7 +375,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO200</span>
                                     </a>
@@ -399,7 +399,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO300</span>
                                     </a>
@@ -423,7 +423,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80off-em-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r80off-em-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO80</span>
                                     </a>
@@ -447,7 +447,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO100</span>
                                     </a>
@@ -471,7 +471,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-em-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r50off-em-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO50</span>
                                     </a>
@@ -495,7 +495,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r2790-off-smart-tv-75-led-4k-uhd-hdr" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r2790-off-smart-tv-75-led-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SONY2790</span>
                                     </a>
@@ -519,7 +519,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r1980-off-smart-tv-65-oled-4k-uhd-hdr" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r1980-off-smart-tv-65-oled-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SONY1980</span>
                                     </a>
@@ -543,7 +543,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r9600-off-smart-tv-85-led-4k-uhd-hdr" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r9600-off-smart-tv-85-led-4k-uhd-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SONY9600</span>
                                     </a>
@@ -567,7 +567,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r800-off-smart-tv-75-led-4k-hdr" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r800-off-smart-tv-75-led-4k-hdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SONY800</span>
                                     </a>
@@ -591,7 +591,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA200</span>
                                     </a>
@@ -615,7 +615,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200off-geladbrastfrostfreeinverse-443l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA200</span>
                                     </a>
@@ -639,7 +639,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80off-adegabrast12garrafaspaineltouch" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r80off-adegabrast12garrafaspaineltouch" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA80</span>
                                     </a>
@@ -663,7 +663,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-geladbrastfrostfreeinverse-573l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150off-geladbrastfrostfreeinverse-573l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA150</span>
                                     </a>
@@ -687,7 +687,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200offcooktop5bocasbrastcomquadrichama" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200offcooktop5bocasbrastcomquadrichama" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEIMA200</span>
                                     </a>
@@ -711,7 +711,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r400-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO400</span>
                                     </a>
@@ -735,7 +735,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r600-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO600</span>
                                     </a>
@@ -759,7 +759,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r300-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO300</span>
                                     </a>
@@ -783,7 +783,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r200-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO200</span>
                                     </a>
@@ -807,7 +807,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r100-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO100</span>
                                     </a>
@@ -831,7 +831,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO150</span>
                                     </a>
@@ -855,7 +855,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r50-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO50</span>
                                     </a>
@@ -879,7 +879,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r80-off-produtos-selecionados-do-link" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r80-off-produtos-selecionados-do-link" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PAIZAO80</span>
                                     </a>
@@ -903,7 +903,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -927,7 +927,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-50000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-50000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU500</span>
                                     </a>
@@ -951,7 +951,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-10000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -975,7 +975,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-15000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU150</span>
                                     </a>
@@ -999,7 +999,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-30000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU300</span>
                                     </a>
@@ -1023,7 +1023,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-40000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU400</span>
                                     </a>
@@ -1047,7 +1047,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-5000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU50</span>
                                     </a>
@@ -1071,7 +1071,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU80</span>
                                     </a>
@@ -1095,7 +1095,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r-8000-off-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU80</span>
                                     </a>
@@ -1119,7 +1119,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kad150</span>
                                     </a>
@@ -1143,7 +1143,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150off-nasbatedeiradamarcakitchenaid" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">kad150</span>
                                     </a>
@@ -1167,7 +1167,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r150off-geladbrastfrostfreeduplex-400l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r150off-geladbrastfrostfreeduplex-400l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU150</span>
                                     </a>
@@ -1191,7 +1191,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-397l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>
@@ -1215,7 +1215,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r50off-mquinadelavarconsul-14kg-branca" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r50off-mquinadelavarconsul-14kg-branca" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU50</span>
                                     </a>
@@ -1239,7 +1239,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-441l" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/compra-certa/coupons/r100off-geladconsulfrostfreeduplex-441l" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHOU100</span>
                                     </a>

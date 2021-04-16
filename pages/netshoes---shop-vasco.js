@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN15</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/10-off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---shop-vasco/coupons/10-off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN10</span>
                                     </a>
@@ -115,7 +115,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AWIN15</span>
                                     </a>

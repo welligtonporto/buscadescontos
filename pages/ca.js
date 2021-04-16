@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/kindle-com-r20-off-s-na-ca" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/kindle-com-r20-off-s-na-ca" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KINDLE20</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r30-off-em-kindle" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r30-off-em-kindle" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KINDLE30</span>
                                     </a>
@@ -112,7 +112,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r60-off-em-kindle" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r60-off-em-kindle" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KINDLE60</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r80-off-em-kindle" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r80-off-em-kindle" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KINDLE80</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-100off-acumulativo-em-produtos-30off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-100off-acumulativo-em-produtos-30off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO100 </span>
                                     </a>
@@ -184,7 +184,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-50off-acumulativo-em--produtos-40off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-50off-acumulativo-em--produtos-40off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO50 </span>
                                     </a>
@@ -208,7 +208,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-75off-acumulativo-em-produtos-30off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-75off-acumulativo-em-produtos-30off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO75 </span>
                                     </a>
@@ -232,7 +232,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-150off-em-produtos-25off" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-150off-em-produtos-25off" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO150 </span>
                                     </a>
@@ -257,7 +257,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-offem-kindle--produtos-da-vitrine" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-offem-kindle--produtos-da-vitrine" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO10</span>
                                     </a>
@@ -282,7 +282,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-calados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-calados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CALCADOS10</span>
                                     </a>
@@ -307,7 +307,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r50-off-m-kindle-e-produtos-da-vitrine" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r50-off-m-kindle-e-produtos-da-vitrine" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ELETRO50</span>
                                     </a>
@@ -331,7 +331,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r700-off-no-galaxy-s9-plus-open-preto" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r700-off-no-galaxy-s9-plus-open-preto" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-S9-FT</span>
                                     </a>
@@ -355,7 +355,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r700-off-no-galaxy-s9-128gb-open-preto" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r700-off-no-galaxy-s9-128gb-open-preto" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GALAXY S9 PLUS OPEN PRETO</span>
                                     </a>
@@ -380,7 +380,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-moda-infantil" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-moda-infantil" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0618-INF</span>
                                     </a>
@@ -404,7 +404,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r700-off-no-galaxy-s9-plus-open-lils" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r700-off-no-galaxy-s9-plus-open-lils" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-S9-FT</span>
                                     </a>
@@ -429,7 +429,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-moda-feminina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-moda-feminina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0618-FEM</span>
                                     </a>
@@ -454,7 +454,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0618-GERAL</span>
                                     </a>
@@ -479,7 +479,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-em-calados-e-bolsas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-em-calados-e-bolsas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-CEA</span>
                                     </a>
@@ -504,7 +504,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15off-em-moda-masculina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15off-em-moda-masculina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-GANHE-15</span>
                                     </a>
@@ -529,7 +529,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0618-MAS</span>
                                     </a>
@@ -554,7 +554,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-em-calados-e-bolsas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-em-calados-e-bolsas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-CEA</span>
                                     </a>
@@ -578,7 +578,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/kindle-paperwhite-bw-por-r-3790" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/kindle-paperwhite-bw-por-r-3790" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">KINDLE-CEA</span>
                                     </a>
@@ -603,7 +603,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-acumulativo-com-restries" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-acumulativo-com-restries" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-10-INF</span>
                                     </a>
@@ -628,7 +628,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-femininomasculinoinfantil" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-femininomasculinoinfantil" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CUPOM-10</span>
                                     </a>
@@ -653,7 +653,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/5-off-em-celulares-e-tablets" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/5-off-em-celulares-e-tablets" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">5OFF-CEAFT</span>
                                     </a>
@@ -678,7 +678,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-moda-infantil-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-moda-infantil-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0518-INF</span>
                                     </a>
@@ -703,7 +703,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-na-categoria-moda-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-na-categoria-moda-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0518-GERAL</span>
                                     </a>
@@ -728,7 +728,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-moda-masculina-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-moda-masculina-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0518-MAS</span>
                                     </a>
@@ -753,7 +753,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-moda-feminina-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-moda-feminina-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0518-FEM</span>
                                     </a>
@@ -778,7 +778,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100-regra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100-regra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0418-INF</span>
                                     </a>
@@ -803,7 +803,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0418-GERAL</span>
                                     </a>
@@ -828,7 +828,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0418-MAS</span>
                                     </a>
@@ -853,7 +853,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-compras-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0418-FEM</span>
                                     </a>
@@ -878,7 +878,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-na-categoria-moda-infantil" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-na-categoria-moda-infantil" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-MODA-CEA</span>
                                     </a>
@@ -903,7 +903,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-na-categoria-moda-masculina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-na-categoria-moda-masculina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-MODA-CEA</span>
                                     </a>
@@ -928,7 +928,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-na-categoria-moda-feminina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-na-categoria-moda-feminina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-MODA-CEA</span>
                                     </a>
@@ -953,7 +953,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-acima-de-r100-em-moda-infantil" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-acima-de-r100-em-moda-infantil" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0218-INF</span>
                                     </a>
@@ -977,7 +977,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r70-off-nas-compras-acima-de-r250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r70-off-nas-compras-acima-de-r250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE7</span>
                                     </a>
@@ -1002,7 +1002,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-acumulativo-com-excesses" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-acumulativo-com-excesses" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">15OFF-MASCULINO</span>
                                     </a>
@@ -1027,7 +1027,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/20-off-acumulativo-para-masculino" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/20-off-acumulativo-para-masculino" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">20OFF-MASCULINO</span>
                                     </a>
@@ -1052,7 +1052,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10-off-em-calas-e-bermudas-masculinas" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10-off-em-calas-e-bermudas-masculinas" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BOTTOM_10OFF</span>
                                     </a>
@@ -1077,7 +1077,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10off-acima-de-r100-em-moda-femina" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10off-acima-de-r100-em-moda-femina" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0118-FEM</span>
                                     </a>
@@ -1100,7 +1100,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15off-cumulativo-na-categoria-moda" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15off-cumulativo-na-categoria-moda" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-NATAL-15</span>
                                     </a>
@@ -1125,7 +1125,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/5-off-valido-para-moda" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/5-off-valido-para-moda" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">CEA-BLACKFRIDAY </span>
                                     </a>
@@ -1147,7 +1147,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-210-off-no-samsung-galaxy-j7" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-210-off-no-samsung-galaxy-j7" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GALAXYJ7-CEA</span>
                                     </a>
@@ -1169,7 +1169,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/r-250-off-no-samsung-galaxy-j5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/r-250-off-no-samsung-galaxy-j5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GALAXYJ5-CEA</span>
                                     </a>
@@ -1192,7 +1192,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10off-extra-em-produtos-selecionados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10off-extra-em-produtos-selecionados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10OFF_EXTRA</span>
                                     </a>
@@ -1217,7 +1217,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10off-acima-de-r-100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10off-acima-de-r-100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z0916-CEA10OFF</span>
                                     </a>
@@ -1242,7 +1242,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/15-off-vlido-para-moda-com-excees" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/15-off-vlido-para-moda-com-excees" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Z15OFF-CEA</span>
                                     </a>
@@ -1267,7 +1267,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/ca/coupons/10off-em-produtos-remarcados" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/ca/coupons/10off-em-produtos-remarcados" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10OFF-CEA</span>
                                     </a>

@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/15-off-apenas-em-pagamentos-via-paypal" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/15-off-apenas-em-pagamentos-via-paypal" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">PAYPASCOA2020</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/9-off-em-seleo-de-jogos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/9-off-em-seleo-de-jogos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">AUTOSAVE</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-produtos-selecionados" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/10-off-em-produtos-selecionados" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NUUVEM10</span>
                                     </a>
@@ -139,7 +139,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-seleo-de-jogos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/10-off-em-seleo-de-jogos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">NUUVEM10</span>
                                     </a>
@@ -164,7 +164,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-dlcs" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/10-off-em-dlcs" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SUPERDLC</span>
                                     </a>
@@ -189,7 +189,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-no-jogo-f1-2019" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/10-off-no-jogo-f1-2019" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SENNA</span>
                                     </a>
@@ -213,7 +213,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/r10off-na-seleo-de-jogos-com-paypal" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/nuuvem/coupons/r10off-na-seleo-de-jogos-com-paypal" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">DEZCONTOPAYPAL</span>
                                     </a>

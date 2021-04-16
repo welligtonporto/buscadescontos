@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/ganhe-r65off-em-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/ganhe-r65off-em-compras-acima-de-r200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE65</span>
                                     </a>
@@ -87,7 +87,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/ganhe-r50off-em-compras-acima-de-r150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/ganhe-r50off-em-compras-acima-de-r150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE50</span>
                                     </a>
@@ -111,7 +111,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/ganhe-r80off-em-compras-acima-de-r250" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/ganhe-r80off-em-compras-acima-de-r250" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE80</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/30-off-em-2-fragrncia-dessa-seo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/30-off-em-2-fragrncia-dessa-seo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRAG30</span>
                                     </a>
@@ -161,7 +161,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/40-off-3-fragrncia-dessa-seo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/40-off-3-fragrncia-dessa-seo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRAG40</span>
                                     </a>
@@ -186,7 +186,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/20-off-1-fragrncia-dessa-seo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/20-off-1-fragrncia-dessa-seo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRAG20</span>
                                     </a>
@@ -211,7 +211,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/frete-grtis-em-todo-o-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/frete-grtis-em-todo-o-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRETEMIDIA</span>
                                     </a>
@@ -235,7 +235,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/ganhe-um-ncessaire-exclusivo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/ganhe-um-ncessaire-exclusivo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ABRACO</span>
                                     </a>
@@ -260,7 +260,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/20-off-no-srum-anti-celulite" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/20-off-no-srum-anti-celulite" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SERUM</span>
                                     </a>
@@ -284,7 +284,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/ganhe-um-saquinho-da-linha-capim-limo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/ganhe-um-saquinho-da-linha-capim-limo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIMAO</span>
                                     </a>
@@ -308,7 +308,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/brinde-ganhe-um-caderno-exclusivo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/brinde-ganhe-um-caderno-exclusivo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NINFA</span>
                                     </a>
@@ -332,7 +332,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/frete-grtis-em-qualquer-produto-patau" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/frete-grtis-em-qualquer-produto-patau" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">FRETEPATAUA</span>
                                     </a>
@@ -356,7 +356,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/em-qualquer-compra-leve-sabonete-gua-d" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/em-qualquer-compra-leve-sabonete-gua-d" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LIXA</span>
                                     </a>
@@ -380,7 +380,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/nas-compras-acima-de-r100--leve-uma-bo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/nas-compras-acima-de-r100--leve-uma-bo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TERMICA</span>
                                     </a>
@@ -404,7 +404,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/nas-compras-acima-de-r90-em-produtos-da" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/nas-compras-acima-de-r90-em-produtos-da" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">LANCAMENTO</span>
                                     </a>
@@ -429,7 +429,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/na-compra-do-srum-anticelulite--ganhe" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/na-compra-do-srum-anticelulite--ganhe" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SERUM</span>
                                     </a>
@@ -454,7 +454,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/loccitane-au-bresil/coupons/na-compra-do-srum-anticelulite--ganhe" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/loccitane-au-bresil/coupons/na-compra-do-srum-anticelulite--ganhe" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">SERUM</span>
                                     </a>

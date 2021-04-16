@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/10-extra-em-toda-a-seo-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/10-extra-em-toda-a-seo-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10EXTRA</span>
                                     </a>
@@ -89,7 +89,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra-da-coleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra-da-coleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -114,7 +114,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/25-off-extra-na-seo-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/25-off-extra-na-seo-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">OUTLET25</span>
                                     </a>
@@ -138,7 +138,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/r200-off-na-coleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/r200-off-na-coleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NEWANIMALE</span>
                                     </a>
@@ -163,7 +163,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/40-extra-na-seo-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/40-extra-na-seo-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BLACKSALE</span>
                                     </a>
@@ -188,7 +188,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/40off-para-novos-usurios---1-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/40off-para-novos-usurios---1-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GIFTEXCLUSIVO</span>
                                     </a>
@@ -214,7 +214,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra-na-coleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra-na-coleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -240,7 +240,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra-na-coleo" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra-na-coleo" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -266,7 +266,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/10-off-na-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/10-off-na-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10EXTRA</span>
                                     </a>
@@ -291,7 +291,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/10-off-na-landing-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/10-off-na-landing-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">10EXTRA</span>
                                     </a>
@@ -317,7 +317,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -342,7 +342,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-no-site-com-restrio" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-no-site-com-restrio" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -368,7 +368,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra-no-site" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra-no-site" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -394,7 +394,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>
@@ -420,7 +420,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/animale/coupons/20-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">ANIMALE20</span>
                                     </a>

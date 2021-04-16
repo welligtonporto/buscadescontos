@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r30off-na-1-compra-acima-de-r150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r30off-na-1-compra-acima-de-r150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE30</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/15-off-na-primeira-compra-de-kits" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/15-off-na-primeira-compra-de-kits" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEROKIT</span>
                                     </a>
@@ -112,7 +112,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r45off-na-primeira-compra-acima-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r45off-na-primeira-compra-acima-r200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO45</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/frete-gratis-na-1-compra-confira-regras" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/frete-gratis-na-1-compra-confira-regras" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEROFG</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r15off-na-1-compra-acima-de-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r15off-na-1-compra-acima-de-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO15</span>
                                     </a>
@@ -184,7 +184,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r30-off-em-compras-acima-de-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r30-off-em-compras-acima-de-r200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BEMVINDO30</span>
                                     </a>
@@ -208,7 +208,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/frete-grtis-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/frete-grtis-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEROFG</span>
                                     </a>
@@ -233,7 +233,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/5-off-em-compras-acima-de-r-150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/5-off-em-compras-acima-de-r-150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERODENOVO</span>
                                     </a>
@@ -258,7 +258,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/15-off-na-primeira-compra-de-kits" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/15-off-na-primeira-compra-de-kits" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUEROKIT</span>
                                     </a>
@@ -283,7 +283,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/10off-na-primeira-compra-acima-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/10off-na-primeira-compra-acima-r200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">EVINO10OFF</span>
                                     </a>
@@ -307,7 +307,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r30-off-na-primeira-compra-acima-r150" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r30-off-na-primeira-compra-acima-r150" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GANHE30</span>
                                     </a>
@@ -331,7 +331,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r45off-na-primeira-compra-acima-r200" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r45off-na-primeira-compra-acima-r200" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO45</span>
                                     </a>
@@ -355,7 +355,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/evino/coupons/r15off-na-primeira-compra-acima-r100" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/evino/coupons/r15off-na-primeira-compra-acima-r100" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">QUERO15</span>
                                     </a>

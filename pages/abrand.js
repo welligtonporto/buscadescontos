@@ -63,7 +63,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">WELCOME10</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/10-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/10-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">WELCOME10</span>
                                     </a>
@@ -113,7 +113,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/35-off-extra-na-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/35-off-extra-na-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">EXTRA35 </span>
                                     </a>
@@ -138,7 +138,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/40-off-na-primeira-compra" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/40-off-na-primeira-compra" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">HELLO40</span>
                                     </a>
@@ -163,7 +163,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/10-off-extra-na-black-friday" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/10-off-extra-na-black-friday" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BLACK10</span>
                                     </a>
@@ -188,7 +188,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/30-off-extra-em-toda-a-sale" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/30-off-extra-em-toda-a-sale" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label"> EXTRA30</span>
                                     </a>
@@ -213,7 +213,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/20-off-para-novos-clientes" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/20-off-para-novos-clientes" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">HELLO20</span>
                                     </a>
@@ -239,7 +239,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/abrand/coupons/20-off-para-novos-clientes" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/abrand/coupons/20-off-para-novos-clientes" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">HELLO20</span>
                                     </a>

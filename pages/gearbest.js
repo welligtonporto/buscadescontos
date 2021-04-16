@@ -61,7 +61,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/jjrc-x12-gps-5g-wifi-4k-smart-control" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/jjrc-x12-gps-5g-wifi-4k-smart-control" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">JJRCX124K2</span>
                                     </a>
@@ -83,7 +83,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/bilikay-t03-bluetooth-hifi-stereo-earpho" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/bilikay-t03-bluetooth-hifi-stereo-earpho" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TCS8R0WRGS</span>
                                     </a>
@@ -105,7 +105,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/asus-rog2-gaming-phone" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/asus-rog2-gaming-phone" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBMPROG2</span>
                                     </a>
@@ -127,7 +127,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/oneplus-7--256-gb-only-39999-usd" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/oneplus-7--256-gb-only-39999-usd" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBOP7G654321</span>
                                     </a>
@@ -149,7 +149,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-b2-rfid-sports-smart-watch" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-b2-rfid-sports-smart-watch" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBALB2062180</span>
                                     </a>
@@ -171,7 +171,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/redmi-note-8-pro-664-gray" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/redmi-note-8-pro-664-gray" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBNOTE8P1</span>
                                     </a>
@@ -193,7 +193,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/mi9t-pro-6-128-blue" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/mi9t-pro-6-128-blue" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBM9TPRO4</span>
                                     </a>
@@ -215,7 +215,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/redmi-note8-pro-6-128-black" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/redmi-note8-pro-6-128-black" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBNOTE8P2</span>
                                     </a>
@@ -237,7 +237,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mi9t-pro-6128-black" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mi9t-pro-6128-black" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBM9TPRO6 </span>
                                     </a>
@@ -259,7 +259,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-wowstick-21-electric-screwdriver" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-wowstick-21-electric-screwdriver" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBAFF081212</span>
                                     </a>
@@ -281,7 +281,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mi-band-4-china-version" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mi-band-4-china-version" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBXMSH01</span>
                                     </a>
@@ -303,7 +303,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mi-band-4--international-version" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mi-band-4--international-version" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBBAND4MI </span>
                                     </a>
@@ -325,7 +325,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-redmi-airdots-wireless-bluetooth" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-redmi-airdots-wireless-bluetooth" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBREDMI189</span>
                                     </a>
@@ -347,7 +347,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-twsej02jy-air-2-bluetooth" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-twsej02jy-air-2-bluetooth" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBMITWAIR2</span>
                                     </a>
@@ -369,7 +369,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/cupom-para-loja-olaf-official-store3" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/cupom-para-loja-olaf-official-store3" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Y37B1305B461D000</span>
                                     </a>
@@ -391,7 +391,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/fy-feiyutech-vlog-pocket-3-gimbal" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/fy-feiyutech-vlog-pocket-3-gimbal" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBFEIYU3B</span>
                                     </a>
@@ -413,7 +413,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/original-xiaomi-power-bank-3-10000mah-us" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/original-xiaomi-power-bank-3-10000mah-us" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">W37C0DB51558D000</span>
                                     </a>
@@ -435,7 +435,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/cupom-para-loja-olaf-official-store2" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/cupom-para-loja-olaf-official-store2" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">X37B12B56698D001</span>
                                     </a>
@@ -457,7 +457,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/cupom-para-loja-olaf-official-store1" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/cupom-para-loja-olaf-official-store1" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">C376042DD1D8D001 </span>
                                     </a>
@@ -479,7 +479,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/cupom-para-loja-twitch-franchise1" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/cupom-para-loja-twitch-franchise1" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">O37B11872661D001</span>
                                     </a>
@@ -501,7 +501,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/cupom-para-loja-twitch-franchise2" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/cupom-para-loja-twitch-franchise2" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">T373084E3A58D000</span>
                                     </a>
@@ -523,7 +523,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-mais-50-e-discontar-3" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-mais-50-e-discontar-3" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">Y54X4643FH</span>
                                     </a>
@@ -562,7 +562,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/bilikay-sn58-waterproof-smart-watch" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/bilikay-sn58-waterproof-smart-watch" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">AEMKY0UFJ1</span>
                                     </a>
@@ -601,7 +601,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise--2-in-1-64gb-micro-sd-card" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise--2-in-1-64gb-micro-sd-card" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBEXTFCP01  </span>
                                     </a>
@@ -623,7 +623,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/samsung-uhs-3-class10-micro-sdxc-memory" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/samsung-uhs-3-class10-micro-sdxc-memory" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBCNSXU3128GB</span>
                                     </a>
@@ -645,7 +645,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/bilikay-v16-binaural-bluetooth-earphones" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/bilikay-v16-binaural-bluetooth-earphones" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">WJJC3DHPLY</span>
                                     </a>
@@ -667,7 +667,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/bilikay-hbq-pro-bluetooth-earphone-wirel" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/bilikay-hbq-pro-bluetooth-earphone-wirel" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">7NULIBP0GR</span>
                                     </a>
@@ -689,7 +689,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/vention-cnchb-converter-type-c-to-hdmi" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/vention-cnchb-converter-type-c-to-hdmi" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBCNVENCNCHB6</span>
                                     </a>
@@ -711,7 +711,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mi-band-4-smart-bracelet" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mi-band-4-smart-bracelet" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBXMSH01</span>
                                     </a>
@@ -733,7 +733,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/fy-feiyutech-vlog-pocket-3-axis-handheld" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/fy-feiyutech-vlog-pocket-3-axis-handheld" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBFEIYU3B</span>
                                     </a>
@@ -755,7 +755,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/gocomma-t20s-motorcycle-helmet-interphon" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/gocomma-t20s-motorcycle-helmet-interphon" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">TS020601</span>
                                     </a>
@@ -777,7 +777,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/i15-max--wireless-bluetooth-earphones" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/i15-max--wireless-bluetooth-earphones" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">MA0T4SPMRS</span>
                                     </a>
@@ -799,7 +799,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-wowstick-21-in-1-precision" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-wowstick-21-in-1-precision" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">B5BE4T4PQN</span>
                                     </a>
@@ -821,7 +821,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-redmi-airdots--bluetooth-headset" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-redmi-airdots--bluetooth-headset" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBREDMI189</span>
                                     </a>
@@ -843,7 +843,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-ad---1807-soap-dispenser" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-ad---1807-soap-dispenser" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">41CF5SF845</span>
                                     </a>
@@ -865,7 +865,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mi-band-4-smart-bracelet" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mi-band-4-smart-bracelet" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBBAND4MI</span>
                                     </a>
@@ -887,7 +887,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/megir-2068-quartz-watch-multi-function" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/megir-2068-quartz-watch-multi-function" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">IT$WJN8202</span>
                                     </a>
@@ -909,7 +909,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-hqb---q32-tws-binaural-wireless" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-hqb---q32-tws-binaural-wireless" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GB0621Q3280  </span>
                                     </a>
@@ -931,7 +931,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/curren-8321-mens-quartz-watch-ultra-thin" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/curren-8321-mens-quartz-watch-ultra-thin" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">IT$WJN8203</span>
                                     </a>
@@ -953,7 +953,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/curren-8327-mens-watch--movement" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/curren-8327-mens-watch--movement" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">IT$WJN8201</span>
                                     </a>
@@ -975,7 +975,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/megir-1010g-mens-watch-sports-luminous" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/megir-1010g-mens-watch-sports-luminous" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">IT$WJN8204</span>
                                     </a>
@@ -997,7 +997,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/samsung-uhs-3-class10-micro-sdxc-memory" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/samsung-uhs-3-class10-micro-sdxc-memory" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GBCNSXU3128GB</span>
                                     </a>
@@ -1019,7 +1019,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/minismile-5v-24a-universal-fast-charge" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/minismile-5v-24a-universal-fast-charge" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">BZAIZJ9OVI</span>
                                     </a>
@@ -1041,7 +1041,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-pe1606-eu-standard-wifi-smart-p" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-pe1606-eu-standard-wifi-smart-p" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">PE1606EUWB</span>
                                     </a>
@@ -1063,7 +1063,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/gocomma-a6s-3d-stereo-earphone-noise" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/gocomma-a6s-3d-stereo-earphone-noise" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">K8PNMJ7V56</span>
                                     </a>
@@ -1085,7 +1085,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/alfawise-j20-bone-conduction-bluetooth-5" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/alfawise-j20-bone-conduction-bluetooth-5" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">A9KE0NL1B0</span>
                                     </a>
@@ -1107,7 +1107,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/ruixin-pro-knife-sharpener" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/ruixin-pro-knife-sharpener" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">GB080704</span>
                                     </a>
@@ -1129,7 +1129,7 @@ export default function Index() {
                                                             </div>
                                                         <div class="col-md-4">
                                 <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/gearbest/coupons/xiaomi-mijia-wiha-8-in-1-ratchet-screwdr" target="_blank">
+                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gearbest/coupons/xiaomi-mijia-wiha-8-in-1-ratchet-screwdr" target="_blank">
                                         <span class="txt-princ">Ver Oferta</span>
                                         <span class="txt-label">NS84RNNU06</span>
                                     </a>

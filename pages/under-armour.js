@@ -64,7 +64,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15-off-em-todo-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/15-off-em-todo-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA15OFF</span>
                                     </a>
@@ -88,7 +88,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-charged-extend" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-no-tnis-charged-extend" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA100</span>
                                     </a>
@@ -112,7 +112,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-charged-skyline" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-no-tnis-charged-skyline" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SKY100</span>
                                     </a>
@@ -136,7 +136,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r200-off-tnis-hovr-phantom-rn" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r200-off-tnis-hovr-phantom-rn" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">HOVR200</span>
                                     </a>
@@ -160,7 +160,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-no-tnis-hovr-summit" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r170-off-no-tnis-hovr-summit" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">HOVR170</span>
                                     </a>
@@ -184,7 +184,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-no-tnis-charged-cruize" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-no-tnis-charged-cruize" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUIZE50</span>
                                     </a>
@@ -208,7 +208,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r200-off-no-tnis-hovr-phantom-rn" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r200-off-no-tnis-hovr-phantom-rn" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">HOVR200</span>
                                     </a>
@@ -232,7 +232,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">HOVR170</span>
                                     </a>
@@ -256,7 +256,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-charged-extend" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-charged-extend" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA100</span>
                                     </a>
@@ -280,7 +280,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-charged-cruize" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-em-tnis-charged-cruize" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">CRUIZE50</span>
                                     </a>
@@ -305,7 +305,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15-off-no-site-todo" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/15-off-no-site-todo" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA15OFF</span>
                                     </a>
@@ -330,7 +330,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SHOPUA15</span>
                                     </a>
@@ -354,7 +354,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r70-off-no-tnis-charged-spread" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r70-off-no-tnis-charged-spread" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA70</span>
                                     </a>
@@ -378,7 +378,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-no-tnis-charged-pursuit" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-no-tnis-charged-pursuit" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UA50</span>
                                     </a>
@@ -403,7 +403,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UAPROMO5</span>
                                     </a>
@@ -427,7 +427,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UNDERARMOUR50</span>
                                     </a>
@@ -451,7 +451,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UNDERARMOUR50</span>
                                     </a>
@@ -476,7 +476,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UAPROMO5</span>
                                     </a>
@@ -501,7 +501,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15off--todo-o-site-exceto-lanamentos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/15off--todo-o-site-exceto-lanamentos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SHOPUA15</span>
                                     </a>
@@ -527,7 +527,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15off-em-produtos-masculinos" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/15off-em-produtos-masculinos" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UAMENS15</span>
                                     </a>
@@ -552,7 +552,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/20-off-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/20-off-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">SHOPALL20</span>
                                     </a>
@@ -576,7 +576,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-prospectfem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-em-tnis-prospectfem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS50</span>
                                     </a>
@@ -600,7 +600,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-razemasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-em-tnis-razemasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS50</span>
                                     </a>
@@ -624,7 +624,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-razefem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-em-tnis-razefem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS50</span>
                                     </a>
@@ -648,7 +648,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-prospectmasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r50-off-em-tnis-prospectmasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS50</span>
                                     </a>
@@ -672,7 +672,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r90-off-em-tnis-carbonmasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r90-off-em-tnis-carbonmasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS90</span>
                                     </a>
@@ -696,7 +696,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r90-off-em-tnis-carbonfem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r90-off-em-tnis-carbonfem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS90</span>
                                     </a>
@@ -720,7 +720,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-impulsefem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-impulsefem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -744,7 +744,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-cruizemasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-cruizemasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -768,7 +768,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-cruizefem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-cruizefem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -792,7 +792,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinefem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-skylinefem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -816,7 +816,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-impulsemasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-impulsemasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -840,7 +840,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinemasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-em-tnis-skylinemasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UATENIS100</span>
                                     </a>
@@ -864,7 +864,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvemasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r150-off-em-tnis-envolvemasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS150</span>
                                     </a>
@@ -888,7 +888,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvefem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r150-off-em-tnis-envolvefem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS150</span>
                                     </a>
@@ -912,7 +912,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadfem" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r170-off-em-tnis-spreadfem" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS170</span>
                                     </a>
@@ -936,7 +936,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-odyssey" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r170-off-em-tnis-odyssey" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS170</span>
                                     </a>
@@ -960,7 +960,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadmasc" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r170-off-em-tnis-spreadmasc" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS170</span>
                                     </a>
@@ -985,7 +985,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/20-em-todo-o-site" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/20-em-todo-o-site" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UAPRIME</span>
                                     </a>
@@ -1009,7 +1009,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100off-no-tnis-ua-charged-skyline" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100off-no-tnis-ua-charged-skyline" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS100</span>
                                     </a>
@@ -1033,7 +1033,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS100</span>
                                     </a>
@@ -1057,7 +1057,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-ua-charged-cruize" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r100-off-no-tnis-ua-charged-cruize" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS100</span>
                                     </a>
@@ -1081,7 +1081,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS70</span>
                                     </a>
@@ -1105,7 +1105,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">TENIS120</span>
                                     </a>
@@ -1130,7 +1130,7 @@ export default function Index() {
                                                             </div>
                                                         <div className="col-md-4">
                                 <div className="btn-coupon-label-container m-0-auto">
-                                    <a className="btn-coupon-label btn-coupon-green" href="https://www.buscadescontos.com.br/open/under-armour/coupons/desconto-progressivo-at-20off" target="_blank">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/under-armour/coupons/desconto-progressivo-at-20off" target="_blank">
                                         <span className="txt-princ">Ver Oferta</span>
                                         <span className="txt-label">UAPRO20</span>
                                     </a>

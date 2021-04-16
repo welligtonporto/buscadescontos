@@ -20,14 +20,14 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>10%OFF em Todo o Site | Buscadescontos</title>
-        <meta name="description" content="10%OFF em Todo o Site" />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/open/plie/coupons/10off-em-todo-o-site" />
+        <title>10%OFF de desconto em TODO o site. | Buscadescontos</title>
+        <meta name="description" content="10%OFF de desconto em TODO o site." />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/open/plie/coupons/10off-de-desconto-em-todo-o-site" />
 
-        <meta property="og:url" content="https://www.buscadescontos.com.br/open/plie/coupons/10off-em-todo-o-site" />
-        <meta property="og:title" content="10%OFF em Todo o Site | Buscadescontos" />
-        <meta property="og:description" content="10%OFF em Todo o Site" />
-        <meta property="og:site_name" content="10%OFF em Todo o Site | Buscadescontos" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/open/plie/coupons/10off-de-desconto-em-todo-o-site" />
+        <meta property="og:title" content="10%OFF de desconto em TODO o site. | Buscadescontos" />
+        <meta property="og:description" content="10%OFF de desconto em TODO o site." />
+        <meta property="og:site_name" content="10%OFF de desconto em TODO o site. | Buscadescontos" />
 
         <meta property="og:image" content="https://www.buscadescontos.com.br/img/busca-desconto-og.png" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -48,7 +48,7 @@ export default function Index() {
                                                     <p className="coupon-instructions text-center c-white" data-text-coupon="">Copie o cupom abaixo para que o desconto possa ser utilizado em sua oferta.</p>
                             
                                                 <div className="code-offer">
-                                <input className="input-code-offer copyCode" type="text" value="WELCOME" />
+                                <input className="input-code-offer copyCode" type="text" value="PLIEZANOX" />
                                 <button className="copy-code-offer" data-copy-clipboard="" onClick={handleCopy}> 
                                     <span className="copy-code-offer-cta"><i className="fa fa-clipboard" aria-hidden="true"></i> <span>Copiar</span></span> 
                                 </button>
@@ -57,7 +57,7 @@ export default function Index() {
                                                                         
                             <h2>Você esta sendo<br/> redirecionado para:</h2>
                             <div className="logo-redirect">
-                                <img src="http://ui.zanox.com/images/programs/17660/17660_lgo_plie_br.png" alt="10%OFF em Todo o Site" className="img-responsive m-0-auto"/>
+                                <img src="http://ui.zanox.com/images/programs/17660/17660_lgo_plie_br.png" alt="10%OFF de desconto em TODO o site." className="img-responsive m-0-auto"/>
                             </div>                    
                             <p className="text-center c-white&gt;" data-text-offer="" style={{ color: "#FFF" }}>O prazo de validade e o preço anunciado estão sujeitos a alteração sem aviso prévio.</p>
                             <div className="progress">
