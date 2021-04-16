@@ -1,14 +1,20 @@
-import Head from 'next/head'
+import Head from "next/head"
+import React, { useState } from 'react'
 import Image from 'next/image'
 
 import '../styles/style.min.css'
 import '../styles/custom.css'
 
-// import logo from "../img/logo-busca-descontos.png"
-
 function MyApp({ Component, pageProps }) {
+  const [showModal, setShowModal] = useState(false)
+
   return (
     <>
+      <Head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+      </Head>
+
       <header className="header-desktop">
         <div className="container">
         <div className="flex-header row">
@@ -24,7 +30,7 @@ function MyApp({ Component, pageProps }) {
           </div>
 
           <div>
-            <button className="btn-rounded btn-rounded-green desktop-user" onClick={() => console.log("modal register")}>Cadastre-se</button>
+            <button type="button" className="btn-rounded btn-rounded-green desktop-user" data-toggle="modal" data-target="#modalRegister">Cadastre-se</button>
           </div>
         </div>
         
@@ -114,6 +120,27 @@ function MyApp({ Component, pageProps }) {
         </p><p>Compre com grandes descontos | © Copyright 2006-2015 Busca Descontos | Todos os direitos reservados | Mobile</p>
         </div>
       </footer>
+
+      <div className="modal fade customModal" id="modalRegister" tabIndex="-1" role="dialog" aria-labelledby="modalRegisterLabel">
+        <div className="modal-dialog modal-sm" role="document">
+          <div className="modal-content">
+            <div className="modal-body">
+              <h4 className="modal-title">Cadastre-se para receber as melhores ofertas em seu e-mail</h4>
+              <form data-form-send="newsletter">
+              <div className="form-group">
+              <input type="text" name="name" placeholder="Seu Nome" required="" className="form-control"/>
+              </div>
+              <div className="form-group m-b-20">
+              <input type="email" name="email" placeholder="Seu E-mail" required="" className="form-control"/>
+              </div>   
+              <button type="submit" className="btn btn-register"><span className="text">Cadastrar</span></button>
+              <br/><br/>
+              <h4 className="modal-title">Ao enviar seus dados, você aceita nossa <a href="https://www.buscadescontos.com.br/politica-de-privacidade" target="_blank">Política de Privacidade</a> além de receber nossas ofertas e publicidade enviado por Black Friday/Busca Descontos e nossos parceiros .</h4>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   )
 }

@@ -8,6 +8,10 @@
 }
 
 /* Header */
+.customContentIndex {
+  margin-top: 93px !important;
+}
+
 .header-desktop .flex-header {
   padding: 0 4rem;
 }
@@ -90,4 +94,57 @@ section.offer-track.relative-fixed-on-scroll .offer-track-content .img-offer-tra
 .copyCode {
   background: transparent;
   border: 0;
+}
+
+/* Modal  */
+.customModal .modal-title {
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.customModal .form-control {
+  height: 40px;
+  border: 1px #f0f0f0 solid;
+  background-color: #f5f5f5;
+  line-height: 40px;
+  box-shadow: none;
+  outline: 0;
+}
+
+/* Banner */
+.customSoon {
+  background-color: #FFF;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.customSoon img {
+  width: 100%;
+  max-width: 60%;
+  margin: 0 auto 2rem;
+}
+
+.customSoon h2 {
+  color: #009ce3;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .customSoon {
+    padding-bottom: 0;
+  }
+
+  .customSoon .row {
+    display: flex;
+    align-items: center;
+  }
+
+  .customSoon img {
+    max-width: 465px;
+    margin: 0;
+  }
 }

@@ -23,8 +23,20 @@ export default function Index() {
         <meta name="msvalidate.01" content="E9890CFD71E9635C4502AAC28C05B1B0" />
       </Head>
 
-      <section id="main-content">
-        <div>new banner</div>
+      <section id="main-content" className="customContentIndex">
+        <div className="customSoon">
+            <div className="container">
+                <div className="row">
+                    <div className="col-sm-4 col-md-5">
+                        <img src="/img/em-breve.jpg" alt="Em breve" />
+                    </div>
+
+                    <div className="col-sm-8 col-md-7">
+                        <h2><strong>Buscadescontos</strong> está sendo inteiramente reformulado...</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div className="customBanner">
             <div className="container">
