@@ -256,7 +256,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/sephora/coupons/r-20-off-na-primeira-compra">
+                    <a href="/open/sephora/coupons/r-20-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/15316/15316_lgo_sephora_br.png" alt="R$ 20 OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -264,7 +264,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$ 20 OFF na primeira compra</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/sephora/coupons/r-20-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/sephora/coupons/r-20-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PCH1I720</span>
                         </a>
@@ -276,7 +276,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano">
+                    <a href="/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano">
                         <img src="http://ui.zanox.com/images/programs/15316/15316_lgo_sephora_br.png" alt="Brinde: Ganhe Mini Sérum Esqualano" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -284,7 +284,7 @@ export default function Index() {
                                         <h3 className="m-b-20">Brinde: Ganhe Mini Sérum Esqualano</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/sephora/coupons/brinde-ganhe-mini-srum-esqualano" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BEAUTYSKIN</span>
                         </a>
@@ -296,7 +296,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura">
+                    <a href="/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura">
                         <img src="http://ui.zanox.com/images/programs/15316/15316_lgo_sephora_br.png" alt="40% OFF em todos os produtos da Natura" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -305,7 +305,7 @@ export default function Index() {
                     <h1>40%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/sephora/coupons/40-off-em-todos-os-produtos-da-natura" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NATURA40</span>
                         </a>
@@ -317,7 +317,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/sephora/coupons/30-off-em-produtos-selecionados-lancome">
+                    <a href="/open/sephora/coupons/30-off-em-produtos-selecionados-lancome">
                         <img src="http://ui.zanox.com/images/programs/15316/15316_lgo_sephora_br.png" alt="30% OFF em produtos selecionados LANCOME" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -326,7 +326,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/sephora/coupons/30-off-em-produtos-selecionados-lancome" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/sephora/coupons/30-off-em-produtos-selecionados-lancome" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LANCOME30</span>
                         </a>

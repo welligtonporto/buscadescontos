@@ -22,9 +22,9 @@ export default function Index() {
       <Head>
         <title>BRINDE: Nas compras de 1 dos Must-Have | Buscadescontos</title>
         <meta name="description" content="BRINDE: Nas compras de 1 dos Must-Have" />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/open/plie/coupons/brinde-nas-compras-de-1-dos-must-have" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-de-1-dos-must-have" />
 
-        <meta property="og:url" content="https://www.buscadescontos.com.br/open/plie/coupons/brinde-nas-compras-de-1-dos-must-have" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-de-1-dos-must-have" />
         <meta property="og:title" content="BRINDE: Nas compras de 1 dos Must-Have | Buscadescontos" />
         <meta property="og:description" content="BRINDE: Nas compras de 1 dos Must-Have" />
         <meta property="og:site_name" content="BRINDE: Nas compras de 1 dos Must-Have | Buscadescontos" />

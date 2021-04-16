@@ -27,18 +27,18 @@ export default function Index() {
             
             
             
-            <div class="container">
-   <ol class="breadcrumb">
+            <div className="container">
+   <ol className="breadcrumb">
        <li><a href="/">Início</a></li>
-       <li class="active editContent">Termos de Uso</li>
+       <li className="active editContent">Termos de Uso</li>
    </ol>
 </div>
-<section class="terms-privacity">
-   <div class="container">
-       <div class="border-pad bg-white p-20-50 m-b-30">
-           <h3 class="m-b-60 c-yellow"><strong class="editContent">Condições Gerais</strong></h3>
-           <h4><strong class="editContent"></strong></h4>
-           <p class="editContent"><strong>BUSCA DESCONTOS <br/>
+<section className="terms-privacity">
+   <div className="container">
+       <div className="border-pad bg-white p-20-50 m-b-30">
+           <h3 className="m-b-60 c-yellow"><strong className="editContent">Condições Gerais</strong></h3>
+           <h4><strong className="editContent"></strong></h4>
+           <p className="editContent"><strong>BUSCA DESCONTOS <br/>
 </strong><br/>
 Busca Desconto Serviços de Marketing e Publicidade LTDA, pessoa jurídica de direito privado, CNPJ nº 11.818.144/0001‐76, com sede na Rua Luís Coelho, 340, Conj 41 A, CEP 01309-000, São Paulo, SP, neste ato representado na forma de seus atos societários, doravante denominado Busca Desconto Serviços de Marketing e Publicidade LTDA. 
 <br/>
@@ -266,8 +266,8 @@ independentemente de qualquer outro, por mais privilegiado que seja ou venha a s
 <br/>
 <br/></p>
 
-           <h4><strong class="editContent"></strong></h4>
-           <p class="editContent"></p>
+           <h4><strong className="editContent"></strong></h4>
+           <p className="editContent"></p>
        </div>
    </div>
 </section>            

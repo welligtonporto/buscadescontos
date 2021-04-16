@@ -1303,7 +1303,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/10-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1312,7 +1312,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PEGUEI</span>
                         </a>
@@ -1324,7 +1324,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/20-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="20% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1333,7 +1333,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PEGUEI</span>
                         </a>
@@ -1345,7 +1345,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-escadas">
+                    <a href="/open/pontofrio/coupons/5-off-em-escadas">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em escadas" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1354,7 +1354,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-escadas" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-escadas" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ESCAD5</span>
                         </a>
@@ -1366,7 +1366,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-diverso-em-casa">
+                    <a href="/open/pontofrio/coupons/10-off-em-diverso-em-casa">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em Diversão em Casa" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1375,7 +1375,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-diverso-em-casa" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-diverso-em-casa" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TOYSOFF</span>
                         </a>
@@ -1387,7 +1387,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/15-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="15% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1396,7 +1396,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PIN</span>
                         </a>
@@ -1408,7 +1408,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-r-99900-reais-de-desconto">
+                    <a href="/open/pontofrio/coupons/at-r-99900-reais-de-desconto">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="Até R$ 999,00 reais de desconto" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1416,7 +1416,7 @@ export default function Index() {
                                         <h3 className="m-b-20">Até R$ 999,00 reais de desconto</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-r-99900-reais-de-desconto" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/at-r-99900-reais-de-desconto" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TVOFF</span>
                         </a>
@@ -1428,7 +1428,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-produtos-para-casa">
+                    <a href="/open/pontofrio/coupons/10-off-em-seleo-de-produtos-para-casa">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em seleção de produtos para casa" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1437,7 +1437,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-produtos-para-casa" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-seleo-de-produtos-para-casa" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BANHO10</span>
                         </a>
@@ -1449,7 +1449,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-beleza-e-sade">
+                    <a href="/open/pontofrio/coupons/10-off-em-seleo-de-beleza-e-sade">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em Seleção de Beleza e Saúde" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1458,7 +1458,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-seleo-de-beleza-e-sade" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-seleo-de-beleza-e-sade" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BELEZA10</span>
                         </a>
@@ -1470,7 +1470,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio">
+                    <a href="/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF para Ar condicionados Quente/Frio" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1479,7 +1479,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-para-ar-condicionados-quentefrio" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ESQUENTA</span>
                         </a>
@@ -1491,7 +1491,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-cama-mesa-e-banho">
+                    <a href="/open/pontofrio/coupons/10-off-em-cama-mesa-e-banho">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em Cama, mesa e banho" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1500,7 +1500,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-cama-mesa-e-banho" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-cama-mesa-e-banho" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHE10</span>
                         </a>
@@ -1512,7 +1512,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-acessorios-gamers">
+                    <a href="/open/pontofrio/coupons/10-off-em-acessorios-gamers">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em acessorios gamers" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1521,7 +1521,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-acessorios-gamers" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-acessorios-gamers" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GAMER10%</span>
                         </a>
@@ -1533,7 +1533,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/15-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="15% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1542,7 +1542,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/15-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">OUTLET</span>
                         </a>
@@ -1554,7 +1554,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/5-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em Seleção de Itens*" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1563,7 +1563,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LIQUIDA</span>
                         </a>
@@ -1575,7 +1575,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos">
+                    <a href="/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="Até 10%OFF Em SeleçãoDeEletrodomésticos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1584,7 +1584,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/at-10off-em-seleodeeletrodomsticos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TOEMCASA</span>
                         </a>
@@ -1596,7 +1596,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-eletrodom">
+                    <a href="/open/pontofrio/coupons/5-off-em-eletrodom">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em Eletrodom" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1605,7 +1605,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-eletrodom" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-eletrodom" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ELETROHOME</span>
                         </a>
@@ -1617,7 +1617,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-lavadoras">
+                    <a href="/open/pontofrio/coupons/10-off-em-lavadoras">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="10% OFF em lavadoras" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1626,7 +1626,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/10-off-em-lavadoras" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/10-off-em-lavadoras" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LAVA10</span>
                         </a>
@@ -1638,7 +1638,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/5-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1647,7 +1647,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">OUTLET</span>
                         </a>
@@ -1659,7 +1659,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/5-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1668,7 +1668,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BLACK</span>
                         </a>
@@ -1680,7 +1680,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/5-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1689,7 +1689,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PEGUEI</span>
                         </a>
@@ -1701,7 +1701,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/20-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="20% OFF em Seleção de Itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1710,7 +1710,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/20-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PIN</span>
                         </a>
@@ -1722,7 +1722,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-mveis">
+                    <a href="/open/pontofrio/coupons/at-20-off-em-mveis">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="Até 20% OFF em Móveis" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1731,7 +1731,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-mveis" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/at-20-off-em-mveis" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LIQUIDA</span>
                         </a>
@@ -1743,7 +1743,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom">
+                    <a href="/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="Até 10% em Coleção de Eletrodom" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1752,7 +1752,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/at-10-em-coleo-de-eletrodom" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ELETRO</span>
                         </a>
@@ -1764,7 +1764,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-jogos-diversos">
+                    <a href="/open/pontofrio/coupons/5-off-em-jogos-diversos">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="5% OFF em jogos diversos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1773,7 +1773,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/5-off-em-jogos-diversos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/5-off-em-jogos-diversos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JOGA5%</span>
                         </a>
@@ -1785,7 +1785,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-itens-selecionados">
+                    <a href="/open/pontofrio/coupons/15-off-em-itens-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="15% OFF em itens selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1794,7 +1794,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/15-off-em-itens-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/15-off-em-itens-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ELAMERECE</span>
                         </a>
@@ -1806,7 +1806,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-seleo-de-itens">
+                    <a href="/open/pontofrio/coupons/at-20-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/12781/12781_lgo_pontofrio_br.png" alt="Até 20% OFF em seleção de itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1815,7 +1815,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/pontofrio/coupons/at-20-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CRUSH</span>
                         </a>

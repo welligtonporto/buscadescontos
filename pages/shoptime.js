@@ -1299,7 +1299,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000">
+                    <a href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$50 OFF em compras acima de R$350,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1307,7 +1307,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF em compras acima de R$350,00</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BLACK50</span>
                         </a>
@@ -1319,7 +1319,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-para-seleo-de-itens">
+                    <a href="/open/shoptime/coupons/20-off-para-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="20% OFF para seleção de itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1328,7 +1328,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-para-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/20-off-para-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VERAO20</span>
                         </a>
@@ -1340,7 +1340,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-marca-prpria">
+                    <a href="/open/shoptime/coupons/10-off-em-itens-de-marca-prpria">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em itens de marca própria" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1349,7 +1349,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-itens-de-marca-prpria" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FUNCOZINHA10</span>
                         </a>
@@ -1361,7 +1361,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-compras-acima-de-195000">
+                    <a href="/open/shoptime/coupons/r200-off-em-compras-acima-de-195000">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$200 OFF em compras acima de 1950,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1369,7 +1369,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$200 OFF em compras acima de 1950,00</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-compras-acima-de-195000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r200-off-em-compras-acima-de-195000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHEI200</span>
                         </a>
@@ -1381,7 +1381,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r15-off-em-compras-acima-de-r-50">
+                    <a href="/open/shoptime/coupons/r15-off-em-compras-acima-de-r-50">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$15 OFF em compras acima de R$ 50" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1389,7 +1389,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$15 OFF em compras acima de R$ 50</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r15-off-em-compras-acima-de-r-50" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r15-off-em-compras-acima-de-r-50" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NOVOCLIENTE</span>
                         </a>
@@ -1401,7 +1401,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo">
+                    <a href="/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="20%OFFEmLinhaBasics-ItensCasa&amp;Construção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1410,7 +1410,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/20offemlinhabasics-itenscasaconstruo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BASICS20</span>
                         </a>
@@ -1422,7 +1422,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra">
+                    <a href="/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$10OFF acima de R$39,90 na 1° compra " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1430,7 +1430,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$10OFF acima de R$39,90 na 1° compra </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r10off-acima-de-r3990-na-1-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NOVOCONSUMIDOR</span>
                         </a>
@@ -1442,7 +1442,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999">
+                    <a href="/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10%OFF nas compras acmia de R$ 999" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1451,7 +1451,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BEMVINDO</span>
                         </a>
@@ -1463,7 +1463,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-em-produtos-selecionados">
+                    <a href="/open/shoptime/coupons/10off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10%OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1472,7 +1472,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">DECORACASA</span>
                         </a>
@@ -1484,7 +1484,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000">
+                    <a href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$50 OFF em compras acima de R$350,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1492,7 +1492,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF em compras acima de R$350,00</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r50-off-em-compras-acima-de-r35000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BLACK50</span>
                         </a>
@@ -1504,7 +1504,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-la-cuisine">
+                    <a href="/open/shoptime/coupons/10-off-em-la-cuisine">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em La Cuisine" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1513,7 +1513,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-la-cuisine" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-la-cuisine" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VEMCOM10</span>
                         </a>
@@ -1525,7 +1525,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-fun-kitchen">
+                    <a href="/open/shoptime/coupons/10-off-em-itens-fun-kitchen">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em itens Fun Kitchen" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1534,7 +1534,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-itens-fun-kitchen" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">RECEITA10</span>
                         </a>
@@ -1546,7 +1546,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-itens-da-seleo">
+                    <a href="/open/shoptime/coupons/r200-off-em-itens-da-seleo">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$200 OFF em itens da seleção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1554,7 +1554,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$200 OFF em itens da seleção</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r200-off-em-itens-da-seleo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r200-off-em-itens-da-seleo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VAIO200</span>
                         </a>
@@ -1566,7 +1566,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime">
+                    <a href="/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em itens vendidos por Shoptime " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1575,7 +1575,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-itens-vendidos-por-shoptime" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">MAIS10</span>
                         </a>
@@ -1587,7 +1587,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999">
+                    <a href="/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10%OFF nas compras acmia de R$ 999" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1596,7 +1596,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10off-nas-compras-acmia-de-r-999" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BEMVINDO</span>
                         </a>
@@ -1608,7 +1608,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-em-seleo-de-itens">
+                    <a href="/open/shoptime/coupons/20-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="20% OFF em seleção de itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1617,7 +1617,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/20-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/20-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">RENOVE20</span>
                         </a>
@@ -1629,7 +1629,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-aspiradores-fun-clean">
+                    <a href="/open/shoptime/coupons/10-off-em-aspiradores-fun-clean">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em aspiradores Fun Clean" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1638,7 +1638,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-aspiradores-fun-clean" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-aspiradores-fun-clean" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LIMPEZA10</span>
                         </a>
@@ -1650,7 +1650,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-na-primeira-compra">
+                    <a href="/open/shoptime/coupons/r20-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$20 OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1658,7 +1658,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$20 OFF na primeira compra</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r20-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r20-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NOVO20</span>
                         </a>
@@ -1670,7 +1670,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-seleo-de-itens">
+                    <a href="/open/shoptime/coupons/10-off-em-seleo-de-itens">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em seleção de itens" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1679,7 +1679,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-seleo-de-itens" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-seleo-de-itens" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TEMDESCONTO10</span>
                         </a>
@@ -1691,7 +1691,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii">
+                    <a href="/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10%OFF no site, exceto camisa I,II, III" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1700,7 +1700,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10off-no-site-exceto-camisa-iii-iii" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TIMAOBIMUNDIAL</span>
                         </a>
@@ -1712,7 +1712,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar">
+                    <a href="/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10%OFF em seleção de aparelhos de Jantar" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1721,7 +1721,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10off-em-seleo-de-aparelhos-de-jantar" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JANTARLC10</span>
                         </a>
@@ -1733,7 +1733,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000">
+                    <a href="/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="R$100 OFF em compras acima de R$950,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1741,7 +1741,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF em compras acima de R$950,00</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/r100-off-em-compras-acima-de-r95000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BLACK100</span>
                         </a>
@@ -1753,7 +1753,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/15-offna-linha-basics">
+                    <a href="/open/shoptime/coupons/15-offna-linha-basics">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="15% OFFna linha Basics" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1762,7 +1762,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/15-offna-linha-basics" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/15-offna-linha-basics" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BASICS15</span>
                         </a>
@@ -1774,7 +1774,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-la-cuisine">
+                    <a href="/open/shoptime/coupons/10-off-em-itens-la-cuisine">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em itens La Cuisine" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1783,7 +1783,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-itens-la-cuisine" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LACUISINE10</span>
                         </a>
@@ -1795,7 +1795,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-smart-tv-philco-58-4k">
+                    <a href="/open/shoptime/coupons/10-off-em-smart-tv-philco-58-4k">
                         <img src="http://ui.zanox.com/images/programs/13538/13538_lgo_shoptime_br.png" alt="10% OFF em Smart TV Philco 58'' 4k" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1804,7 +1804,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/shoptime/coupons/10-off-em-smart-tv-philco-58-4k" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/shoptime/coupons/10-off-em-smart-tv-philco-58-4k" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ACHEI10</span>
                         </a>

@@ -1193,7 +1193,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/frete-grtis--10-off-extra">
+                    <a href="/open/oqvestir/coupons/frete-grtis--10-off-extra">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="Frete grátis + 10% OFF EXTRA " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1202,7 +1202,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/frete-grtis--10-off-extra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/frete-grtis--10-off-extra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FRETE10</span>
                         </a>
@@ -1214,7 +1214,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf">
+                    <a href="/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10%OFF VálidoParaTodosProdutos* por CPF" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1223,7 +1223,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10off-vlidoparatodosprodutos-por-cpf" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PRIMEIRA10</span>
                         </a>
@@ -1235,7 +1235,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-em-basiq-e-market-33">
+                    <a href="/open/oqvestir/coupons/20-off-em-basiq-e-market-33">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="20% OFF em Basiq e Market 33" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1244,7 +1244,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-em-basiq-e-market-33" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/20-off-em-basiq-e-market-33" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">MBOQV20</span>
                         </a>
@@ -1256,7 +1256,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-primeira-compra-no-site">
+                    <a href="/open/oqvestir/coupons/10-off-na-primeira-compra-no-site">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10% OFF na primeira compra no site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1265,7 +1265,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-primeira-compra-no-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10-off-na-primeira-compra-no-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PRIMEIRA10</span>
                         </a>
@@ -1277,7 +1277,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi">
+                    <a href="/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="25% OFF + Frete Grátis na marca FYI" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1286,7 +1286,7 @@ export default function Index() {
                     <h1>25%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/25-off--frete-grtis-na-marca-fyi" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FYI25</span>
                         </a>
@@ -1298,7 +1298,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-para-produto-remarcado">
+                    <a href="/open/oqvestir/coupons/10-off-extra-para-produto-remarcado">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10% OFF EXTRA para produto remarcado" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1307,7 +1307,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-para-produto-remarcado" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10-off-extra-para-produto-remarcado" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CYBER10</span>
                         </a>
@@ -1319,7 +1319,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados">
+                    <a href="/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="30% OFF válido em itens selecionados." className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1328,7 +1328,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/30-off-vlido-em-itens-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CANTAO30</span>
                         </a>
@@ -1340,7 +1340,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20off--frete-grtis-em-animale">
+                    <a href="/open/oqvestir/coupons/20off--frete-grtis-em-animale">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="20%OFF + Frete Grátis em Animale" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1349,7 +1349,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20off--frete-grtis-em-animale" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/20off--frete-grtis-em-animale" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ANIM20</span>
                         </a>
@@ -1361,7 +1361,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-em-farm">
+                    <a href="/open/oqvestir/coupons/10-off-em-farm">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10% OFF em FARM" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1370,7 +1370,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-em-farm" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10-off-em-farm" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FARM10</span>
                         </a>
@@ -1382,7 +1382,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-categoria-de-carnaval">
+                    <a href="/open/oqvestir/coupons/10-off-na-categoria-de-carnaval">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10% OFF na categoria de Carnaval. " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1391,7 +1391,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-na-categoria-de-carnaval" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10-off-na-categoria-de-carnaval" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CARNAVALOQV</span>
                         </a>
@@ -1403,7 +1403,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit">
+                    <a href="/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="30% OFF + Frete Grátis em compras de LIT" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1412,7 +1412,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/30-off--frete-grtis-em-compras-de-lit" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LITT30</span>
                         </a>
@@ -1424,7 +1424,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-na-primeira-compra">
+                    <a href="/open/oqvestir/coupons/20-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="20% OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1433,7 +1433,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/20-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PRIMEIRA20</span>
                         </a>
@@ -1445,7 +1445,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-no-site---confira-as-regras">
+                    <a href="/open/oqvestir/coupons/10off-no-site---confira-as-regras">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10%OFF no site - confira as regras" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1454,7 +1454,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-no-site---confira-as-regras" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10off-no-site---confira-as-regras" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AWINWELCOME</span>
                         </a>
@@ -1466,7 +1466,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market">
+                    <a href="/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="20% OFF + Frete Grátis em Basiq e Market" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1475,7 +1475,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/20-off--frete-grtis-em-basiq-e-market" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">MBOQV20</span>
                         </a>
@@ -1487,7 +1487,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado">
+                    <a href="/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10%OFF para produtos de preço remarcado" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1496,7 +1496,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10off-para-produtos-de-preo-remarcado" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SALE10</span>
                         </a>
@@ -1508,7 +1508,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno">
+                    <a href="/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="30% OFF seleção de calçados de inverno" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1517,7 +1517,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/30-off-seleo-de-calados-de-inverno" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">INV30</span>
                         </a>
@@ -1529,7 +1529,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-na-marca-by-nv">
+                    <a href="/open/oqvestir/coupons/20-off--frete-na-marca-by-nv">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="20% OFF + Frete na marca By Nv" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1538,7 +1538,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/20-off--frete-na-marca-by-nv" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/20-off--frete-na-marca-by-nv" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">INV20</span>
                         </a>
@@ -1550,7 +1550,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off-vlido-em-itens-de-praia">
+                    <a href="/open/oqvestir/coupons/30off-vlido-em-itens-de-praia">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="30%OFF válido em itens de praia" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1559,7 +1559,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off-vlido-em-itens-de-praia" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/30off-vlido-em-itens-de-praia" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">OQV30</span>
                         </a>
@@ -1571,7 +1571,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-na-sale-70-off">
+                    <a href="/open/oqvestir/coupons/10-off-extra-na-sale-70-off">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="10% OFF EXTRA na Sale 70% OFF" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1580,7 +1580,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/10-off-extra-na-sale-70-off" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/10-off-extra-na-sale-70-off" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SALE10</span>
                         </a>
@@ -1592,7 +1592,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista">
+                    <a href="/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="40%OFFprodutos de preço regular da lista" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1601,7 +1601,7 @@ export default function Index() {
                     <h1>40%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/40offprodutos-de-preo-regular-da-lista" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BD40</span>
                         </a>
@@ -1613,7 +1613,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40-off--frete-grtis-em-schutz">
+                    <a href="/open/oqvestir/coupons/40-off--frete-grtis-em-schutz">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="40% OFF + Frete Grátis em Schutz" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1622,7 +1622,7 @@ export default function Index() {
                     <h1>40%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/40-off--frete-grtis-em-schutz" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/40-off--frete-grtis-em-schutz" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SCHUTZ40</span>
                         </a>
@@ -1634,7 +1634,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock">
+                    <a href="/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock">
                         <img src="http://ui.zanox.com/images/programs/19636/19636_lgo_oq_vestir_br.png" alt="30%OFF + Frete Grátis em de Birkenstock" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1643,7 +1643,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/oqvestir/coupons/30off--frete-grtis-em-de-birkenstock" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BIRKEN30</span>
                         </a>

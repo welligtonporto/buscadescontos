@@ -22,9 +22,9 @@ export default function Index() {
       <Head>
         <title>BRINDE nas compras acima de R$ 200 | Buscadescontos</title>
         <meta name="description" content="BRINDE nas compras acima de R$ 200" />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/open/plie/coupons/brinde-nas-compras-acima-de-r-200" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-acima-de-r-200" />
 
-        <meta property="og:url" content="https://www.buscadescontos.com.br/open/plie/coupons/brinde-nas-compras-acima-de-r-200" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/open/loccitane/coupons/brinde-nas-compras-acima-de-r-200" />
         <meta property="og:title" content="BRINDE nas compras acima de R$ 200 | Buscadescontos" />
         <meta property="og:description" content="BRINDE nas compras acima de R$ 200" />
         <meta property="og:site_name" content="BRINDE nas compras acima de R$ 200 | Buscadescontos" />

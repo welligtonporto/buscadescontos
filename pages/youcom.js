@@ -623,7 +623,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-nas-compras-acima-de-r-200">
+                    <a href="/open/youcom/coupons/10-off-nas-compras-acima-de-r-200">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="10% OFF nas compras acima de R$ 200" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -632,7 +632,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-nas-compras-acima-de-r-200" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/10-off-nas-compras-acima-de-r-200" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">OUTUBROYC</span>
                         </a>
@@ -644,7 +644,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/frete-grtis-em-todo-o-site">
+                    <a href="/open/youcom/coupons/frete-grtis-em-todo-o-site">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="Frete grátis em todo o site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -652,7 +652,7 @@ export default function Index() {
                                         <h3 className="m-b-20">Frete grátis em todo o site</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/frete-grtis-em-todo-o-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/frete-grtis-em-todo-o-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">YCFRETE</span>
                         </a>
@@ -664,7 +664,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/20-off-na-primeira-compra">
+                    <a href="/open/youcom/coupons/20-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="20% OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -673,7 +673,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/20-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/20-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BEMVINDO20</span>
                         </a>
@@ -685,7 +685,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-em-compras-acima-de-r200">
+                    <a href="/open/youcom/coupons/r40-off-em-compras-acima-de-r200">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="R$40 OFF em compras acima de R$200" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -693,7 +693,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$40 OFF em compras acima de R$200</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/r40-off-em-compras-acima-de-r200" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">QUERO40</span>
                         </a>
@@ -705,7 +705,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990">
+                    <a href="/open/youcom/coupons/compre-3-peas-por-r9990">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="Compre 3 peças por R$99,90" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -713,7 +713,7 @@ export default function Index() {
                                         <h3 className="m-b-20">Compre 3 peças por R$99,90</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/compre-3-peas-por-r9990" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PROMOYC</span>
                         </a>
@@ -725,7 +725,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-na-primeira-compra">
+                    <a href="/open/youcom/coupons/10-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="10% OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -734,7 +734,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/10-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/10-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BEMVINDO10</span>
                         </a>
@@ -746,7 +746,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990-da-lista">
+                    <a href="/open/youcom/coupons/compre-3-peas-por-r9990-da-lista">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="Compre 3 peças por R$99,90 da lista" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -754,7 +754,7 @@ export default function Index() {
                                         <h3 className="m-b-20">Compre 3 peças por R$99,90 da lista</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/compre-3-peas-por-r9990-da-lista" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/compre-3-peas-por-r9990-da-lista" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PROMOYC</span>
                         </a>
@@ -766,7 +766,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/30-off-e-4-peas">
+                    <a href="/open/youcom/coupons/30-off-e-4-peas">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="30% OFF e 4 peças" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -775,7 +775,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/30-off-e-4-peas" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/30-off-e-4-peas" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">YOUCOMBF</span>
                         </a>
@@ -787,7 +787,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-nas-compras-acima-de-r200">
+                    <a href="/open/youcom/coupons/r40-off-nas-compras-acima-de-r200">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="R$40 OFF nas compras acima de R$200 " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -795,7 +795,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$40 OFF nas compras acima de R$200 </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/r40-off-nas-compras-acima-de-r200" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/r40-off-nas-compras-acima-de-r200" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">QUERO40</span>
                         </a>
@@ -807,7 +807,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/10off-em-todo-site">
+                    <a href="/open/youcom/coupons/10off-em-todo-site">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="10%OFF em todo site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -816,7 +816,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/10off-em-todo-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/10off-em-todo-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JANEIROQLUTE</span>
                         </a>
@@ -828,7 +828,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990">
+                    <a href="/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990">
                         <img src="http://ui.zanox.com/images/programs/17720/17720_lgo_youcom_br.jpg" alt="1 peça por R$ 39,90 ou 3 peças por 29,90" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -836,7 +836,7 @@ export default function Index() {
                                         <h3 className="m-b-20">1 peça por R$ 39,90 ou 3 peças por 29,90</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/youcom/coupons/1-pea-por-r-3990-ou-3-peas-por-2990" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PROMOYC</span>
                         </a>

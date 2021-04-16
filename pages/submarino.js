@@ -1304,7 +1304,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/30-off-nos-livros-da-srie-harry-potter">
+                    <a href="/open/submarino/coupons/30-off-nos-livros-da-srie-harry-potter">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="30% OFF nos livros da série Harry Potter" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1313,7 +1313,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/30-off-nos-livros-da-srie-harry-potter" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/30-off-nos-livros-da-srie-harry-potter" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">POTTER30</span>
                         </a>
@@ -1325,7 +1325,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-no-departamento-de-papelaria">
+                    <a href="/open/submarino/coupons/15-off-no-departamento-de-papelaria">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF no departamento de papelaria" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1334,7 +1334,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-no-departamento-de-papelaria" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-no-departamento-de-papelaria" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FIMDEFERIAS</span>
                         </a>
@@ -1346,7 +1346,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-livros-cristianecorreaebernadinho">
+                    <a href="/open/submarino/coupons/15off-livros-cristianecorreaebernadinho">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15%OFF Livros CristianeCorreaEBernadinho" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1355,7 +1355,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-livros-cristianecorreaebernadinho" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15off-livros-cristianecorreaebernadinho" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SEXTANTE15</span>
                         </a>
@@ -1367,7 +1367,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-games-selecionados">
+                    <a href="/open/submarino/coupons/15-off-em-games-selecionados">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em games selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1376,7 +1376,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-games-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-games-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VEMGAMER</span>
                         </a>
@@ -1388,7 +1388,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-itens-fit-selecionados">
+                    <a href="/open/submarino/coupons/15-off-em-itens-fit-selecionados">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em itens fit selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1397,7 +1397,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-itens-fit-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-itens-fit-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VEMSERFIT</span>
                         </a>
@@ -1409,7 +1409,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/20-off-em-seleo-de-livros">
+                    <a href="/open/submarino/coupons/20-off-em-seleo-de-livros">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="20% OFF em seleção de livros" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1418,7 +1418,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/20-off-em-seleo-de-livros" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/20-off-em-seleo-de-livros" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TUDO20</span>
                         </a>
@@ -1430,7 +1430,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-produtos-para-cabelo">
+                    <a href="/open/submarino/coupons/15-off-em-produtos-para-cabelo">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em produtos para cabelo" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1439,7 +1439,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-produtos-para-cabelo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-produtos-para-cabelo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VEMCABELOMUSO</span>
                         </a>
@@ -1451,7 +1451,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-no-jogo-monopoly-fortnite">
+                    <a href="/open/submarino/coupons/10-off-no-jogo-monopoly-fortnite">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10% OFF no jogo Monopoly Fortnite" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1460,7 +1460,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-no-jogo-monopoly-fortnite" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10-off-no-jogo-monopoly-fortnite" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">FORTNITE10</span>
                         </a>
@@ -1472,7 +1472,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10off1livro-15off2livros-20off3livros">
+                    <a href="/open/submarino/coupons/10off1livro-15off2livros-20off3livros">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10%OFF1Livro-15%OFF2Livros-20%OFF3Livros" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1481,7 +1481,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off1livro-15off2livros-20off3livros" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10off1livro-15off2livros-20off3livros" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PAIS</span>
                         </a>
@@ -1493,7 +1493,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/30off-em-mveis-e-decoraes-da-lista">
+                    <a href="/open/submarino/coupons/30off-em-mveis-e-decoraes-da-lista">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="30%OFF em móveis e decorações da lista" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1502,7 +1502,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/30off-em-mveis-e-decoraes-da-lista" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/30off-em-mveis-e-decoraes-da-lista" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SUBDECORA</span>
                         </a>
@@ -1514,7 +1514,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-seleo">
+                    <a href="/open/submarino/coupons/10-off-em-livros-da-seleo">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10% OFF em livros da seleção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1523,7 +1523,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-seleo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10-off-em-livros-da-seleo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">KARIN</span>
                         </a>
@@ -1535,7 +1535,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo">
+                    <a href="/open/submarino/coupons/15-off-em-livros-da-seleo">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em livros da seleção. " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1544,7 +1544,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">RELIGIAO15</span>
                         </a>
@@ -1556,7 +1556,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/25-off-em-seleo-editora-rocco">
+                    <a href="/open/submarino/coupons/25-off-em-seleo-editora-rocco">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="25% OFF em seleção Editora Rocco" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1565,7 +1565,7 @@ export default function Index() {
                     <h1>25%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/25-off-em-seleo-editora-rocco" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/25-off-em-seleo-editora-rocco" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ROCCO2</span>
                         </a>
@@ -1577,7 +1577,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-livrosdanovafronteiraselecionados">
+                    <a href="/open/submarino/coupons/10off-livrosdanovafronteiraselecionados">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10%OFF LivrosDaNovaFronteiraSelecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1586,7 +1586,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10off-livrosdanovafronteiraselecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CLASSICOS</span>
                         </a>
@@ -1598,7 +1598,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/r20-off-em-compras-acima-de-r15000">
+                    <a href="/open/submarino/coupons/r20-off-em-compras-acima-de-r15000">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="R$20 OFF em compras acima de R$150,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1606,7 +1606,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$20 OFF em compras acima de R$150,00</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/r20-off-em-compras-acima-de-r15000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/r20-off-em-compras-acima-de-r15000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SUB20</span>
                         </a>
@@ -1618,7 +1618,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-darkside-books">
+                    <a href="/open/submarino/coupons/10-off-em-livros-da-darkside-books">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10% OFF em livros da Darkside Books" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1627,7 +1627,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livros-da-darkside-books" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10-off-em-livros-da-darkside-books" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">DARKSIDE</span>
                         </a>
@@ -1639,7 +1639,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir">
+                    <a href="/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em livros e kits de colorir." className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1648,7 +1648,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-livros-e-kits-de-colorir" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">COLORINDO</span>
                         </a>
@@ -1660,7 +1660,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-manual-do-mundo">
+                    <a href="/open/submarino/coupons/15-off-em-livros-manual-do-mundo">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em livros Manual do Mundo" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1669,7 +1669,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-manual-do-mundo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-livros-manual-do-mundo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">MANUAL15</span>
                         </a>
@@ -1681,7 +1681,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph">
+                    <a href="/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15%OFF Lançamento E Pré-vendas Da Aleph" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1690,7 +1690,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15off-lanamento-e-pr-vendas-da-aleph" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ALEPH</span>
                         </a>
@@ -1702,7 +1702,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-de-direito">
+                    <a href="/open/submarino/coupons/15-off-em-livros-de-direito">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em livros de Direito" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1711,7 +1711,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-de-direito" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-livros-de-direito" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">DIREITO15</span>
                         </a>
@@ -1723,7 +1723,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/20off-seleodelivrosdaeditoraediouro">
+                    <a href="/open/submarino/coupons/20off-seleodelivrosdaeditoraediouro">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="20%OFF SeleçãoDeLivrosDaEditoraEdiouro" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1732,7 +1732,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/20off-seleodelivrosdaeditoraediouro" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/20off-seleodelivrosdaeditoraediouro" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TUDO20</span>
                         </a>
@@ -1744,7 +1744,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo">
+                    <a href="/open/submarino/coupons/15-off-em-livros-da-seleo">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="15% OFF em livros da seleção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1753,7 +1753,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/15-off-em-livros-da-seleo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">DANIEL15</span>
                         </a>
@@ -1765,7 +1765,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livro-parece-que-piorou">
+                    <a href="/open/submarino/coupons/10-off-em-livro-parece-que-piorou">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="10% OFF em livro Parece Que Piorou" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1774,7 +1774,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/10-off-em-livro-parece-que-piorou" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/10-off-em-livro-parece-que-piorou" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PARECE</span>
                         </a>
@@ -1786,7 +1786,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/r50-off-em-pedidos-acima-de-r450">
+                    <a href="/open/submarino/coupons/r50-off-em-pedidos-acima-de-r450">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt="R$50 OFF em pedidos acima de R$450" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1794,7 +1794,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF em pedidos acima de R$450</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/r50-off-em-pedidos-acima-de-r450" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/r50-off-em-pedidos-acima-de-r450" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BLACK50</span>
                         </a>
@@ -1806,7 +1806,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/submarino/coupons/r-100-off-em-compras-acima-de-r-999">
+                    <a href="/open/submarino/coupons/r-100-off-em-compras-acima-de-r-999">
                         <img src="http://ui.zanox.com/images/programs/13537/13537_lgo_submarino_br.jpg" alt=" R$ 100 OFF em compras acima de R$ 999" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1814,7 +1814,7 @@ export default function Index() {
                                         <h3 className="m-b-20"> R$ 100 OFF em compras acima de R$ 999</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/submarino/coupons/r-100-off-em-compras-acima-de-r-999" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/submarino/coupons/r-100-off-em-compras-acima-de-r-999" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">QUERO100</span>
                         </a>

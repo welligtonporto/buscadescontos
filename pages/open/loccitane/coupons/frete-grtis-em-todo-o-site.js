@@ -22,9 +22,9 @@ export default function Index() {
       <Head>
         <title>Frete Grátis: em todo o site | Buscadescontos</title>
         <meta name="description" content="Frete Grátis: em todo o site" />
-        <link rel="canonical" href="https://www.buscadescontos.com.br/open/plie/coupons/frete-grtis-em-todo-o-site" />
+        <link rel="canonical" href="https://www.buscadescontos.com.br/open/loccitane/coupons/frete-grtis-em-todo-o-site" />
 
-        <meta property="og:url" content="https://www.buscadescontos.com.br/open/plie/coupons/frete-grtis-em-todo-o-site" />
+        <meta property="og:url" content="https://www.buscadescontos.com.br/open/loccitane/coupons/frete-grtis-em-todo-o-site" />
         <meta property="og:title" content="Frete Grátis: em todo o site | Buscadescontos" />
         <meta property="og:description" content="Frete Grátis: em todo o site" />
         <meta property="og:site_name" content="Frete Grátis: em todo o site | Buscadescontos" />

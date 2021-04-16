@@ -24,68 +24,68 @@ export default function Index() {
       </Head>
 
       <section id="main-content">
-            <section class="m-b-30">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12">
-                            <div class="border-pad bg-white p-20">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h5 class="f-16 f-w-800 m-b-30" data-selector="h5">CONTATO</h5>
-                                        <form class="form-contato" data-form-send="talkwithus">
-                                            <div class="row">
-                                                <div class="form-group col-md-6">
+            <section className="m-b-30">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-sm-12 col-md-12">
+                            <div className="border-pad bg-white p-20">
+                                <div className="row">
+                                    <div className="col-md-6">
+                                        <h5 className="f-16 f-w-800 m-b-30" data-selector="h5">CONTATO</h5>
+                                        <form className="form-contato" data-form-send="talkwithus">
+                                            <div className="row">
+                                                <div className="form-group col-md-6">
                                                     <label for="name">
-                                                        <input name="name" class="form-control" placeholder="Nome:" required="" type="text"/>
+                                                        <input name="name" className="form-control" placeholder="Nome:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="lastname">
-                                                        <input name="lastname" class="form-control" placeholder="Sobrenome:" required="" type="text"/>
+                                                        <input name="lastname" className="form-control" placeholder="Sobrenome:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="email">
-                                                        <input name="email" class="form-control" placeholder="E-mail:" required="" type="email"/>
+                                                        <input name="email" className="form-control" placeholder="E-mail:" required="" type="email"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="phone">
-                                                        <input name="phone" class="form-control" placeholder="Telefone:" required="" type="text"/>
+                                                        <input name="phone" className="form-control" placeholder="Telefone:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="company_name">
-                                                        <input name="company_name" class="form-control" placeholder="Empresa:" required="" type="text"/>
+                                                        <input name="company_name" className="form-control" placeholder="Empresa:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="site">
-                                                        <input name="site" class="form-control" placeholder="Site:" required="" type="text"/>
+                                                        <input name="site" className="form-control" placeholder="Site:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="state">
-                                                        <input name="state" class="form-control" placeholder="Estado:" required="" type="text"/>
+                                                        <input name="state" className="form-control" placeholder="Estado:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-6">
+                                                <div className="form-group col-md-6">
                                                     <label for="city">
-                                                        <input name="city" class="form-control" placeholder="Cidade:" required="" type="text"/>
+                                                        <input name="city" className="form-control" placeholder="Cidade:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-12">
+                                                <div className="form-group col-md-12">
                                                     <label for="segment">
-                                                        <input name="segment" class="form-control" placeholder="Departamento:" required="" type="text"/>
+                                                        <input name="segment" className="form-control" placeholder="Departamento:" required="" type="text"/>
                                                     </label>
                                                 </div>
-                                                <div class="form-group col-md-12">
+                                                <div className="form-group col-md-12">
                                                     <label for="message">
-                                                        <textarea class="form-control" name="message" rows="3" placeholder="Sua Mensagem"></textarea>
+                                                        <textarea className="form-control" name="message" rows="3" placeholder="Sua Mensagem"></textarea>
                                                     </label>
                                                 </div>
-                                                <div class="form-group text-center">
-                                                    <button type="submit" class="btn-rounded btn-rounded-green f-20">Enviar Mensagem</button>
+                                                <div className="form-group text-center">
+                                                    <button type="submit" className="btn-rounded btn-rounded-green f-20">Enviar Mensagem</button>
                                                 </div>
                                             </div>
                                         </form>

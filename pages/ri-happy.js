@@ -179,7 +179,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off">
+                    <a href="/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off">
                         <img src="http://ui.zanox.com/images/programs/12530/12530_lgo_ri_happy_br.png" alt="Seleção de brinquedos com 45% OFF" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -188,7 +188,7 @@ export default function Index() {
                     <h1>45%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/ri-happy/coupons/seleo-de-brinquedos-com-45-off" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BRINCADEIRA45</span>
                         </a>
@@ -200,7 +200,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/ri-happy/coupons/5-off-na-primeira-compra">
+                    <a href="/open/ri-happy/coupons/5-off-na-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/12530/12530_lgo_ri_happy_br.png" alt="5% OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -209,7 +209,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/ri-happy/coupons/5-off-na-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/ri-happy/coupons/5-off-na-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">QUERO5</span>
                         </a>

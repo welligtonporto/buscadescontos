@@ -25,15 +25,15 @@ export default function Index() {
 
       <section id="main-content">
             <section>
-    <div class="container">
-        <div class="bg-category border-pad">
-            <div class="row flex-bg-category">
-                <div class="col-md-5">
-                                    <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="Gocase " class="img-responsive m-0-auto" />
+    <div className="container">
+        <div className="bg-category border-pad">
+            <div className="row flex-bg-category">
+                <div className="col-md-5">
+                                    <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="Gocase " className="img-responsive m-0-auto" />
                                 </div>
-                <div class="col-md-7">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-10">
+                <div className="col-md-7">
+                    <div className="row">
+                        <div className="col-sm-12 col-md-10">
                             <p></p>
                         </div>
                     </div>
@@ -43,103 +43,103 @@ export default function Index() {
     </div>
 </section>
 
-<section class="p-t-20">
-<div class="container">        
-    <div class="row">
-            <div class="col-sm-8 col-md-8">
-            <div class="row offers-group">
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+<section className="p-t-20">
+<div className="container">        
+    <div className="row">
+            <div className="col-sm-8 col-md-8">
+            <div className="row offers-group">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                                     10%
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="10% OFF na primeira compra" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="10% OFF na primeira compra" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>10% OFF na primeira compra</h2>  
                                                                    
                                 <p><b>Regras: </b>10% OFF na primeira compra</p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PRIMEIRACOMPRA</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">PRIMEIRACOMPRA</span>
                                     </a>
                                 </div>
                             </div>
                                                     </div>
                     </div>
                 </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="R$  100 em compras a partir de R$  500" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="R$  100 em compras a partir de R$  500" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>R$  100 em compras a partir de R$  500</h2>  
                                                                    
                                 <p><b>Regras: </b>R$  100 em compras a partir de R$  500</p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-100-em-compras-a-partir-de-r-500" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">GANHE100</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-100-em-compras-a-partir-de-r-500" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">GANHE100</span>
                                     </a>
                                 </div>
                             </div>
                                                     </div>
                     </div>
                 </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                                     20%
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="20%OFF em 10 capinhas ou mais de Iphone" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="20%OFF em 10 capinhas ou mais de Iphone" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>20%OFF em 10 capinhas ou mais de Iphone</h2>  
                                                                    
                                 <p><b>Regras: </b>20% OFF na compra de 10 capinhas para iPhone</p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">IPHONE20OFF</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">IPHONE20OFF</span>
                                     </a>
                                 </div>
                             </div>
                                                     </div>
                     </div>
                 </div>
-                                <div class="col-md-12 offer-item">
-                    <div class="border-pad bg-white p-20 m-b-20">
-                        <div class="row offer-box">
-                            <span class="discount">
+                                <div className="col-md-12 offer-item">
+                    <div className="border-pad bg-white p-20 m-b-20">
+                        <div className="row offer-box">
+                            <span className="discount">
                                                             </span>   
-                            <div class="col-md-3">
-                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="R$  30 OFF em Carregador Portátil e Capa" class="img-responsive m-0-auto m-h-12" />
+                            <div className="col-md-3">
+                                <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="R$  30 OFF em Carregador Portátil e Capa" className="img-responsive m-0-auto m-h-12" />
                             </div>
-                            <div class="col-md-5">
+                            <div className="col-md-5">
                                                                 <h2>R$  30 OFF em Carregador Portátil e Capa</h2>  
                                                                    
                                 <p><b>Regras: </b>R$  30 OFF na compra de um Carregador Portátil + Capa</p>
                                                             </div>
-                                                        <div class="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-30-off-em-carregador-porttil-e-capa" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">PARPERFEITO30</span>
+                                                        <div className="col-md-4">
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/gocase/coupons/r-30-off-em-carregador-porttil-e-capa" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">PARPERFEITO30</span>
                                     </a>
                                 </div>
                             </div>
@@ -149,42 +149,42 @@ export default function Index() {
                             </div>
         </div>           
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/gocase/coupons/10-off-na-primeira-compra">
-                        <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="10% OFF na primeira compra" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/gocase/coupons/10-off-na-primeira-compra">
+                        <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="10% OFF na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>10% OFF na primeira compra</h3>
                     <h1>10%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">PRIMEIRACOMPRA</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/gocase/coupons/10-off-na-primeira-compra" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">PRIMEIRACOMPRA</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone">
-                        <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="20%OFF em 10 capinhas ou mais de Iphone" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone">
+                        <img src="http://ui.zanox.com/images/programs/19240/19240_lgo_gocase_br.png" alt="20%OFF em 10 capinhas ou mais de Iphone" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20%OFF em 10 capinhas ou mais de Iphone</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">IPHONE20OFF</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/gocase/coupons/20off-em-10-capinhas-ou-mais-de-iphone" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">IPHONE20OFF</span>
                         </a>
                     </div>                            
                                     </div>

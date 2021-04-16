@@ -180,7 +180,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/malwee/coupons/10off-em-todo-o-site">
+                    <a href="/open/malwee/coupons/10off-em-todo-o-site">
                         <img src="http://ui.zanox.com/images/programs/18326/18326_lgo_malwee_br.png" alt="10%OFF em todo o Site!" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -189,7 +189,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/malwee/coupons/10off-em-todo-o-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/malwee/coupons/10off-em-todo-o-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ZANOX10</span>
                         </a>
@@ -201,7 +201,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/malwee/coupons/5-off-em-primeira-compra">
+                    <a href="/open/malwee/coupons/5-off-em-primeira-compra">
                         <img src="http://ui.zanox.com/images/programs/18326/18326_lgo_malwee_br.png" alt="5% Off em primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -210,7 +210,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/malwee/coupons/5-off-em-primeira-compra" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/malwee/coupons/5-off-em-primeira-compra" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">PRIMAWIN</span>
                         </a>

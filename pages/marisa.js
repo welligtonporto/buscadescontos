@@ -1325,7 +1325,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100">
+                    <a href="/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em jeans feminino acima de R$100" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1334,7 +1334,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20off-em-jeans-feminino-acima-de-r100" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JEANS20</span>
                         </a>
@@ -1346,7 +1346,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/20-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1355,7 +1355,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ADORO20</span>
                         </a>
@@ -1367,7 +1367,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180">
+                    <a href="/open/marisa/coupons/20off-em-compras-acima-de-r180">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1376,7 +1376,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20off-em-compras-acima-de-r180" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label"> SITE20</span>
                         </a>
@@ -1388,7 +1388,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos">
+                    <a href="/open/marisa/coupons/30-off-em-calados-masculinos">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em calçados masculinos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1397,7 +1397,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/30-off-em-calados-masculinos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CALCADOS30</span>
                         </a>
@@ -1409,7 +1409,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off">
+                    <a href="/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF bolsas e mochilas com até 50%OFF" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1418,7 +1418,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20off-bolsas-e-mochilas-com-at-50off" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BOLSAS20</span>
                         </a>
@@ -1430,7 +1430,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/20-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1439,7 +1439,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ADORO20</span>
                         </a>
@@ -1451,7 +1451,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo">
+                    <a href="/open/marisa/coupons/30-off-em-jeans-da-seleo">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em jeans da seleção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1460,7 +1460,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/30-off-em-jeans-da-seleo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JEANS30</span>
                         </a>
@@ -1472,7 +1472,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas">
+                    <a href="/open/marisa/coupons/25-off-em-bolsas">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="25% OFF em bolsas" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1481,7 +1481,7 @@ export default function Index() {
                     <h1>25%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/25-off-em-bolsas" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/25-off-em-bolsas" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BOLSAS25</span>
                         </a>
@@ -1493,7 +1493,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/30-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1502,7 +1502,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ADORO30</span>
                         </a>
@@ -1514,7 +1514,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa">
+                    <a href="/open/marisa/coupons/20-off-na-nova-coleo-marisa">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF na nova coleção Marisa" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1523,7 +1523,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-na-nova-coleo-marisa" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NIVERSITE20</span>
                         </a>
@@ -1535,7 +1535,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora">
+                    <a href="/open/marisa/coupons/20-off-em-produtos-diadora">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos Diadora" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1544,7 +1544,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-produtos-diadora" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">DIADORA20</span>
                         </a>
@@ -1556,7 +1556,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100">
+                    <a href="/open/marisa/coupons/20off-em-calados-f-acima-de-r100">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em calçados F. acima de R$100" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1565,7 +1565,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20off-em-calados-f-acima-de-r100" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CALCADOS20</span>
                         </a>
@@ -1577,7 +1577,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/30-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="30% OFF em produtos selecionados&nbsp;" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1586,7 +1586,7 @@ export default function Index() {
                     <h1>30%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/30-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHE30</span>
                         </a>
@@ -1598,7 +1598,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000">
+                    <a href="/open/marisa/coupons/20off-em-compras-acima-de-r18000">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20%OFF em compras acima de R$180,00" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1607,7 +1607,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20off-em-compras-acima-de-r18000" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SITE20</span>
                         </a>
@@ -1619,7 +1619,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159">
+                    <a href="/open/marisa/coupons/5-off-nas-compras-cima-de-r159">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="5% OFF nas compras cima de R$159" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1628,7 +1628,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/5-off-nas-compras-cima-de-r159" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">MARABRAZ5OFF</span>
                         </a>
@@ -1640,7 +1640,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing">
+                    <a href="/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="Acima de R$100 ganhe 20%OFF na landing" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1649,7 +1649,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/acima-de-r100-ganhe-20off-na-landing" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JEANS20</span>
                         </a>
@@ -1661,7 +1661,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing">
+                    <a href="/open/marisa/coupons/15-off-na-landing">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF na landing" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1670,7 +1670,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-na-landing" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/15-off-na-landing" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LIQUIDA15</span>
                         </a>
@@ -1682,7 +1682,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40">
+                    <a href="/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Bolsas e mochilas com até 40%" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1691,7 +1691,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-bolsas-e-mochilas-com-at-40" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">BOLSAS20</span>
                         </a>
@@ -1703,7 +1703,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/20-off--em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF  em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1712,7 +1712,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off--em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHE20</span>
                         </a>
@@ -1724,7 +1724,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200">
+                    <a href="/open/marisa/coupons/20-off-em-tnis-acima-de-r-200">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em Tênis acima de R$ 200" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1733,7 +1733,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-tnis-acima-de-r-200" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-tnis-acima-de-r-200" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS20</span>
                         </a>
@@ -1745,7 +1745,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans">
+                    <a href="/open/marisa/coupons/40-off-em-jeans">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="40% OFF em jeans" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1754,7 +1754,7 @@ export default function Index() {
                     <h1>40%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/40-off-em-jeans" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/40-off-em-jeans" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">JEANS40</span>
                         </a>
@@ -1766,7 +1766,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno">
+                    <a href="/open/marisa/coupons/20-off-em-produtos-de-inverno">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos de inverno" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1775,7 +1775,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-de-inverno" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-produtos-de-inverno" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">INVERNO20</span>
                         </a>
@@ -1787,7 +1787,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/15-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="15% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1796,7 +1796,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/15-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">ADORO15</span>
                         </a>
@@ -1808,7 +1808,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/20-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="20% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1817,7 +1817,7 @@ export default function Index() {
                     <h1>20%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/20-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHE20</span>
                         </a>
@@ -1829,7 +1829,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados">
+                    <a href="/open/marisa/coupons/r-30-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/12874/12874_lgo_marisa_br.png" alt="R$ 30 OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1837,7 +1837,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$ 30 OFF em produtos selecionados</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/marisa/coupons/r-30-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/marisa/coupons/r-30-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">GANHE300F</span>
                         </a>

@@ -1145,7 +1145,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect">
+                    <a href="/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$100 OFF no Tênis UA Charged Prospect " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1153,7 +1153,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF no Tênis UA Charged Prospect </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r100-off-no-tnis-ua-charged-prospect" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS100</span>
                         </a>
@@ -1165,7 +1165,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-cruizefem">
+                    <a href="/open/under-armour/coupons/r100-off-em-tnis-cruizefem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$100 OFF em tênis cruize_fem" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1173,7 +1173,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF em tênis cruize_fem</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-cruizefem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r100-off-em-tnis-cruizefem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UATENIS100</span>
                         </a>
@@ -1185,7 +1185,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-prospectfem">
+                    <a href="/open/under-armour/coupons/r50-off-em-tnis-prospectfem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$50 OFF em tênis prospect_fem" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1193,7 +1193,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF em tênis prospect_fem</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-prospectfem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r50-off-em-tnis-prospectfem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS50</span>
                         </a>
@@ -1205,7 +1205,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento">
+                    <a href="/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="15% OFF em todo o site exceto lançamento" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1214,7 +1214,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/15-off-em-todo-o-site-exceto-lanamento" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SHOPUA15</span>
                         </a>
@@ -1226,7 +1226,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse">
+                    <a href="/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$70 OFF no Tênis UA W Charged Impulse " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1234,7 +1234,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$70 OFF no Tênis UA W Charged Impulse </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r70-off-no-tnis-ua-w-charged-impulse" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS70</span>
                         </a>
@@ -1246,7 +1246,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvefem">
+                    <a href="/open/under-armour/coupons/r150-off-em-tnis-envolvefem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$150 OFF em tênis envolve_fem" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1254,7 +1254,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$150 OFF em tênis envolve_fem</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvefem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r150-off-em-tnis-envolvefem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS150</span>
                         </a>
@@ -1266,7 +1266,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinemasc">
+                    <a href="/open/under-armour/coupons/r100-off-em-tnis-skylinemasc">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$100 OFF em tênis skyline_masc" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1274,7 +1274,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF em tênis skyline_masc</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinemasc" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r100-off-em-tnis-skylinemasc" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UATENIS100</span>
                         </a>
@@ -1286,7 +1286,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvemasc">
+                    <a href="/open/under-armour/coupons/r150-off-em-tnis-envolvemasc">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$150 OFF em tênis envolve_masc" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1294,7 +1294,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$150 OFF em tênis envolve_masc</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r150-off-em-tnis-envolvemasc" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r150-off-em-tnis-envolvemasc" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS150</span>
                         </a>
@@ -1306,7 +1306,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit">
+                    <a href="/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$170 OFF em tênis Tênis HOVR Summit." className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1314,7 +1314,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$170 OFF em tênis Tênis HOVR Summit.</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r170-off-em-tnis-tnis-hovr-summit" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">HOVR170</span>
                         </a>
@@ -1326,7 +1326,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-odyssey">
+                    <a href="/open/under-armour/coupons/r170-off-em-tnis-odyssey">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$170 OFF em tênis odyssey" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1334,7 +1334,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$170 OFF em tênis odyssey</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-odyssey" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r170-off-em-tnis-odyssey" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS170</span>
                         </a>
@@ -1346,7 +1346,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinefem">
+                    <a href="/open/under-armour/coupons/r100-off-em-tnis-skylinefem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$100 OFF em tênis skyline_fem" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1354,7 +1354,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF em tênis skyline_fem</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-em-tnis-skylinefem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r100-off-em-tnis-skylinefem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UATENIS100</span>
                         </a>
@@ -1366,7 +1366,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadfem">
+                    <a href="/open/under-armour/coupons/r170-off-em-tnis-spreadfem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$170 OFF em tênis spread_fem " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1374,7 +1374,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$170 OFF em tênis spread_fem </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadfem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r170-off-em-tnis-spreadfem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS170</span>
                         </a>
@@ -1386,7 +1386,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos">
+                    <a href="/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="5%OFF em site todo inclusive lançamentos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1395,7 +1395,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/5off-em-site-todo-inclusive-lanamentos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UAPROMO5</span>
                         </a>
@@ -1407,7 +1407,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/15off-em-produtos-masculinos">
+                    <a href="/open/under-armour/coupons/15off-em-produtos-masculinos">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="15%OFF em produtos masculinos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1416,7 +1416,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/15off-em-produtos-masculinos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/15off-em-produtos-masculinos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UAMENS15</span>
                         </a>
@@ -1428,7 +1428,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-charged-skyline">
+                    <a href="/open/under-armour/coupons/r100-off-no-tnis-charged-skyline">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$100 OFF no tênis Charged Skyline. " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1436,7 +1436,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$100 OFF no tênis Charged Skyline. </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r100-off-no-tnis-charged-skyline" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r100-off-no-tnis-charged-skyline" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">SKY100</span>
                         </a>
@@ -1448,7 +1448,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-razefem">
+                    <a href="/open/under-armour/coupons/r50-off-em-tnis-razefem">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt=" R$50 OFF em tênis raze_fem" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1456,7 +1456,7 @@ export default function Index() {
                                         <h3 className="m-b-20"> R$50 OFF em tênis raze_fem</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-razefem" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r50-off-em-tnis-razefem" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS50</span>
                         </a>
@@ -1468,7 +1468,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-a-cada-r250-em-compras">
+                    <a href="/open/under-armour/coupons/r50-off-a-cada-r250-em-compras">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$50 OFF a cada R$250 em compras" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1476,7 +1476,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF a cada R$250 em compras</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r50-off-a-cada-r250-em-compras" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UNDERARMOUR50</span>
                         </a>
@@ -1488,7 +1488,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread">
+                    <a href="/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$120OFF no Tênis UA Charged Spread " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1496,7 +1496,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$120OFF no Tênis UA Charged Spread </h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r120off-no-tnis-ua-charged-spread" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS120</span>
                         </a>
@@ -1508,7 +1508,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-charged-cruize">
+                    <a href="/open/under-armour/coupons/r50-off-em-tnis-charged-cruize">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$50 OFF em Tênis Charged Cruize" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1516,7 +1516,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$50 OFF em Tênis Charged Cruize</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r50-off-em-tnis-charged-cruize" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r50-off-em-tnis-charged-cruize" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CRUIZE50</span>
                         </a>
@@ -1528,7 +1528,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos">
+                    <a href="/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="5%OFF Todo o site, incluindo lançamentos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1537,7 +1537,7 @@ export default function Index() {
                     <h1>5%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/5off-todo-o-site-incluindo-lanamentos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">UAPROMO5</span>
                         </a>
@@ -1549,7 +1549,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadmasc">
+                    <a href="/open/under-armour/coupons/r170-off-em-tnis-spreadmasc">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$170 OFF em tênis spread_masc" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1557,7 +1557,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$170 OFF em tênis spread_masc</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r170-off-em-tnis-spreadmasc" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r170-off-em-tnis-spreadmasc" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS170</span>
                         </a>
@@ -1569,7 +1569,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/under-armour/coupons/r90-off-em-tnis-carbonmasc">
+                    <a href="/open/under-armour/coupons/r90-off-em-tnis-carbonmasc">
                         <img src="http://ui.zanox.com/images/programs/18112/18112_lgo_under_armour_br_pausado_26-04-2017.jpg" alt="R$90 OFF em tênis carbon_masc" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -1577,7 +1577,7 @@ export default function Index() {
                                         <h3 className="m-b-20">R$90 OFF em tênis carbon_masc</h3>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/under-armour/coupons/r90-off-em-tnis-carbonmasc" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/under-armour/coupons/r90-off-em-tnis-carbonmasc" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">TENIS90</span>
                         </a>

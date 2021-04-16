@@ -258,7 +258,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos">
+                    <a href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos">
                         <img src="http://ui.zanox.com/images/programs/15949/15949_lgo_shoptimao_br.png" alt="15% OFF em todo site, exceto lançamentos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -267,7 +267,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-site-exceto-lanamentos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CLUBESAOPAULO15</span>
                         </a>
@@ -279,7 +279,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site">
+                    <a href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site">
                         <img src="http://ui.zanox.com/images/programs/15949/15949_lgo_shoptimao_br.png" alt="15% OFF em todo o site " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -288,7 +288,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---sao-paulo-mania/coupons/15-off-em-todo-o-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">CLUBESAOPAULO15</span>
                         </a>
@@ -300,7 +300,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site">
+                    <a href="/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site">
                         <img src="http://ui.zanox.com/images/programs/15949/15949_lgo_shoptimao_br.png" alt="10% OFF em todo o site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -309,7 +309,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---sao-paulo-mania/coupons/10-off-em-todo-o-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AWIN10</span>
                         </a>
@@ -321,7 +321,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-no-site">
+                    <a href="/open/netshoes---sao-paulo-mania/coupons/15-off-no-site">
                         <img src="http://ui.zanox.com/images/programs/15949/15949_lgo_shoptimao_br.png" alt="15% OFF no site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -330,7 +330,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---sao-paulo-mania/coupons/15-off-no-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AWIN15</span>
                         </a>

@@ -30,16 +30,16 @@ export default function Index() {
             
             
             
-            <div class="container">
-   <ol class="breadcrumb" data-selector=".bg.bg1, .breadcrumb">
+            <div className="container">
+   <ol className="breadcrumb" data-selector=".bg.bg1, .breadcrumb">
        <li><a href="/" data-selector="nav a, a.edit, .breadcrumb a, .breadcrumb span">Início</a></li>
-       <li class="active editContent">Politica de Privacidade</li>
+       <li className="active editContent">Politica de Privacidade</li>
    </ol>
 </div>
-<section class="terms-privacity">
-   <div class="container">
-       <div class="border-pad bg-white p-20-50 m-b-30">
-           <h3 class="m-b-60 c-yellow" data-selector="h3"><strong class="editContent">Política de Privacidade - Busca Descontos</strong></h3>
+<section className="terms-privacity">
+   <div className="container">
+       <div className="border-pad bg-white p-20-50 m-b-30">
+           <h3 className="m-b-60 c-yellow" data-selector="h3"><strong className="editContent">Política de Privacidade - Busca Descontos</strong></h3>
            
    <p>A&nbsp;<strong>BUSCA DESCONTOS SERVIÇOS DE MARKETING E PUBLICIDADE LTDA,&nbsp;</strong>pessoa jurídica de direito privado, inscrita no CNPJ sob nº 011.818.144/0001-76, &nbsp;proprietária dos sites www.buscadescontos.com.br&nbsp;e www.blackfriday.com.br (plataforma BLACKFRIDAY.COM.BR), &nbsp;tem ciência da confiança depositada por seus Usuários em sua veiculação de ofertas e descontos, e respeita a privacidade dos seus Usuários e com o objetivo de que todos entendam claramente como são tratados os seus dados, apresenta a Política de Privacidade de sua plataforma digital que está em conformidade com as normas internacionais e nacionais de proteção de dados.</p>
 

@@ -228,7 +228,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/nuuvem/coupons/9-off-em-seleo-de-jogos">
+                    <a href="/open/nuuvem/coupons/9-off-em-seleo-de-jogos">
                         <img src="http://ui.zanox.com/images/programs/17791/17791_lgo_nuuvem_br.png" alt="9% OFF em seleção de jogos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -237,7 +237,7 @@ export default function Index() {
                     <h1>9%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/9-off-em-seleo-de-jogos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/nuuvem/coupons/9-off-em-seleo-de-jogos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AUTOSAVE</span>
                         </a>
@@ -249,7 +249,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-seleo-de-jogos">
+                    <a href="/open/nuuvem/coupons/10-off-em-seleo-de-jogos">
                         <img src="http://ui.zanox.com/images/programs/17791/17791_lgo_nuuvem_br.png" alt="10% OFF em seleção de jogos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -258,7 +258,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-seleo-de-jogos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/nuuvem/coupons/10-off-em-seleo-de-jogos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NUUVEM10</span>
                         </a>
@@ -270,7 +270,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-produtos-selecionados">
+                    <a href="/open/nuuvem/coupons/10-off-em-produtos-selecionados">
                         <img src="http://ui.zanox.com/images/programs/17791/17791_lgo_nuuvem_br.png" alt="10% OFF em produtos selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -279,7 +279,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/nuuvem/coupons/10-off-em-produtos-selecionados" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/nuuvem/coupons/10-off-em-produtos-selecionados" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">NUUVEM10</span>
                         </a>

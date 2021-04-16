@@ -307,7 +307,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site-com-exceo">
+                    <a href="/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site-com-exceo">
                         <img src="http://ui.zanox.com/images/programs/15948/15948_lgo_shoptimao_br.png" alt="10% OFF em todo o site com exceção" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -316,7 +316,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site-com-exceo" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site-com-exceo" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AWIN10</span>
                         </a>
@@ -328,7 +328,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10off-no-site-exceto-camisas-i-ii-iii">
+                    <a href="/open/netshoes---shoptimao/coupons/10off-no-site-exceto-camisas-i-ii-iii">
                         <img src="http://ui.zanox.com/images/programs/15948/15948_lgo_shoptimao_br.png" alt="10%OFF no site exceto camisas I, II, III" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -337,7 +337,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10off-no-site-exceto-camisas-i-ii-iii" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shoptimao/coupons/10off-no-site-exceto-camisas-i-ii-iii" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VAICORINTHIANS</span>
                         </a>
@@ -349,7 +349,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site">
+                    <a href="/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site">
                         <img src="http://ui.zanox.com/images/programs/15948/15948_lgo_shoptimao_br.png" alt="10 OFF em todo o site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -358,7 +358,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shoptimao/coupons/10-off-em-todo-o-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label"> INVASAOPELASMINAS</span>
                         </a>
@@ -370,7 +370,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-toda-a-loja">
+                    <a href="/open/netshoes---shoptimao/coupons/10-off-em-toda-a-loja">
                         <img src="http://ui.zanox.com/images/programs/15948/15948_lgo_shoptimao_br.png" alt="10% OFF em toda a loja" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -379,7 +379,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-toda-a-loja" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shoptimao/coupons/10-off-em-toda-a-loja" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">VAICORINTHIANS</span>
                         </a>
@@ -391,7 +391,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-seleo-de-produtos">
+                    <a href="/open/netshoes---shoptimao/coupons/10-off-em-seleo-de-produtos">
                         <img src="http://ui.zanox.com/images/programs/15948/15948_lgo_shoptimao_br.png" alt="10% OFF em seleção de produtos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -400,7 +400,7 @@ export default function Index() {
                     <h1>10%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shoptimao/coupons/10-off-em-seleo-de-produtos" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shoptimao/coupons/10-off-em-seleo-de-produtos" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">LOUCOPORTI</span>
                         </a>

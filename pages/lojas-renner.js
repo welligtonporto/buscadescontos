@@ -573,7 +573,7 @@ export default function Index() {
 </p>
                                                             </div>
                                                         <div className="col-md-4 text-center">
-                                <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-sombrinhas-e-guarda-chuvas" className="btn-coupon">Ver Oferta</a>
+                                <a href="/open/lojas-renner/coupons/20-off-em-sombrinhas-e-guarda-chuvas" className="btn-coupon">Ver Oferta</a>
                             </div>
                                                     </div>
                     </div>
@@ -1051,10 +1051,10 @@ export default function Index() {
                                                                 <h2>Brinde: Na primeira compra</h2>  
                                                             </div>
                                                         <div className="col-md-4">
-                                <div class="btn-coupon-label-container m-0-auto">
-                                    <a class="btn-coupon-label btn-coupon-green" href="/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
-                                        <span class="txt-princ">Ver Oferta</span>
-                                        <span class="txt-label">Welcome</span>
+                                <div className="btn-coupon-label-container m-0-auto">
+                                    <a className="btn-coupon-label btn-coupon-green" href="/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
+                                        <span className="txt-princ">Ver Oferta</span>
+                                        <span className="txt-label">Welcome</span>
                                     </a>
                                 </div>
                             </div>
@@ -1064,417 +1064,417 @@ export default function Index() {
                             </div>
         </div>           
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-bijuterias">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Bijuterias&nbsp;" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/20-off-em-bijuterias">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Bijuterias&nbsp;" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20% OFF em Bijuterias&nbsp;</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-bijuterias" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BIJUS20</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/20-off-em-bijuterias" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">BIJUS20</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-produtos-masculinos">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em produtos masculinos" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/15-off-em-produtos-masculinos">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em produtos masculinos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF em produtos masculinos</h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-produtos-masculinos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">MASC15</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/15-off-em-produtos-masculinos" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">MASC15</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-em-moda-feminina">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF em Moda feminina" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/40-off-em-moda-feminina">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF em Moda feminina" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>40% OFF em Moda feminina</h3>
                     <h1>40%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-em-moda-feminina" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">40FEMININO</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/40-off-em-moda-feminina" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">40FEMININO</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-cachecol-mantas-e-lenos">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Cachecol, Mantas e Lenços" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/15-off-em-cachecol-mantas-e-lenos">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Cachecol, Mantas e Lenços" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF em Cachecol, Mantas e Lenços</h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-cachecol-mantas-e-lenos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">cachecol15</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/15-off-em-cachecol-mantas-e-lenos" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">cachecol15</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-culos">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em Óculos&nbsp;" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/10-off-em-culos">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em Óculos&nbsp;" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>10% OFF em Óculos&nbsp;</h3>
                     <h1>10%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-culos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">OCULOS10</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/10-off-em-culos" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">OCULOS10</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-apenas-para-lista-de-produtos">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF apenas para lista de produtos" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/20-off-apenas-para-lista-de-produtos">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF apenas para lista de produtos" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20% OFF apenas para lista de produtos</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-apenas-para-lista-de-produtos" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">EXTRA20</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/20-off-apenas-para-lista-de-produtos" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">EXTRA20</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-na-compra-de-2-peas-da-landing">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF na compra de 2 peças da landing" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/40-off-na-compra-de-2-peas-da-landing">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF na compra de 2 peças da landing" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>40% OFF na compra de 2 peças da landing</h3>
                     <h1>40%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-na-compra-de-2-peas-da-landing" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ESQUENTABF</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/40-off-na-compra-de-2-peas-da-landing" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">ESQUENTABF</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/25-off-em-lista-selecionada">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="25% OFF em lista selecionada " class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/25-off-em-lista-selecionada">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="25% OFF em lista selecionada " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>25% OFF em lista selecionada </h3>
                     <h1>25%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/25-off-em-lista-selecionada" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">Ganhei25</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/25-off-em-lista-selecionada" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">Ganhei25</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/brinde-na-primeira-compra">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Brinde: Na primeira compra" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/brinde-na-primeira-compra">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Brinde: Na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
-                                        <h3 class="m-b-20">Brinde: Na primeira compra</h3>
+                <div className="footer-coupon text-center">
+                                        <h3 className="m-b-20">Brinde: Na primeira compra</h3>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">Welcome</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">Welcome</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/brinde-na-primeira-compra">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Brinde: Na primeira compra" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/brinde-na-primeira-compra">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Brinde: Na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
-                                        <h3 class="m-b-20">Brinde: Na primeira compra</h3>
+                <div className="footer-coupon text-center">
+                                        <h3 className="m-b-20">Brinde: Na primeira compra</h3>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">Welcome</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/brinde-na-primeira-compra" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">Welcome</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-moda-praia">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Moda Praia" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/20-off-em-moda-praia">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Moda Praia" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20% OFF em Moda Praia</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-moda-praia" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BIQUINIS20</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/20-off-em-moda-praia" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">BIQUINIS20</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-blusas-e-camisetas">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Blusas e Camisetas" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/20-off-em-blusas-e-camisetas">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Blusas e Camisetas" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20% OFF em Blusas e Camisetas</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-blusas-e-camisetas" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BLUSAS20</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/20-off-em-blusas-e-camisetas" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">BLUSAS20</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-vestidos-e-macaces">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Vestidos e Macacões" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/20-off-em-vestidos-e-macaces">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="20% OFF em Vestidos e Macacões" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>20% OFF em Vestidos e Macacões</h3>
                     <h1>20%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/20-off-em-vestidos-e-macaces" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">PEÇAUNICA20</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/20-off-em-vestidos-e-macaces" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">PEÇAUNICA20</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-bolsas-selecionados">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Bolsas Selecionados" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/15-off-em-bolsas-selecionados">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Bolsas Selecionados" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF em Bolsas Selecionados</h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-bolsas-selecionados" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">BOLSA15</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/15-off-em-bolsas-selecionados" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">BOLSA15</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-em-moda-ntima">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF em Moda íntima" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/40-off-em-moda-ntima">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="40% OFF em Moda íntima" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>40% OFF em Moda íntima</h3>
                     <h1>40%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/40-off-em-moda-ntima" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">40MODAINTIMA</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/40-off-em-moda-ntima" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">40MODAINTIMA</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-moda-ntima">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em moda íntima" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/10-off-em-moda-ntima">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em moda íntima" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>10% OFF em moda íntima</h3>
                     <h1>10%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-moda-ntima" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">LINDA10</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/10-off-em-moda-ntima" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">LINDA10</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-moda-plus-size">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em moda plus size" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/10-off-em-moda-plus-size">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="10% OFF em moda plus size" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>10% OFF em moda plus size</h3>
                     <h1>10%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/10-off-em-moda-plus-size" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">ASHUA10</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/10-off-em-moda-plus-size" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">ASHUA10</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 coupon-without-discount">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/ganhe-brinde-na-primeira-compra">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Ganhe brinde na primeira compra" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 coupon-without-discount">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/ganhe-brinde-na-primeira-compra">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="Ganhe brinde na primeira compra" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
-                                        <h3 class="m-b-20">Ganhe brinde na primeira compra</h3>
+                <div className="footer-coupon text-center">
+                                        <h3 className="m-b-20">Ganhe brinde na primeira compra</h3>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/ganhe-brinde-na-primeira-compra" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">WELCOME</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/ganhe-brinde-na-primeira-compra" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">WELCOME</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-lista-selecionada">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em lista selecionada " class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/15-off-em-lista-selecionada">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em lista selecionada " className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF em lista selecionada </h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-lista-selecionada" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">15NAHORA</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/15-off-em-lista-selecionada" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">15NAHORA</span>
                         </a>
                     </div>                            
                                     </div>
             </div>
         </div>
          
-        <div class="col-sm-4 col-md-4">
-            <div class="coupon border-pad hide-768 m-b-20 ">
-                <div class="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-calados-femininos-selecionad">
-                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Calçados Femininos Selecionad" class="img-responsive m-0-auto" />  
+        <div className="col-sm-4 col-md-4">
+            <div className="coupon border-pad hide-768 m-b-20 ">
+                <div className="header-coupon">
+                    <a href="/open/lojas-renner/coupons/15-off-em-calados-femininos-selecionad">
+                        <img src="http://ui.zanox.com/images/programs/15541/15541_lgo_lojas_renner_br.jpg" alt="15% OFF em Calçados Femininos Selecionad" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
-                <div class="footer-coupon text-center">
+                <div className="footer-coupon text-center">
                                         <h3>15% OFF em Calçados Femininos Selecionad</h3>
                     <h1>15%</h1>
                                                                         
-                    <div class="btn-coupon-label-container m-0-auto">
-                        <a class="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/lojas-renner/coupons/15-off-em-calados-femininos-selecionad" target="_blank">
-                            <span class="txt-princ">Ver Oferta</span>
-                            <span class="txt-label">SHOES15</span>
+                    <div className="btn-coupon-label-container m-0-auto">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/lojas-renner/coupons/15-off-em-calados-femininos-selecionad" target="_blank">
+                            <span className="txt-princ">Ver Oferta</span>
+                            <span className="txt-label">SHOES15</span>
                         </a>
                     </div>                            
                                     </div>

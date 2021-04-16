@@ -130,7 +130,7 @@ export default function Index() {
         <div className="col-sm-4 col-md-4">
             <div className="coupon border-pad hide-768 m-b-20 ">
                 <div className="header-coupon">
-                    <a href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site">
+                    <a href="/open/netshoes---shop-vasco/coupons/15-off-no-site">
                         <img src="http://ui.zanox.com/images/programs/15952/15952_lgo_vila_do_santos_br.png" alt="15% OFF no site" className="img-responsive m-0-auto" />  
                     </a>    
                 </div>  
@@ -139,7 +139,7 @@ export default function Index() {
                     <h1>15%</h1>
                                                                         
                     <div className="btn-coupon-label-container m-0-auto">
-                        <a className="btn-coupon-label btn-coupon-border-white" href="https://www.buscadescontos.com.br/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
+                        <a className="btn-coupon-label btn-coupon-border-white" href="/open/netshoes---shop-vasco/coupons/15-off-no-site" target="_blank">
                             <span className="txt-princ">Ver Oferta</span>
                             <span className="txt-label">AWIN15</span>
                         </a>
